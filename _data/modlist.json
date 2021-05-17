@@ -144,6 +144,12 @@
     "name": "Map Reroll"
   },
   {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] Configurable Maps",
+    "steamId": "1507370392",
+    "version": "1.0.7529.18835"
+  },
+  {
     "author": "Oskar Potocki, Smash Phil",
     "name": "Vanilla Achievements Expanded",
     "steamId": "2288125657",
@@ -218,6 +224,10 @@
     "name": "A Dog Said... Animal Prosthetics"
   },
   {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Prosthetics"
+  },
+  {
     "author": "Troopersmith1 - Linq- deathrat",
     "name": "Death Rattle Continued [1.2]"
   },
@@ -225,7 +235,7 @@
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
-    "version": "2.9.2035"
+    "version": "2.9.2051"
   },
   {
     "author": "PeteTimesSix",
@@ -468,14 +478,10 @@
     "name": "Armor & UI Uncapper"
   },
   {
-    "author": "Vaniat",
-    "name": "Bulk Carrier",
-    "steamId": "1428989232",
+    "author": "Neronix17",
+    "name": "[O21] Carry Capacity Control",
+    "steamId": "2294328335",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Smash Phil | Dr_Zhivago",
-    "name": "Carry Capacity Fixed"
   },
   {
     "author": "legodude17",
@@ -756,6 +762,16 @@
     "name": "ReGrowth: Core - Fertile Fields patch "
   },
   {
+    "author": "Sihv",
+    "name": "Rim of Madness - Bones",
+    "steamId": "1180573408",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "Insects don't have bones"
+  },
+  {
     "author": "Zylle",
     "name": "Gemstones"
   },
@@ -766,6 +782,10 @@
   {
     "author": "H4nsH3inrich",
     "name": "Colorful Cloth - Basic Edition"
+  },
+  {
+    "author": "Poet",
+    "name": "Simple Material Weaves"
   },
   {
     "author": "ItchyFlea -> Qwynn -> Adventurer",
@@ -1334,6 +1354,14 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Super-Colliding Super Button",
+    "name": "Rim of Madness - Bones Enchantment"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons"
+  },
+  {
     "author": "Cosmo Corban",
     "name": "AI Upscaled Textures - Mods"
   },
@@ -1404,5 +1432,11 @@
   {
     "author": "mr_chimick",
     "name": "TwitchToolkit Bridge - Vanilla Events Expanded"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Trader ships",
+    "steamId": "2046222331",
+    "version": "1.0.350.0854"
   }
 ]
