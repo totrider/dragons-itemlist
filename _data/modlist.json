@@ -553,7 +553,7 @@
     "author": "Mlie",
     "name": "BoomMod Expanded",
     "steamId": "2359846788",
-    "version": "1.0.1.0"
+    "version": "1.0.2.0"
   },
   {
     "author": "Simmin",
@@ -591,7 +591,7 @@
     "author": "MarvinKosh",
     "name": "Combat Readiness Check (Continued)",
     "steamId": "2314304057",
-    "version": "1.0.0.0"
+    "version": "1.0.1.0"
   },
   {
     "author": "Dametri",
@@ -822,6 +822,22 @@
     "name": "Harvest Organs Post Mortem"
   },
   {
+    "author": "Y1NaLin",
+    "name": "Amrita - Age Reversing Serum"
+  },
+  {
+    "author": "Kikohi, Trunken",
+    "name": "Cybernetic Organism and Neural Network",
+    "steamId": "2045064990",
+    "version": "2.0.0.0"
+  },
+  {
+    "author": "Carnagion",
+    "name": "Artifacts Expanded",
+    "steamId": "2482885441",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Machine",
     "name": "Raise The Roof 1.2",
     "steamId": "1776143665",
@@ -848,6 +864,12 @@
   {
     "author": "Nif",
     "name": "Architect Expanded - Fences (Tab Patch)"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Doormats",
+    "steamId": "1508778962",
+    "version": "1.0.0.0"
   },
   {
     "author": "Murmur",
