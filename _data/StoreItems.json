@@ -17464,7 +17464,7 @@
       "abr": "passiongiver",
       "category": "Neurotrainers",
       "defname": "ANN_PassionGiver",
-      "price": 1833
+      "price": 6000
     },
     {
       "abr": "powerarm",
@@ -17488,7 +17488,7 @@
       "abr": "reconditioner",
       "category": "Neurotrainers",
       "defname": "ANN_Reconditioner",
-      "price": 1833
+      "price": 2500
     },
     {
       "abr": "roboticeye",
@@ -17518,7 +17518,7 @@
       "abr": "traitgiver",
       "category": "Neurotrainers",
       "defname": "ANN_TraitGiver",
-      "price": 1833
+      "price": 2500
     },
     {
       "abr": "zoom",
