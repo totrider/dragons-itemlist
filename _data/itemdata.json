@@ -2750,25 +2750,25 @@
     "Weight": 1.0
   },
   "Gazelle": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Iguana": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Dromedary": {
@@ -2827,25 +2827,25 @@
     "Weight": 1.0
   },
   "Lynx": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Cassowary": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Emu": {
@@ -2871,36 +2871,36 @@
     "Weight": 1.0
   },
   "Turkey": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Chicken": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Pig": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Cow": {
@@ -2915,14 +2915,14 @@
     "Weight": 1.0
   },
   "Alpaca": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Duck": {
@@ -2948,14 +2948,14 @@
     "Weight": 1.0
   },
   "Goat": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Goose": {
@@ -3003,14 +3003,14 @@
     "Weight": 1.0
   },
   "GuineaPig": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Donkey": {
@@ -3069,14 +3069,14 @@
     "Weight": 1.0
   },
   "Hare": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Snowhare": {
@@ -3091,14 +3091,14 @@
     "Weight": 1.0
   },
   "Megascarab": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Spelopede": {
@@ -3157,36 +3157,36 @@
     "Weight": 1.0
   },
   "Cat": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Squirrel": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Alphabeaver": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Capybara": {
@@ -3212,14 +3212,14 @@
     "Weight": 1.0
   },
   "Boomrat": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 40,
     "Weight": 1.0
   },
   "Raccoon": {
@@ -3234,14 +3234,14 @@
     "Weight": 1.0
   },
   "Rat": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Deer": {
@@ -3322,14 +3322,14 @@
     "Weight": 1.0
   },
   "Monkey": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Boomalope": {
@@ -3399,14 +3399,14 @@
     "Weight": 1.0
   },
   "Fox_Arctic": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "PsychicSensitizer": {
@@ -16246,14 +16246,14 @@
     "Weight": 1.0
   },
   "Astromite": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Save Our Ship 2",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Stellapede": {
@@ -19139,14 +19139,14 @@
     "Weight": 1.0
   },
   "Allosaurus": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Dinosauria",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Spinosaurus": {
@@ -19172,14 +19172,14 @@
     "Weight": 1.0
   },
   "Ankylosaurus": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Dinosauria",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "Minmi": {
@@ -20415,14 +20415,14 @@
     "Weight": 1.0
   },
   "AA_AcanthamoebaGiganteaSmall": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_AcanthamoebaGiganteaLarge": {
@@ -20448,14 +20448,14 @@
     "Weight": 1.0
   },
   "AA_Aerofleet": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_ColossalAerofleet": {
@@ -20470,58 +20470,58 @@
     "Weight": 1.0
   },
   "AA_Agaripawn": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_Agaripod": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_AngelMothLarva": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_AngelMoth": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_AnimaColossus": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_Animalisk": {
@@ -20558,14 +20558,14 @@
     "Weight": 1.0
   },
   "AA_LarvalAtispec": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_Atispec": {
@@ -20591,25 +20591,25 @@
     "Weight": 1.0
   },
   "AA_BedBug": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_BlackScarab": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_BlackSpelopede": {
@@ -20668,14 +20668,14 @@
     "Weight": 1.0
   },
   "AA_BoulderMit": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_SummitCrab": {
@@ -20690,25 +20690,25 @@
     "Weight": 1.0
   },
   "AA_Bumbledrone": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_BumbledroneHierophant": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_BumbledroneQueen": {
@@ -20723,14 +20723,14 @@
     "Weight": 1.0
   },
   "AA_Cactipine": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_ChameleonYak": {
@@ -20800,14 +20800,14 @@
     "Weight": 1.0
   },
   "AA_CrystalMit": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_Darkbeast": {
@@ -20855,14 +20855,14 @@
     "Weight": 1.0
   },
   "AA_DrainerLarva": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_Drainer": {
@@ -20899,14 +20899,14 @@
     "Weight": 1.0
   },
   "AA_DuskRat": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_Erin": {
@@ -20954,36 +20954,36 @@
     "Weight": 1.0
   },
   "AA_FissionMouse": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_FissionMouseSecond": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_FissionMouseThird": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_FlamingoPhoenix": {
@@ -21031,14 +21031,14 @@
     "Weight": 1.0
   },
   "AA_Frostmite": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_FungalHusk": {
@@ -21097,14 +21097,14 @@
     "Weight": 1.0
   },
   "AA_GreenGoo": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_GreyCoatedMouflon": {
@@ -21394,25 +21394,25 @@
     "Weight": 1.0
   },
   "AA_PhoenixOwlcat": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_Plasmorph": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_Radyak": {
@@ -21614,25 +21614,25 @@
     "Weight": 1.0
   },
   "AA_Swarmling": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_TarGuzzler": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "AA_TeratogenicOriginator": {
@@ -22098,14 +22098,14 @@
     "Weight": 1.0
   },
   "MM_Ahuizotl": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Magical Menagerie",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "MM_Basilisk": {
@@ -22340,14 +22340,14 @@
     "Weight": 1.0
   },
   "MM_WillOWisp": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Magical Menagerie",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "MM_Xiezhi": {
@@ -24518,14 +24518,14 @@
     "Weight": 1.0
   },
   "VFEI_VatgrownBoomtick": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Factions Expanded - Insectoids",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "VFEI_VatGrownCuterpillar": {
@@ -24606,14 +24606,14 @@
     "Weight": 1.0
   },
   "VFEI_VatgrownRoyalLarva": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Factions Expanded - Insectoids",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "VFEI_VatGrownRoyalMaggot": {
@@ -24672,14 +24672,14 @@
     "Weight": 1.0
   },
   "VFEI_VatGrownMegascarab": {
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Factions Expanded - Insectoids",
-    "QuantityLimit": -1,
+    "QuantityLimit": 4,
     "Weight": 1.0
   },
   "VFEI_VatgrownMegaspider": {
@@ -24866,28 +24866,6 @@
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Kit's VFE Weapons",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Leather_Lapelli": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Lapelli Race",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ALapelli": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Lapelli Race",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -26252,171 +26230,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Moyo-From the depth",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Catberryjuice": {
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CatnipJoint": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CatLavenderCloth": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CatnipLeaves": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CateyeBerries": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Leather_Orassan": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Leather_Ori": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Leather_Desiri": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "OTail": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "OClaws": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "OBionicTail": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Alien_OrassanHumanHybrid": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Alien_Orassan": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Ori": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Animal_Desiri": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -28466,39 +28279,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_Alien_OrassanHumanHybrid": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Alien_Orassan": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Ori": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Orassans Lite",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "Techprint_CataphractArmor": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29707,17 +29487,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "plumbingValve": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Dubs Bad Hygiene",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "BoneChair": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29902,6 +29671,1027 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Simple Material Weaves",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "O21_Alien_HalfOrc": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 1,
+    "Weight": 1.0
+  },
+  "Amrita": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Amrita - Age Reversing Serum",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DilutedAmrita": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Amrita - Age Reversing Serum",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_IndependentEye": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_EnergyLink": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_OuterBlade": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_PowerArms": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Shadowrunner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Exoskeleton": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Dermalplating": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Lionheart": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Zoom": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_EnergyFist": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_ElasticAchilles": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_CyclopsVisor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_LaserDetection": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_SensoricEarside": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_BerserkerChip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_BodyPartsArtificialtwist": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_MuseChip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_NeuroEnhancer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_CombatAI": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_EnergeticLung": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_EnergeticKidney": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_EnergyCore": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Autonomicviruskiller": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Aurum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_BlackPearl": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_HoverFeet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Greenthumb": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_CompressionJaw": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_CompressionStomach": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_FlashLight": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Musclewire": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_NeuromodBooster": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Brainwash": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_PassionGiver": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_TraitGiver": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "NeurotrainersClearer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ANN_Reconditioner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Cybernetic Organism and Neural Network",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MindSuppressor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Artifacts Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "PsychicChaosPulser": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Artifacts Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AntiPsychicPulser": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Artifacts Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MechSerumGrower": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Artifacts Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MechSerumAmnesiac": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Artifacts Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "NeurotrainerArchotech": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Artifacts Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Apparel_ArchotechSacrificerBelt": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Artifacts Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Apparel_PsychicCowardiceLance": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Artifacts Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatLeather": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatMediumLeather": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatBigLeather": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatLinkedLeather": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatRed": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatOrange": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatGreen": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatTeal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatBlue": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatMediumRed": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatMediumOrange": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatMediumGreen": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatMediumTeal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatMediumBlue": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatBigRed": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatBigOrange": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatBigGreen": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatBigTeal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatBigBlue": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatLinkedRed": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatLinkedOrange": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatLinkedGreen": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatLinkedTeal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "DoorMatLinkedBlue": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[SYR] Doormats",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Catberryjuice": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ALapelli": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Lapelli Race",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Leather_Lapelli": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Lapelli Race",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "plumbingValve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Dubs Bad Hygiene",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "CatnipJoint": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "CatLavenderCloth": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "CatnipLeaves": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "CateyeBerries": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Leather_Orassan": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Leather_Ori": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Leather_Desiri": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "OTail": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "OClaws": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "OBionicTail": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Alien_OrassanHumanHybrid": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Alien_Orassan": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Ori": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Animal_Desiri": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Meat_Alien_OrassanHumanHybrid": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Meat_Alien_Orassan": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Meat_Ori": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Orassans Lite",
     "QuantityLimit": -1,
     "Weight": 1.0
   }
