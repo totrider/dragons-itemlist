@@ -1954,19 +1954,19 @@
       "abr": "orbitalbombardmenttargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterBombardment",
-      "price": 2000
+      "price": 6000
     },
     {
       "abr": "orbitalmechclustertargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterMechCluster",
-      "price": 2000
+      "price": 6000
     },
     {
       "abr": "orbitalpowerbeamtargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterPowerBeam",
-      "price": 2000
+      "price": 6000
     },
     {
       "abr": "orbitaltradebeacon",
@@ -5029,12 +5029,6 @@
       "price": 1683
     },
     {
-      "abr": "bionicorassantail",
-      "category": "Alien tails (original)",
-      "defname": "OBionicTail",
-      "price": 2500
-    },
-    {
       "abr": "bionicshell",
       "category": "Animal Body Part",
       "defname": "AA_BionicShell",
@@ -5273,12 +5267,6 @@
       "category": "Skin",
       "defname": "VAE_Apparel_Blouse",
       "price": 126
-    },
-    {
-      "abr": "bluecatlily",
-      "category": "Textiles",
-      "defname": "CatLavenderCloth",
-      "price": 9
     },
     {
       "abr": "bluecheese",
@@ -5665,34 +5653,10 @@
       "price": 4
     },
     {
-      "abr": "catnipjoint",
-      "category": "Drugs",
-      "defname": "CatnipJoint",
-      "price": 23
-    },
-    {
-      "abr": "catnipleaves",
-      "category": "Plant matter",
-      "defname": "CatnipLeaves",
-      "price": 2
-    },
-    {
       "abr": "catoblepas",
       "category": "Animal",
       "defname": "MM_Catoblepas",
       "price": 667
-    },
-    {
-      "abr": "cat'seyeberries",
-      "category": "Vegetarian",
-      "defname": "CateyeBerries",
-      "price": 2
-    },
-    {
-      "abr": "cat'seyeberryjuice",
-      "category": "Drugs",
-      "defname": "Catberryjuice",
-      "price": 23
     },
     {
       "abr": "cecropialogs",
@@ -7031,18 +6995,6 @@
       "category": "Meat",
       "defname": "Meat_AA_DesertAve",
       "price": 3
-    },
-    {
-      "abr": "desiri",
-      "category": "Animal",
-      "defname": "Animal_Desiri",
-      "price": 333
-    },
-    {
-      "abr": "desirifur",
-      "category": "Leathers",
-      "defname": "Leather_Desiri",
-      "price": 8
     },
     {
       "abr": "desk",
@@ -9985,12 +9937,6 @@
       "price": 261
     },
     {
-      "abr": "lapelli",
-      "category": "Animal",
-      "defname": "ALapelli",
-      "price": -10
-    },
-    {
       "abr": "lapis",
       "category": "Gemstones",
       "defname": "Z_Lapis",
@@ -10993,12 +10939,6 @@
       "price": 13
     },
     {
-      "abr": "mirleather",
-      "category": "Leathers",
-      "defname": "Leather_Lapelli",
-      "price": 13
-    },
-    {
       "abr": "missilelauncher",
       "category": "Security",
       "defname": "NestMissile",
@@ -11014,7 +10954,7 @@
       "abr": "mjollnirstriketargeter",
       "category": "Utility",
       "defname": "VFEV_OrbitalTargeterMjollnir",
-      "price": 2000
+      "price": 6000
     },
     {
       "abr": "mobileturretchargingstation",
@@ -11134,7 +11074,7 @@
       "abr": "moribundgallatross",
       "category": "Animal",
       "defname": "AA_GallatrossMoribund",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "moribundgallatrossmeat",
@@ -11569,18 +11509,6 @@
       "price": 3
     },
     {
-      "abr": "neko",
-      "category": "Animal",
-      "defname": "Alien_OrassanHumanHybrid",
-      "price": -10
-    },
-    {
-      "abr": "nekomeat",
-      "category": "Meat",
-      "defname": "Meat_Alien_OrassanHumanHybrid",
-      "price": 3
-    },
-    {
       "abr": "neuro-cureframework",
       "category": "Ultratech",
       "defname": "NeurocureFramework",
@@ -11833,58 +11761,10 @@
       "price": 2
     },
     {
-      "abr": "orassan",
-      "category": "Animal",
-      "defname": "Alien_Orassan",
-      "price": -10
-    },
-    {
-      "abr": "orassanclaws",
-      "category": "Natural",
-      "defname": "OClaws",
-      "price": 333
-    },
-    {
-      "abr": "orassanfur",
-      "category": "Leathers",
-      "defname": "Leather_Orassan",
-      "price": 8
-    },
-    {
-      "abr": "orassanmeat",
-      "category": "Meat",
-      "defname": "Meat_Alien_Orassan",
-      "price": 3
-    },
-    {
-      "abr": "orassantail",
-      "category": "Natural",
-      "defname": "OTail",
-      "price": 333
-    },
-    {
       "abr": "organicoptimizingnanobots",
       "category": "Organic optimizer",
       "defname": "EPOE_OrganicOptimizingNanobots",
       "price": 1883
-    },
-    {
-      "abr": "ori",
-      "category": "Animal",
-      "defname": "Ori",
-      "price": 917
-    },
-    {
-      "abr": "orifur",
-      "category": "Leathers",
-      "defname": "Leather_Ori",
-      "price": 7
-    },
-    {
-      "abr": "orimeat",
-      "category": "Meat",
-      "defname": "Meat_Ori",
-      "price": 3
     },
     {
       "abr": "orichalcum",
@@ -17075,7 +16955,577 @@
       "category": "Simple parts",
       "defname": "WoodenToe",
       "price": 53
+    },
+    {
+      "abr": "amnesiacmechserum",
+      "category": "Items",
+      "defname": "MechSerumAmnesiac",
+      "price": 1667
+    },
+    {
+      "abr": "amrita",
+      "category": "Drugs",
+      "defname": "Amrita",
+      "price": 2500
+    },
+    {
+      "abr": "anti-psychicpulser",
+      "category": "Artifacts",
+      "defname": "AntiPsychicPulser",
+      "price": 1417
+    },
+    {
+      "abr": "archotechneurotrainer",
+      "category": "Skilltrainers",
+      "defname": "NeurotrainerArchotech",
+      "price": 2000
+    },
+    {
+      "abr": "archotechsacrificerbelt",
+      "category": "Utility",
+      "defname": "Apparel_ArchotechSacrificerBelt",
+      "price": 3667
+    },
+    {
+      "abr": "aurum",
+      "category": "Cybernetic",
+      "defname": "ANN_Aurum",
+      "price": 2133
+    },
+    {
+      "abr": "autonomicviruskiller",
+      "category": "Cybernetic",
+      "defname": "ANN_Autonomicviruskiller",
+      "price": 3542
+    },
+    {
+      "abr": "berserkerchip",
+      "category": "Cybernetic",
+      "defname": "ANN_BerserkerChip",
+      "price": 1692
+    },
+    {
+      "abr": "blackpearl",
+      "category": "Cybernetic",
+      "defname": "ANN_BlackPearl",
+      "price": 2242
+    },
+    {
+      "abr": "brainwash",
+      "category": "Neurotrainers",
+      "defname": "ANN_Brainwash",
+      "price": 1833
+    },
+    {
+      "abr": "combatai",
+      "category": "Cybernetic",
+      "defname": "ANN_CombatAI",
+      "price": 9358
+    },
+    {
+      "abr": "compressionjaw",
+      "category": "Cybernetic",
+      "defname": "ANN_CompressionJaw",
+      "price": 1542
+    },
+    {
+      "abr": "compressionstomach",
+      "category": "Cybernetic",
+      "defname": "ANN_CompressionStomach",
+      "price": 1975
+    },
+    {
+      "abr": "cyclopsvisor",
+      "category": "Cybernetic",
+      "defname": "ANN_CyclopsVisor",
+      "price": 2508
+    },
+    {
+      "abr": "dermalplating",
+      "category": "Cybernetic",
+      "defname": "ANN_Dermalplating",
+      "price": 2792
+    },
+    {
+      "abr": "dilutedamrita",
+      "category": "Drugs",
+      "defname": "DilutedAmrita",
+      "price": 750
+    },
+    {
+      "abr": "doormat",
+      "category": "Furniture",
+      "defname": "DoorMatLeather",
+      "price": 8
+    },
+    {
+      "abr": "doormat(blue)",
+      "category": "Furniture",
+      "defname": "DoorMatBlue",
+      "price": 8
+    },
+    {
+      "abr": "doormat(green)",
+      "category": "Furniture",
+      "defname": "DoorMatGreen",
+      "price": 8
+    },
+    {
+      "abr": "doormat(orange)",
+      "category": "Furniture",
+      "defname": "DoorMatOrange",
+      "price": 8
+    },
+    {
+      "abr": "doormat(red)",
+      "category": "Furniture",
+      "defname": "DoorMatRed",
+      "price": 8
+    },
+    {
+      "abr": "doormat(teal)",
+      "category": "Furniture",
+      "defname": "DoorMatTeal",
+      "price": 8
+    },
+    {
+      "abr": "elasticachilles",
+      "category": "Cybernetic",
+      "defname": "ANN_ElasticAchilles",
+      "price": 1867
+    },
+    {
+      "abr": "energetickidney",
+      "category": "Cybernetic",
+      "defname": "ANN_EnergeticKidney",
+      "price": 2600
+    },
+    {
+      "abr": "energeticlung",
+      "category": "Cybernetic",
+      "defname": "ANN_EnergeticLung",
+      "price": 1967
+    },
+    {
+      "abr": "energycore",
+      "category": "Cybernetic",
+      "defname": "ANN_EnergyCore",
+      "price": 3675
+    },
+    {
+      "abr": "energyfist",
+      "category": "Cybernetic",
+      "defname": "ANN_EnergyFist",
+      "price": 2008
+    },
+    {
+      "abr": "energylink",
+      "category": "Cybernetic",
+      "defname": "ANN_EnergyLink",
+      "price": 3483
+    },
+    {
+      "abr": "exoskeletonarmor",
+      "category": "Cybernetic",
+      "defname": "ANN_Exoskeleton",
+      "price": 2758
+    },
+    {
+      "abr": "flashlight",
+      "category": "Cybernetic",
+      "defname": "ANN_FlashLight",
+      "price": 1433
+    },
+    {
+      "abr": "greenthumb",
+      "category": "Cybernetic",
+      "defname": "ANN_Greenthumb",
+      "price": 842
+    },
+    {
+      "abr": "growermechserum",
+      "category": "Items",
+      "defname": "MechSerumGrower",
+      "price": 1833
+    },
+    {
+      "abr": "hoverfeet",
+      "category": "Cybernetic",
+      "defname": "ANN_HoverFeet",
+      "price": 1758
+    },
+    {
+      "abr": "largecolorfuldoormat",
+      "category": "Furniture",
+      "defname": "H4H3DoorMatBigLeather",
+      "price": 20
+    },
+    {
+      "abr": "largedoormat",
+      "category": "Furniture",
+      "defname": "DoorMatBigLeather",
+      "price": 20
+    },
+    {
+      "abr": "largedoormat(blue)",
+      "category": "Furniture",
+      "defname": "DoorMatBigBlue",
+      "price": 20
+    },
+    {
+      "abr": "largedoormat(green)",
+      "category": "Furniture",
+      "defname": "DoorMatBigGreen",
+      "price": 20
+    },
+    {
+      "abr": "largedoormat(orange)",
+      "category": "Furniture",
+      "defname": "DoorMatBigOrange",
+      "price": 20
+    },
+    {
+      "abr": "largedoormat(red)",
+      "category": "Furniture",
+      "defname": "DoorMatBigRed",
+      "price": 20
+    },
+    {
+      "abr": "largedoormat(teal)",
+      "category": "Furniture",
+      "defname": "DoorMatBigTeal",
+      "price": 20
+    },
+    {
+      "abr": "laserdetection",
+      "category": "Cybernetic",
+      "defname": "ANN_LaserDetection",
+      "price": 1992
+    },
+    {
+      "abr": "linkedcolorfuldoormat",
+      "category": "Furniture",
+      "defname": "H4H3DoorMatLinkedLeather",
+      "price": 8
+    },
+    {
+      "abr": "linkeddoormat",
+      "category": "Furniture",
+      "defname": "DoorMatLinkedLeather",
+      "price": 8
+    },
+    {
+      "abr": "linkeddoormat(blue)",
+      "category": "Furniture",
+      "defname": "DoorMatLinkedBlue",
+      "price": 8
+    },
+    {
+      "abr": "linkeddoormat(green)",
+      "category": "Furniture",
+      "defname": "DoorMatLinkedGreen",
+      "price": 8
+    },
+    {
+      "abr": "linkeddoormat(orange)",
+      "category": "Furniture",
+      "defname": "DoorMatLinkedOrange",
+      "price": 8
+    },
+    {
+      "abr": "linkeddoormat(red)",
+      "category": "Furniture",
+      "defname": "DoorMatLinkedRed",
+      "price": 8
+    },
+    {
+      "abr": "linkeddoormat(teal)",
+      "category": "Furniture",
+      "defname": "DoorMatLinkedTeal",
+      "price": 8
+    },
+    {
+      "abr": "lionheart",
+      "category": "Cybernetic",
+      "defname": "ANN_Lionheart",
+      "price": 2733
+    },
+    {
+      "abr": "mediumcolorfuldoormat",
+      "category": "Furniture",
+      "defname": "H4H3DoorMatMediumLeather",
+      "price": 13
+    },
+    {
+      "abr": "mediumdoormat",
+      "category": "Furniture",
+      "defname": "DoorMatMediumLeather",
+      "price": 13
+    },
+    {
+      "abr": "mediumdoormat(blue)",
+      "category": "Furniture",
+      "defname": "DoorMatMediumBlue",
+      "price": 13
+    },
+    {
+      "abr": "mediumdoormat(green)",
+      "category": "Furniture",
+      "defname": "DoorMatMediumGreen",
+      "price": 13
+    },
+    {
+      "abr": "mediumdoormat(orange)",
+      "category": "Furniture",
+      "defname": "DoorMatMediumOrange",
+      "price": 13
+    },
+    {
+      "abr": "mediumdoormat(red)",
+      "category": "Furniture",
+      "defname": "DoorMatMediumRed",
+      "price": 13
+    },
+    {
+      "abr": "mediumdoormat(teal)",
+      "category": "Furniture",
+      "defname": "DoorMatMediumTeal",
+      "price": 13
+    },
+    {
+      "abr": "mindclearer",
+      "category": "Neurotrainers",
+      "defname": "NeurotrainersClearer",
+      "price": 2000
+    },
+    {
+      "abr": "mindsuppressor",
+      "category": "Archotech",
+      "defname": "MindSuppressor",
+      "price": 5333
+    },
+    {
+      "abr": "mindtwist",
+      "category": "Cybernetic",
+      "defname": "ANN_BodyPartsArtificialtwist",
+      "price": 2433
+    },
+    {
+      "abr": "musclewire",
+      "category": "Cybernetic",
+      "defname": "ANN_Musclewire",
+      "price": 2075
+    },
+    {
+      "abr": "bionicorassantail",
+      "category": "Alien tails (original)",
+      "defname": "OBionicTail",
+      "price": 1150
+    },
+    {
+      "abr": "bluecatlily",
+      "category": "Textiles",
+      "defname": "CatLavenderCloth",
+      "price": 9
+    },
+    {
+      "abr": "catnipjoint",
+      "category": "Drugs",
+      "defname": "CatnipJoint",
+      "price": 23
+    },
+    {
+      "abr": "catnipleaves",
+      "category": "Plant matter",
+      "defname": "CatnipLeaves",
+      "price": 2
+    },
+    {
+      "abr": "cat'seyeberries",
+      "category": "Vegetarian",
+      "defname": "CateyeBerries",
+      "price": 2
+    },
+    {
+      "abr": "cat'seyeberryjuice",
+      "category": "Drugs",
+      "defname": "Catberryjuice",
+      "price": 23
+    },
+    {
+      "abr": "desiri",
+      "category": "Animal",
+      "defname": "Animal_Desiri",
+      "price": 333
+    },
+    {
+      "abr": "desirifur",
+      "category": "Leathers",
+      "defname": "Leather_Desiri",
+      "price": 8
+    },
+    {
+      "abr": "lapelli",
+      "category": "Animal",
+      "defname": "ALapelli",
+      "price": -10
+    },
+    {
+      "abr": "mirleather",
+      "category": "Leathers",
+      "defname": "Leather_Lapelli",
+      "price": 13
+    },
+    {
+      "abr": "musechip",
+      "category": "Cybernetic",
+      "defname": "ANN_MuseChip",
+      "price": 2742
+    },
+    {
+      "abr": "neko",
+      "category": "Animal",
+      "defname": "Alien_OrassanHumanHybrid",
+      "price": -10
+    },
+    {
+      "abr": "nekomeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_OrassanHumanHybrid",
+      "price": 3
+    },
+    {
+      "abr": "neuroenhancer",
+      "category": "Cybernetic",
+      "defname": "ANN_NeuroEnhancer",
+      "price": 2508
+    },
+    {
+      "abr": "neuromodbooster",
+      "category": "Neurotrainers",
+      "defname": "ANN_NeuromodBooster",
+      "price": 3333
+    },
+    {
+      "abr": "orassan",
+      "category": "Animal",
+      "defname": "Alien_Orassan",
+      "price": -10
+    },
+    {
+      "abr": "orassanclaws",
+      "category": "Natural",
+      "defname": "OClaws",
+      "price": 333
+    },
+    {
+      "abr": "orassanfur",
+      "category": "Leathers",
+      "defname": "Leather_Orassan",
+      "price": 8
+    },
+    {
+      "abr": "orassanmeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Orassan",
+      "price": 3
+    },
+    {
+      "abr": "orassantail",
+      "category": "Natural",
+      "defname": "OTail",
+      "price": 333
+    },
+    {
+      "abr": "ori",
+      "category": "Animal",
+      "defname": "Ori",
+      "price": 917
+    },
+    {
+      "abr": "orifur",
+      "category": "Leathers",
+      "defname": "Leather_Ori",
+      "price": 7
+    },
+    {
+      "abr": "orimeat",
+      "category": "Meat",
+      "defname": "Meat_Ori",
+      "price": 3
+    },
+    {
+      "abr": "outerblade",
+      "category": "Cybernetic",
+      "defname": "ANN_OuterBlade",
+      "price": 3675
+    },
+    {
+      "abr": "passiongiver",
+      "category": "Neurotrainers",
+      "defname": "ANN_PassionGiver",
+      "price": 1833
+    },
+    {
+      "abr": "powerarm",
+      "category": "Cybernetic",
+      "defname": "ANN_PowerArms",
+      "price": 4008
+    },
+    {
+      "abr": "psychicchaospulser",
+      "category": "Artifacts",
+      "defname": "PsychicChaosPulser",
+      "price": 1333
+    },
+    {
+      "abr": "psychicfearlance",
+      "category": "Utility",
+      "defname": "Apparel_PsychicCowardiceLance",
+      "price": 1000
+    },
+    {
+      "abr": "reconditioner",
+      "category": "Neurotrainers",
+      "defname": "ANN_Reconditioner",
+      "price": 1833
+    },
+    {
+      "abr": "roboticeye",
+      "category": "Cybernetic",
+      "defname": "ANN_IndependentEye",
+      "price": 3125
+    },
+    {
+      "abr": "sensoricearside",
+      "category": "Cybernetic",
+      "defname": "ANN_SensoricEarside",
+      "price": 2175
+    },
+    {
+      "abr": "shadowrunner",
+      "category": "Cybernetic",
+      "defname": "ANN_Shadowrunner",
+      "price": 2958
+    },
+    {
+      "abr": "smallcolorfuldoormat",
+      "category": "Furniture",
+      "defname": "H4H3DoorMat",
+      "price": 8
+    },
+    {
+      "abr": "traitgiver",
+      "category": "Neurotrainers",
+      "defname": "ANN_TraitGiver",
+      "price": 1833
+    },
+    {
+      "abr": "zoom",
+      "category": "Cybernetic",
+      "defname": "ANN_Zoom",
+      "price": 2642
     }
   ],
-  "total": 2846
+  "total": 2921
 }
