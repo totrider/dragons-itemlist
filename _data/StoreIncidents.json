@@ -127,7 +127,7 @@
 	},
 	{
 		"abr": "orbitaltraderarrival",
-		"price": 360,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -164,11 +164,6 @@
 		"abr": "farmanimals",
 		"price": 400,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 360,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rarethrumbos",
@@ -431,5 +426,5 @@
 		"karmatype": "Bad"
 	}
 	],
-	"total": 86
+	"total": 85
 }
