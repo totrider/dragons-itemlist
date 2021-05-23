@@ -162,6 +162,10 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn"
+  },
+  {
     "author": "Helixien, Taranchuk, Alastair",
     "name": "ReGrowth: Core",
     "steamId": "2260097569",
@@ -256,6 +260,10 @@
     "name": "Less Arbitrary Surgery (Continued)"
   },
   {
+    "author": "JBloodthorn",
+    "name": "No Lazy Doctors"
+  },
+  {
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
@@ -322,6 +330,10 @@
     "name": "RimHUD"
   },
   {
+    "author": "gguake",
+    "name": "Simple Search Bar"
+  },
+  {
     "author": "PorqueNoLosDos (Updated By CrashM)",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
@@ -358,6 +370,12 @@
     "name": "Export Agency",
     "steamId": "1467209473",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.3.823"
   },
   {
     "author": "Spdskatr, CaesarV6",
@@ -468,6 +486,12 @@
     "name": "Un-Limited"
   },
   {
+    "author": "Mlie",
+    "name": "Ding On Game Loaded",
+    "steamId": "2425530959",
+    "version": "1.0.2.0"
+  },
+  {
     "author": "iwishforducks",
     "name": "Ducks' Insane Skills",
     "steamId": "2450186578",
@@ -488,6 +512,18 @@
     "name": "Quality Colors",
     "steamId": "2420141361",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Area Unlocker",
+    "steamId": "725153576",
+    "version": "3.14.109"
+  },
+  {
+    "author": "mr_chimick",
+    "name": "Too Many Areas",
+    "steamId": "2316018203",
+    "version": "1.0"
   },
   {
     "author": "Roolo",
@@ -522,8 +558,8 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "JBloodthorn",
-    "name": "No Lazy Doctors"
+    "author": "Roolo",
+    "name": "Search and Destroy"
   },
   {
     "author": "Andreas Pardeike",
@@ -680,6 +716,12 @@
     "name": "Let's Trade! [Continued]"
   },
   {
+    "author": "AUTOMATIC",
+    "name": "Trader ships",
+    "steamId": "2046222331",
+    "version": "1.0.350.0854"
+  },
+  {
     "author": "123nick",
     "name": "Pawns are Drowning",
     "steamId": "2297023539",
@@ -708,6 +750,12 @@
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
+  },
+  {
+    "author": "Dametri",
+    "name": "[D] Arcane Technology",
+    "steamId": "2106703025",
+    "version": "1.0.0.0"
   },
   {
     "author": "jskyn",
@@ -778,6 +826,12 @@
   {
     "author": "MercuryDoll / original by Agracore",
     "name": "Fantasy Metals Reforged"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Doormats",
+    "steamId": "1508778962",
+    "version": "1.0.0.0"
   },
   {
     "author": "H4nsH3inrich",
@@ -864,12 +918,6 @@
   {
     "author": "Nif",
     "name": "Architect Expanded - Fences (Tab Patch)"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Doormats",
-    "steamId": "1508778962",
-    "version": "1.0.0.0"
   },
   {
     "author": "Murmur",
@@ -1099,7 +1147,7 @@
     "author": "jptrrs",
     "name": "[JPT] Open The Windows",
     "steamId": "1971860929",
-    "version": "2.2.0"
+    "version": "2.2.4"
   },
   {
     "author": "Mic (original by jptrrs)",
@@ -1414,12 +1462,6 @@
     "name": "Toony Terrain Textures"
   },
   {
-    "author": "CaptainPootis",
-    "name": "RuntimeGC",
-    "steamId": "2228430510",
-    "version": "20.0.15.1"
-  },
-  {
     "author": "MrKociak",
     "name": "Loot Boxes retexture"
   },
@@ -1456,9 +1498,9 @@
     "name": "TwitchToolkit Bridge - Vanilla Events Expanded"
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Trader ships",
-    "steamId": "2046222331",
-    "version": "1.0.350.0854"
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.1015"
   }
 ]
