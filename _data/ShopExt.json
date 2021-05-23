@@ -9,7 +9,7 @@
       "degree": 0,
       "name": "abrasive",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -17,7 +17,7 @@
       "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -28,7 +28,7 @@
       "degree": 0,
       "name": "absent-minded",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "workaholic",
           "industrious",
@@ -48,7 +48,7 @@
         "lazy",
         "slothful"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -59,7 +59,7 @@
       "degree": 0,
       "name": "abstinent",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "ravenous"
         ],
@@ -71,7 +71,7 @@
       "conflicts": [
         "ravenous"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -82,7 +82,7 @@
       "degree": 0,
       "name": "academian",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -98,7 +98,7 @@
         "+20% medical tend quality"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -109,7 +109,7 @@
       "degree": 0,
       "name": "animalhater",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "animallover",
           "menagerist"
@@ -123,7 +123,7 @@
         "animallover",
         "menagerist"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -134,7 +134,7 @@
       "degree": 0,
       "name": "animallover",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "animalhater"
         ],
@@ -146,7 +146,7 @@
       "conflicts": [
         "animalhater"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -157,7 +157,7 @@
       "degree": 0,
       "name": "annoyingvoice",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -165,7 +165,7 @@
       "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -176,7 +176,7 @@
       "degree": 0,
       "name": "anxious",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "fun-loving"
         ],
@@ -192,7 +192,7 @@
       "conflicts": [
         "fun-loving"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -203,7 +203,7 @@
       "degree": 0,
       "name": "ascetic",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "greedy",
           "jealous",
@@ -225,7 +225,7 @@
         "jealous",
         "gourmand"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -236,7 +236,7 @@
       "degree": 0,
       "name": "asexual",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -244,7 +244,7 @@
       "description": "Timmy has no sexual attraction to anyone at all.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -255,7 +255,7 @@
       "degree": 0,
       "name": "athletic",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "stiff"
         ],
@@ -273,7 +273,7 @@
       "conflicts": [
         "stiff"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -284,7 +284,7 @@
       "degree": 2,
       "name": "beautiful",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -296,7 +296,7 @@
         "+2.0 beauty"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -307,7 +307,7 @@
       "degree": 0,
       "name": "big-boned",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -315,7 +315,7 @@
       "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -326,7 +326,7 @@
       "degree": 0,
       "name": "bisexual",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -334,7 +334,7 @@
       "description": "Timmy is romantically attracted to both men and women.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -345,7 +345,7 @@
       "degree": 0,
       "name": "bloodlust",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -357,7 +357,7 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -368,7 +368,7 @@
       "degree": 0,
       "name": "bodypurist",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "transhumanist"
         ],
@@ -380,7 +380,7 @@
       "conflicts": [
         "transhumanist"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -391,7 +391,7 @@
       "degree": 0,
       "name": "brave",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "wimp",
           "coward"
@@ -411,7 +411,7 @@
         "wimp",
         "coward"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -422,7 +422,7 @@
       "degree": 0,
       "name": "brawler",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "carefulshooter",
           "trigger-happy",
@@ -448,7 +448,7 @@
         "trigger-happy",
         "wimp"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -459,7 +459,7 @@
       "degree": 0,
       "name": "cannibal",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -471,7 +471,7 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -482,7 +482,7 @@
       "degree": 1,
       "name": "carefulshooter",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "brawler"
         ],
@@ -500,7 +500,7 @@
       "conflicts": [
         "brawler"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -511,7 +511,7 @@
       "degree": 0,
       "name": "catperson",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "dogperson"
         ],
@@ -523,7 +523,7 @@
       "conflicts": [
         "dogperson"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -534,7 +534,7 @@
       "degree": 2,
       "name": "chemicalfascination",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -542,7 +542,7 @@
       "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -553,7 +553,7 @@
       "degree": 1,
       "name": "chemicalinterest",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -561,7 +561,7 @@
       "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -572,7 +572,7 @@
       "degree": 0,
       "name": "chronicallyill",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "healthy"
         ],
@@ -592,7 +592,7 @@
       "conflicts": [
         "healthy"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -603,7 +603,7 @@
       "degree": 0,
       "name": "clumsy",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "nimble"
         ],
@@ -615,7 +615,7 @@
       "conflicts": [
         "nimble"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -626,7 +626,7 @@
       "degree": 0,
       "name": "clumsy",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "coordinated"
         ],
@@ -646,7 +646,7 @@
       "conflicts": [
         "coordinated"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -657,7 +657,7 @@
       "degree": 0,
       "name": "coldinclined",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "heatinclined"
         ],
@@ -673,7 +673,7 @@
       "conflicts": [
         "heatinclined"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -684,7 +684,7 @@
       "degree": 0,
       "name": "coldintolerant",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "coldtolerant"
         ],
@@ -700,7 +700,7 @@
       "conflicts": [
         "coldtolerant"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -711,7 +711,7 @@
       "degree": 0,
       "name": "coldtolerant",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "coldintolerant"
         ],
@@ -727,7 +727,7 @@
       "conflicts": [
         "coldintolerant"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -738,7 +738,7 @@
       "degree": 0,
       "name": "composed",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "rowdy"
         ],
@@ -754,7 +754,7 @@
       "conflicts": [
         "rowdy"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -765,7 +765,7 @@
       "degree": 0,
       "name": "coordinated",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "clumsy"
         ],
@@ -785,7 +785,7 @@
       "conflicts": [
         "clumsy"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -796,7 +796,7 @@
       "degree": 0,
       "name": "couchpotato",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -804,7 +804,7 @@
       "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -815,7 +815,7 @@
       "degree": 0,
       "name": "coward",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "brawler",
           "brave",
@@ -831,7 +831,7 @@
         "brave",
         "bloodlust"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -842,7 +842,7 @@
       "degree": 0,
       "name": "creepybreathing",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -850,7 +850,7 @@
       "description": "Timmy breathes heavily all the time, and sweats constantly. People find it creepy.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -861,7 +861,7 @@
       "degree": -2,
       "name": "depressive",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -869,7 +869,7 @@
       "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -880,7 +880,7 @@
       "degree": 0,
       "name": "desensitized",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "squeamish"
         ],
@@ -892,7 +892,7 @@
       "conflicts": [
         "squeamish"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -903,7 +903,7 @@
       "degree": 0,
       "name": "dogperson",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "catperson"
         ],
@@ -915,7 +915,7 @@
       "conflicts": [
         "catperson"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -926,7 +926,7 @@
       "degree": 0,
       "name": "drunkenmaster",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -938,7 +938,7 @@
         "+4 melee"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -949,7 +949,7 @@
       "degree": 0,
       "name": "dunce",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "fastlearner",
           "toosmart",
@@ -973,7 +973,7 @@
         "eccentric",
         "prodigy"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -984,7 +984,7 @@
       "degree": 0,
       "name": "eccentric",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "dunce"
         ],
@@ -1000,7 +1000,7 @@
       "conflicts": [
         "dunce"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1011,7 +1011,7 @@
       "degree": 0,
       "name": "ecologist",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -1029,7 +1029,7 @@
         "+20% butchery efficiency"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1040,7 +1040,7 @@
       "degree": 0,
       "name": "efficient",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "inefficient"
         ],
@@ -1058,7 +1058,7 @@
       "conflicts": [
         "inefficient"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1069,7 +1069,7 @@
       "degree": 0,
       "name": "energetic",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "sluggish"
         ],
@@ -1087,7 +1087,7 @@
       "conflicts": [
         "sluggish"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1098,7 +1098,7 @@
       "degree": 0,
       "name": "farsighted",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "nearsighted"
         ],
@@ -1124,7 +1124,7 @@
       "conflicts": [
         "nearsighted"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1135,7 +1135,7 @@
       "degree": 0,
       "name": "fastlearner",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -1147,7 +1147,7 @@
         "+75% global learning factor"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1158,7 +1158,7 @@
       "degree": 1,
       "name": "fastwalker",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -1170,7 +1170,7 @@
         "+0.20 move speed"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1181,7 +1181,7 @@
       "degree": 0,
       "name": "feeble",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "hardy"
         ],
@@ -1205,7 +1205,7 @@
       "conflicts": [
         "hardy"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1216,7 +1216,7 @@
       "degree": 0,
       "name": "fisherman",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -1224,7 +1224,7 @@
       "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1235,7 +1235,7 @@
       "degree": 0,
       "name": "fragile",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "resilient"
         ],
@@ -1253,7 +1253,7 @@
       "conflicts": [
         "resilient"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1264,7 +1264,7 @@
       "degree": 0,
       "name": "frail",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "muscular"
         ],
@@ -1282,7 +1282,7 @@
       "conflicts": [
         "muscular"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1293,7 +1293,7 @@
       "degree": 0,
       "name": "fun-loving",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "anxious"
         ],
@@ -1305,7 +1305,7 @@
       "conflicts": [
         "anxious"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1316,7 +1316,7 @@
       "degree": 0,
       "name": "gastronomist",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -1332,7 +1332,7 @@
         "-25.00% food poison chance"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1343,7 +1343,7 @@
       "degree": 0,
       "name": "gay",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -1351,7 +1351,7 @@
       "description": "Timmy is romantically attracted to people of his own gender.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1362,7 +1362,7 @@
       "degree": 2,
       "name": "germaphobe",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -1370,7 +1370,7 @@
       "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1381,7 +1381,7 @@
       "degree": 0,
       "name": "gifted",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "incompetent"
         ],
@@ -1419,7 +1419,7 @@
       "conflicts": [
         "incompetent"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1430,7 +1430,7 @@
       "degree": 0,
       "name": "goodhygiene",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "poorhygiene"
         ],
@@ -1446,7 +1446,7 @@
       "conflicts": [
         "poorhygiene"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1457,7 +1457,7 @@
       "degree": 1,
       "name": "gossiper",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -1469,7 +1469,7 @@
         "+15.00% news spread tendency (NST)"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1480,7 +1480,7 @@
       "degree": 0,
       "name": "gourmand",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "ascetic"
         ],
@@ -1498,7 +1498,7 @@
       "conflicts": [
         "ascetic"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1509,7 +1509,7 @@
       "degree": 0,
       "name": "greatmemory",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -1521,7 +1521,7 @@
         "+25% global learning factor"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1532,7 +1532,7 @@
       "degree": 0,
       "name": "greedy",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "ascetic",
           "jealous"
@@ -1546,7 +1546,7 @@
         "ascetic",
         "jealous"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1557,7 +1557,7 @@
       "degree": 0,
       "name": "groundbreaker",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -1575,7 +1575,7 @@
         "+20% construction speed"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1586,7 +1586,7 @@
       "degree": 1,
       "name": "hardworker",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -1598,7 +1598,7 @@
         "+20% global work speed"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1609,7 +1609,7 @@
       "degree": 0,
       "name": "hardy",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "feeble"
         ],
@@ -1633,7 +1633,7 @@
       "conflicts": [
         "feeble"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1644,7 +1644,7 @@
       "degree": 0,
       "name": "healthy",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "chronicallyill"
         ],
@@ -1664,7 +1664,7 @@
       "conflicts": [
         "chronicallyill"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1675,7 +1675,7 @@
       "degree": 0,
       "name": "heatinclined",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "coldinclined"
         ],
@@ -1691,7 +1691,7 @@
       "conflicts": [
         "coldinclined"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1702,7 +1702,7 @@
       "degree": 0,
       "name": "heatintolerant",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "heattolerant"
         ],
@@ -1718,7 +1718,7 @@
       "conflicts": [
         "heattolerant"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1729,7 +1729,7 @@
       "degree": 0,
       "name": "heattolerant",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "heatintolerant"
         ],
@@ -1745,7 +1745,7 @@
       "conflicts": [
         "heatintolerant"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1756,7 +1756,7 @@
       "degree": 0,
       "name": "heavysleeper",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -1764,7 +1764,7 @@
       "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1775,7 +1775,7 @@
       "degree": 1,
       "name": "hygienic",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -1783,7 +1783,7 @@
       "description": "Timmy is very hygienic and will wash more frequently.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1794,7 +1794,7 @@
       "degree": 0,
       "name": "impatientcook",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "patientcook"
         ],
@@ -1812,7 +1812,7 @@
       "conflicts": [
         "patientcook"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1823,7 +1823,7 @@
       "degree": 0,
       "name": "incompetent",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "gifted"
         ],
@@ -1861,7 +1861,7 @@
       "conflicts": [
         "gifted"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1872,7 +1872,7 @@
       "degree": 2,
       "name": "industrious",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -1884,7 +1884,7 @@
         "+35% global work speed"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1895,7 +1895,7 @@
       "degree": 0,
       "name": "inefficient",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "efficient"
         ],
@@ -1913,7 +1913,7 @@
       "conflicts": [
         "efficient"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1924,7 +1924,7 @@
       "degree": 0,
       "name": "insatiable",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "prude",
           "asexual",
@@ -1940,7 +1940,7 @@
         "asexual",
         "nudist"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1951,7 +1951,7 @@
       "degree": 0,
       "name": "insomniac",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "heavysleeper"
         ],
@@ -1969,7 +1969,7 @@
       "conflicts": [
         "heavysleeper"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -1980,7 +1980,7 @@
       "degree": 0,
       "name": "ironstomach",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "squeamish"
         ],
@@ -1992,7 +1992,7 @@
       "conflicts": [
         "squeamish"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2003,7 +2003,7 @@
       "degree": 2,
       "name": "iron-willed",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2015,7 +2015,7 @@
         "-18% mental break threshold"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2026,7 +2026,7 @@
       "degree": 0,
       "name": "jealous",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "ascetic",
           "greedy"
@@ -2044,7 +2044,7 @@
         "ascetic",
         "greedy"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2055,7 +2055,7 @@
       "degree": 2,
       "name": "jogger",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2067,7 +2067,7 @@
         "+0.40 move speed"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2078,7 +2078,7 @@
       "degree": 0,
       "name": "kind",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "abrasive",
           "psychopath"
@@ -2092,7 +2092,7 @@
         "abrasive",
         "psychopath"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2103,7 +2103,7 @@
       "degree": 0,
       "name": "kleptomaniac",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2115,7 +2115,7 @@
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2126,7 +2126,7 @@
       "degree": -1,
       "name": "lazy",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2138,7 +2138,7 @@
         "-20% global work speed"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2149,7 +2149,7 @@
       "degree": 0,
       "name": "lush",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "chemicalfascination",
           "chemicalinterest",
@@ -2167,7 +2167,7 @@
         "teetotaler",
         "lush"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2178,7 +2178,7 @@
       "degree": 0,
       "name": "madsurgeon",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2190,7 +2190,7 @@
         "+20% surgery success chance factor"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2201,7 +2201,7 @@
       "degree": 0,
       "name": "martialartist",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -2209,7 +2209,7 @@
       "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2220,7 +2220,7 @@
       "degree": 0,
       "name": "masochist",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2232,7 +2232,7 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2243,7 +2243,7 @@
       "degree": 0,
       "name": "menagerist",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "animalhater"
         ],
@@ -2261,7 +2261,7 @@
       "conflicts": [
         "animalhater"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2272,7 +2272,7 @@
       "degree": 0,
       "name": "misandrist",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -2280,7 +2280,7 @@
       "description": "Timmy really dislikes and distrusts men.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2291,7 +2291,7 @@
       "degree": 0,
       "name": "misogynist",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -2299,7 +2299,7 @@
       "description": "Timmy really dislikes and distrusts women.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2310,7 +2310,7 @@
       "degree": 0,
       "name": "mountainlover",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -2318,7 +2318,7 @@
       "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2329,7 +2329,7 @@
       "degree": 0,
       "name": "muscular",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "frail"
         ],
@@ -2347,7 +2347,7 @@
       "conflicts": [
         "frail"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2358,7 +2358,7 @@
       "degree": 0,
       "name": "mysteriousenergy",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2380,7 +2380,7 @@
         "+15.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2391,7 +2391,7 @@
       "degree": 0,
       "name": "nearsighted",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "farsighted"
         ],
@@ -2417,7 +2417,7 @@
       "conflicts": [
         "farsighted"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2428,7 +2428,7 @@
       "degree": 0,
       "name": "neat",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "slob"
         ],
@@ -2440,7 +2440,7 @@
       "conflicts": [
         "slob"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2451,7 +2451,7 @@
       "degree": -1,
       "name": "nervous",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2463,7 +2463,7 @@
         "+8% mental break threshold"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2474,7 +2474,7 @@
       "degree": 1,
       "name": "neurotic",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2488,7 +2488,7 @@
         "+8% mental break threshold"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2499,7 +2499,7 @@
       "degree": 0,
       "name": "nightowl",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -2507,7 +2507,7 @@
       "description": "Timmy likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2518,7 +2518,7 @@
       "degree": 0,
       "name": "nimble",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2532,7 +2532,7 @@
         "x10% trap spring chance"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2543,7 +2543,7 @@
       "degree": 0,
       "name": "nudist",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -2551,7 +2551,7 @@
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2562,7 +2562,7 @@
       "degree": 0,
       "name": "oceanlover",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -2570,7 +2570,7 @@
       "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2581,7 +2581,7 @@
       "degree": 1,
       "name": "optimist",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -2589,7 +2589,7 @@
       "description": "Timmy is naturally optimistic about life. It's hard to get him down.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2600,7 +2600,7 @@
       "degree": 0,
       "name": "patientcook",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "impatientcook"
         ],
@@ -2618,7 +2618,7 @@
       "conflicts": [
         "impatientcook"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2629,7 +2629,7 @@
       "degree": 0,
       "name": "perfectionist",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2641,7 +2641,7 @@
         "x65% global work speed"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2652,7 +2652,7 @@
       "degree": 0,
       "name": "persuasive",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "unconvincing"
         ],
@@ -2670,7 +2670,7 @@
       "conflicts": [
         "unconvincing"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2681,7 +2681,7 @@
       "degree": -1,
       "name": "pessimist",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -2689,7 +2689,7 @@
       "description": "Timmy tends to look on the bad side of life.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2700,7 +2700,7 @@
       "degree": 0,
       "name": "poorhygiene",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "goodhygiene"
         ],
@@ -2716,7 +2716,7 @@
       "conflicts": [
         "goodhygiene"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2727,7 +2727,7 @@
       "degree": 1,
       "name": "pretty",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2739,7 +2739,7 @@
         "+1.0 beauty"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2750,7 +2750,7 @@
       "degree": 0,
       "name": "prodigy",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "dunce"
         ],
@@ -2768,7 +2768,7 @@
       "conflicts": [
         "dunce"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2779,7 +2779,7 @@
       "degree": 0,
       "name": "prude",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "insatiable",
           "nudist"
@@ -2793,7 +2793,7 @@
         "insatiable",
         "nudist"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2804,7 +2804,7 @@
       "degree": -2,
       "name": "psychicallydeaf",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2816,7 +2816,7 @@
         "-100% psychic sensitivity"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2827,7 +2827,7 @@
       "degree": -1,
       "name": "psychicallydull",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2839,7 +2839,7 @@
         "-50% psychic sensitivity"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2850,7 +2850,7 @@
       "degree": 2,
       "name": "psychicallyhypersensitive",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2862,7 +2862,7 @@
         "+80% psychic sensitivity"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2873,7 +2873,7 @@
       "degree": 1,
       "name": "psychicallysensitive",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2885,7 +2885,7 @@
         "+40% psychic sensitivity"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2896,7 +2896,7 @@
       "degree": 0,
       "name": "psychopath",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2908,7 +2908,7 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2919,7 +2919,7 @@
       "degree": 0,
       "name": "pyromaniac",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2933,7 +2933,7 @@
         "Only mental break \"FireStartingSpree\" allowed."
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2944,7 +2944,7 @@
       "degree": 0,
       "name": "quicksleeper",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -2956,7 +2956,7 @@
         "+50% rest rate multiplier"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2967,7 +2967,7 @@
       "degree": 0,
       "name": "ravenous",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "abstinent"
         ],
@@ -2979,7 +2979,7 @@
       "conflicts": [
         "abstinent"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -2990,7 +2990,7 @@
       "degree": 0,
       "name": "rebel",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "submissive"
         ],
@@ -3002,7 +3002,7 @@
       "conflicts": [
         "submissive"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3013,7 +3013,7 @@
       "degree": 0,
       "name": "refinedpalate",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "ascetic"
         ],
@@ -3029,7 +3029,7 @@
       "conflicts": [
         "ascetic"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3040,7 +3040,7 @@
       "degree": 0,
       "name": "resilient",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "fragile"
         ],
@@ -3058,7 +3058,7 @@
       "conflicts": [
         "fragile"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3069,7 +3069,7 @@
       "degree": 0,
       "name": "restful",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "restless"
         ],
@@ -3085,7 +3085,7 @@
       "conflicts": [
         "restless"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3096,7 +3096,7 @@
       "degree": 0,
       "name": "restless",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "restful"
         ],
@@ -3112,7 +3112,7 @@
       "conflicts": [
         "restful"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3123,7 +3123,7 @@
       "degree": 0,
       "name": "rowdy",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "composed"
         ],
@@ -3139,7 +3139,7 @@
       "conflicts": [
         "composed"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3150,7 +3150,7 @@
       "degree": 2,
       "name": "sanguine",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -3158,7 +3158,7 @@
       "description": "Timmy is just naturally upbeat about his situation, pretty much all the time, no matter what it is.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3169,7 +3169,7 @@
       "degree": 0,
       "name": "schizoid",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "iron-willed",
           "steadfast",
@@ -3187,7 +3187,7 @@
         "nervous",
         "volatile"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3198,7 +3198,7 @@
       "degree": -1,
       "name": "secretkeeper",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -3210,7 +3210,7 @@
         "-15.00% news spread tendency (NST)"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3221,7 +3221,7 @@
       "degree": -1,
       "name": "sickly",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -3233,7 +3233,7 @@
         "+4 medical"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3244,7 +3244,7 @@
       "degree": -2,
       "name": "slob",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -3252,7 +3252,7 @@
       "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3263,7 +3263,7 @@
       "degree": 0,
       "name": "slob",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "neat"
         ],
@@ -3275,7 +3275,7 @@
       "conflicts": [
         "neat"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3286,7 +3286,7 @@
       "degree": -2,
       "name": "slothful",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -3298,7 +3298,7 @@
         "-35% global work speed"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3309,7 +3309,7 @@
       "degree": 0,
       "name": "slowlearner",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "toosmart"
         ],
@@ -3325,7 +3325,7 @@
       "conflicts": [
         "toosmart"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3336,7 +3336,7 @@
       "degree": -1,
       "name": "slowpoke",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -3350,7 +3350,7 @@
         "-0.20 move speed"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3361,7 +3361,7 @@
       "degree": 0,
       "name": "sluggish",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "energetic"
         ],
@@ -3379,7 +3379,7 @@
       "conflicts": [
         "energetic"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3390,7 +3390,7 @@
       "degree": 0,
       "name": "snob",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "ascetic"
         ],
@@ -3402,7 +3402,7 @@
       "conflicts": [
         "ascetic"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3413,7 +3413,7 @@
       "degree": 0,
       "name": "squeamish",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "ironstomach",
           "desensitized"
@@ -3427,7 +3427,7 @@
         "ironstomach",
         "desensitized"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3438,7 +3438,7 @@
       "degree": -2,
       "name": "staggeringlyugly",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -3450,7 +3450,7 @@
         "-2.0 beauty"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3461,7 +3461,7 @@
       "degree": 1,
       "name": "steadfast",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -3473,7 +3473,7 @@
         "-9% mental break threshold"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3484,7 +3484,7 @@
       "degree": 0,
       "name": "stiff",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "athletic"
         ],
@@ -3502,7 +3502,7 @@
       "conflicts": [
         "athletic"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3513,7 +3513,7 @@
       "degree": 0,
       "name": "stoner",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "chemicalfascination",
           "chemicalinterest",
@@ -3531,7 +3531,7 @@
         "teetotaler",
         "lush"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3542,7 +3542,7 @@
       "degree": 0,
       "name": "submissive",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "rebel"
         ],
@@ -3554,7 +3554,7 @@
       "conflicts": [
         "rebel"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3565,7 +3565,7 @@
       "degree": 1,
       "name": "super-immune",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -3577,7 +3577,7 @@
         "+30% immunity gain speed"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3588,7 +3588,7 @@
       "degree": 0,
       "name": "technophobe",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "transhumanist"
         ],
@@ -3604,7 +3604,7 @@
       "conflicts": [
         "transhumanist"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3615,7 +3615,7 @@
       "degree": -1,
       "name": "teetotaler",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -3629,7 +3629,7 @@
         "Binging on drug mental state disabled."
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3640,7 +3640,7 @@
       "degree": 0,
       "name": "temperatureintolerant",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "temperaturetolerant"
         ],
@@ -3658,7 +3658,7 @@
       "conflicts": [
         "temperaturetolerant"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3669,7 +3669,7 @@
       "degree": 0,
       "name": "temperaturetolerant",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "temperatureintolerant"
         ],
@@ -3687,7 +3687,7 @@
       "conflicts": [
         "temperatureintolerant"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3698,7 +3698,7 @@
       "degree": 0,
       "name": "thickskinned",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "thinskinned"
         ],
@@ -3710,7 +3710,7 @@
       "conflicts": [
         "thinskinned"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3721,7 +3721,7 @@
       "degree": 0,
       "name": "thinskinned",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "thickskinned"
         ],
@@ -3733,7 +3733,7 @@
       "conflicts": [
         "thickskinned"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3744,7 +3744,7 @@
       "degree": 0,
       "name": "toosmart",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "iron-willed",
           "steadfast",
@@ -3770,7 +3770,7 @@
         "volatile",
         "slowlearner"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3781,7 +3781,7 @@
       "degree": 0,
       "name": "torturedartist",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -3793,7 +3793,7 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3804,7 +3804,7 @@
       "degree": 0,
       "name": "tough",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -3816,7 +3816,7 @@
         "x50% incoming damage multiplier"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3827,7 +3827,7 @@
       "degree": 0,
       "name": "transhumanist",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "bodypurist"
         ],
@@ -3839,7 +3839,7 @@
       "conflicts": [
         "bodypurist"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3850,7 +3850,7 @@
       "degree": -1,
       "name": "trigger-happy",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "brawler"
         ],
@@ -3868,7 +3868,7 @@
       "conflicts": [
         "brawler"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3879,7 +3879,7 @@
       "degree": 0,
       "name": "tycoon",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -3895,7 +3895,7 @@
         "+25.00% trade price improvement"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3906,7 +3906,7 @@
       "degree": -1,
       "name": "ugly",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -3918,7 +3918,7 @@
         "-1.0 beauty"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3929,7 +3929,7 @@
       "degree": 0,
       "name": "unconvincing",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "persuasive"
         ],
@@ -3947,7 +3947,7 @@
       "conflicts": [
         "persuasive"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3958,7 +3958,7 @@
       "degree": 0,
       "name": "undergrounder",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -3970,7 +3970,7 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -3981,7 +3981,7 @@
       "degree": -1,
       "name": "unhygienic",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -3989,7 +3989,7 @@
       "description": "Timmy is very unhygienic and will wash less frequently.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -4000,7 +4000,7 @@
       "degree": 0,
       "name": "valiant",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "valiant"
         ],
@@ -4018,7 +4018,7 @@
       "conflicts": [
         "valiant"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -4029,7 +4029,7 @@
       "degree": 0,
       "name": "valiant",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "valiant"
         ],
@@ -4047,7 +4047,7 @@
       "conflicts": [
         "valiant"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -4058,7 +4058,7 @@
       "degree": 0,
       "name": "vengeful",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "kind"
         ],
@@ -4070,7 +4070,7 @@
       "conflicts": [
         "kind"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -4081,7 +4081,7 @@
       "degree": 2,
       "name": "veryneurotic",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -4095,7 +4095,7 @@
         "+14% mental break threshold"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -4106,7 +4106,7 @@
       "degree": -2,
       "name": "volatile",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -4118,7 +4118,7 @@
         "+15% mental break threshold"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -4129,7 +4129,7 @@
       "degree": 0,
       "name": "wanderlust",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": [
@@ -4141,7 +4141,7 @@
         "+0.2 foraged food amount"
       ],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -4152,7 +4152,7 @@
       "degree": 0,
       "name": "wimp",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "brawler"
         ],
@@ -4168,7 +4168,7 @@
       "conflicts": [
         "brawler"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -4179,7 +4179,7 @@
       "degree": 0,
       "name": "workaholic",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [
           "absent-minded",
           "industrious",
@@ -4199,7 +4199,7 @@
         "lazy",
         "slothful"
       ],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -4210,7 +4210,7 @@
       "degree": 0,
       "name": "worldweary",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -4218,7 +4218,7 @@
       "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -4229,7 +4229,7 @@
       "degree": -1,
       "name": "xenophile",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -4237,7 +4237,7 @@
       "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     },
     {
       "canAdd": true,
@@ -4248,7 +4248,7 @@
       "degree": 1,
       "name": "xenophobe",
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "conflicts": [],
         "customName": false,
         "stats": []
@@ -4256,7 +4256,7 @@
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false
+      "bypassLimit": true
     }
   ],
   "races": [
