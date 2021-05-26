@@ -17530,7 +17530,7 @@
       "abr": "dice",
       "category": "Dices",
       "defname": "DiceOfDestiny_Dice",
-      "price": 777
+      "price": 4000
     },
     {
       "abr": "diceofbadomen",
@@ -17555,7 +17555,13 @@
       "category": "Dices",
       "defname": "DiceOfDestiny_DiceOfFortune",
       "price": 777
+    },
+    {
+      "abr": "basicmedicine",
+      "category": "Medicine",
+      "defname": "MedicineBasic",
+      "price": 20
     }
   ],
-  "total": 2926
+  "total": 2927
 }
