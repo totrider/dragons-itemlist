@@ -264,6 +264,10 @@
     "name": "No Lazy Doctors"
   },
   {
+    "author": "Antaios",
+    "name": "Mod Medicine Patch"
+  },
+  {
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
@@ -530,6 +534,12 @@
     "name": "Almost There!"
   },
   {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "No One Left Behind",
+    "steamId": "2401146569",
+    "version": "1.1.0"
+  },
+  {
     "author": "Roolo",
     "name": "RunAndGun"
   },
@@ -568,12 +578,6 @@
   {
     "author": "Hanabishi",
     "name": "In-wall coolers and vents"
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Trading Spot",
-    "steamId": "1180719658",
-    "version": "1.0.0.0"
   },
   {
     "author": "PinoChemicali",
@@ -720,6 +724,22 @@
     "name": "Trader ships",
     "steamId": "2046222331",
     "version": "1.0.350.0854"
+  },
+  {
+    "author": "Tad",
+    "name": "Trading Control",
+    "steamId": "2007107588",
+    "version": "2.2021.2.17"
+  },
+  {
+    "author": "Neceros",
+    "name": "Traders Have Money"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Call Trade Ships",
+    "steamId": "2431840021",
+    "version": "1.0.0.0"
   },
   {
     "author": "123nick",
@@ -1144,6 +1164,10 @@
     "name": "Life Support Continued [1.1][1.2]"
   },
   {
+    "author": "ILuvSilicon",
+    "name": "Basic Medicine"
+  },
+  {
     "author": "jptrrs",
     "name": "[JPT] Open The Windows",
     "steamId": "1971860929",
@@ -1372,6 +1396,10 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "tikubonn",
+    "name": "DiceOfDestiny"
+  },
+  {
     "author": "redbrick",
     "name": "HAR BodytypeDef patch"
   },
@@ -1501,6 +1529,6 @@
     "author": "Krkr",
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
-    "version": "0.6.3.1015"
+    "version": "0.6.3.1411"
   }
 ]
