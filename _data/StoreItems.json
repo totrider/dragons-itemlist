@@ -12034,13 +12034,13 @@
       "abr": "personalshuttle",
       "category": "Furniture",
       "defname": "PersonalShuttle",
-      "price": 2475
+      "price": -10
     },
     {
       "abr": "personalshuttle(hovermode)",
       "category": "Animal",
       "defname": "ShuttlePersonalRace",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "petrifyinggazeimplant",
@@ -12196,73 +12196,73 @@
       "abr": "plasmacaliver",
       "category": "Ranged",
       "defname": "AD_PlasmaCaliver",
-      "price": 4942
+      "price": -10
     },
     {
       "abr": "plasmagrenade",
       "category": "Ranged",
       "defname": "AD_FedPlasmaGrenades",
-      "price": 1500
+      "price": -10
     },
     {
       "abr": "plasmapistol",
       "category": "Ranged",
       "defname": "KIT_Gun_PlasmaPistol",
-      "price": 3833
+      "price": -10
     },
     {
       "abr": "plasmarifle",
       "category": "Ranged",
       "defname": "AD_Sentinel",
-      "price": 5150
+      "price": -10
     },
     {
       "abr": "plasmarifle",
       "category": "Ranged",
       "defname": "KIT_Gun_PlasmaRifle",
-      "price": 4167
+      "price": -10
     },
     {
       "abr": "plasmascattergun",
       "category": "Ranged",
       "defname": "VFE_Gun_PlasmaScattergun",
-      "price": 3833
+      "price": -10
     },
     {
       "abr": "plasmasmg",
       "category": "Ranged",
       "defname": "KIT_Gun_PlasmaSMG",
-      "price": 3833
+      "price": -10
     },
     {
       "abr": "plasmasniper",
       "category": "Ranged",
       "defname": "KIT_Gun_PlasmaSniper",
-      "price": 4167
+      "price": -10
     },
     {
       "abr": "plasmabeamrifle",
       "category": "Ranged",
       "defname": "VFE_Gun_PlasmabeamRifle",
-      "price": 4167
+      "price": -10
     },
     {
       "abr": "plasmacutter",
       "category": "Ranged",
       "defname": "VFE_Gun_Plasmacutter",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "plasmapiercer",
       "category": "Ranged",
       "defname": "VFE_Gun_Plasmapiercer",
-      "price": 3833
+      "price": -10
     },
     {
       "abr": "plasmasaw",
       "category": "Melee",
       "defname": "VFE_Plasmasaw",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "plasmorph",
@@ -17056,37 +17056,37 @@
       "abr": "doormat",
       "category": "Furniture",
       "defname": "DoorMatLeather",
-      "price": 8
+      "price": 60
     },
     {
       "abr": "doormat(blue)",
       "category": "Furniture",
       "defname": "DoorMatBlue",
-      "price": 8
+      "price": 60
     },
     {
       "abr": "doormat(green)",
       "category": "Furniture",
       "defname": "DoorMatGreen",
-      "price": 8
+      "price": 60
     },
     {
       "abr": "doormat(orange)",
       "category": "Furniture",
       "defname": "DoorMatOrange",
-      "price": 8
+      "price": 60
     },
     {
       "abr": "doormat(red)",
       "category": "Furniture",
       "defname": "DoorMatRed",
-      "price": 8
+      "price": 60
     },
     {
       "abr": "doormat(teal)",
       "category": "Furniture",
       "defname": "DoorMatTeal",
-      "price": 8
+      "price": 60
     },
     {
       "abr": "elasticachilles",
@@ -17158,43 +17158,43 @@
       "abr": "largecolorfuldoormat",
       "category": "Furniture",
       "defname": "H4H3DoorMatBigLeather",
-      "price": 20
+      "price": 80
     },
     {
       "abr": "largedoormat",
       "category": "Furniture",
       "defname": "DoorMatBigLeather",
-      "price": 20
+      "price": 80
     },
     {
       "abr": "largedoormat(blue)",
       "category": "Furniture",
       "defname": "DoorMatBigBlue",
-      "price": 20
+      "price": 80
     },
     {
       "abr": "largedoormat(green)",
       "category": "Furniture",
       "defname": "DoorMatBigGreen",
-      "price": 20
+      "price": 80
     },
     {
       "abr": "largedoormat(orange)",
       "category": "Furniture",
       "defname": "DoorMatBigOrange",
-      "price": 20
+      "price": 80
     },
     {
       "abr": "largedoormat(red)",
       "category": "Furniture",
       "defname": "DoorMatBigRed",
-      "price": 20
+      "price": 80
     },
     {
       "abr": "largedoormat(teal)",
       "category": "Furniture",
       "defname": "DoorMatBigTeal",
-      "price": 20
+      "price": 80
     },
     {
       "abr": "laserdetection",
@@ -17206,43 +17206,43 @@
       "abr": "linkedcolorfuldoormat",
       "category": "Furniture",
       "defname": "H4H3DoorMatLinkedLeather",
-      "price": 8
+      "price": 60
     },
     {
       "abr": "linkeddoormat",
       "category": "Furniture",
       "defname": "DoorMatLinkedLeather",
-      "price": 8
+      "price": 60
     },
     {
       "abr": "linkeddoormat(blue)",
       "category": "Furniture",
       "defname": "DoorMatLinkedBlue",
-      "price": 8
+      "price": 60
     },
     {
       "abr": "linkeddoormat(green)",
       "category": "Furniture",
       "defname": "DoorMatLinkedGreen",
-      "price": 8
+      "price": 60
     },
     {
       "abr": "linkeddoormat(orange)",
       "category": "Furniture",
       "defname": "DoorMatLinkedOrange",
-      "price": 8
+      "price": 60
     },
     {
       "abr": "linkeddoormat(red)",
       "category": "Furniture",
       "defname": "DoorMatLinkedRed",
-      "price": 8
+      "price": 60
     },
     {
       "abr": "linkeddoormat(teal)",
       "category": "Furniture",
       "defname": "DoorMatLinkedTeal",
-      "price": 8
+      "price": 60
     },
     {
       "abr": "lionheart",
@@ -17254,43 +17254,43 @@
       "abr": "mediumcolorfuldoormat",
       "category": "Furniture",
       "defname": "H4H3DoorMatMediumLeather",
-      "price": 13
+      "price": 73
     },
     {
       "abr": "mediumdoormat",
       "category": "Furniture",
       "defname": "DoorMatMediumLeather",
-      "price": 13
+      "price": 73
     },
     {
       "abr": "mediumdoormat(blue)",
       "category": "Furniture",
       "defname": "DoorMatMediumBlue",
-      "price": 13
+      "price": 73
     },
     {
       "abr": "mediumdoormat(green)",
       "category": "Furniture",
       "defname": "DoorMatMediumGreen",
-      "price": 13
+      "price": 73
     },
     {
       "abr": "mediumdoormat(orange)",
       "category": "Furniture",
       "defname": "DoorMatMediumOrange",
-      "price": 13
+      "price": 73
     },
     {
       "abr": "mediumdoormat(red)",
       "category": "Furniture",
       "defname": "DoorMatMediumRed",
-      "price": 13
+      "price": 73
     },
     {
       "abr": "mediumdoormat(teal)",
       "category": "Furniture",
       "defname": "DoorMatMediumTeal",
-      "price": 13
+      "price": 73
     },
     {
       "abr": "mindclearer",
@@ -17512,7 +17512,7 @@
       "abr": "smallcolorfuldoormat",
       "category": "Furniture",
       "defname": "H4H3DoorMat",
-      "price": 8
+      "price": 60
     },
     {
       "abr": "traitgiver",
@@ -17527,41 +17527,185 @@
       "price": 2642
     },
     {
-      "abr": "dice",
-      "category": "Dices",
-      "defname": "DiceOfDestiny_Dice",
-      "price": 4000
-    },
-    {
-      "abr": "diceofbadomen",
-      "category": "Dices",
-      "defname": "DiceOfDestiny_DiceOfBadOmen",
-      "price": 8000
-    },
-    {
-      "abr": "diceofchaos",
-      "category": "Dices",
-      "defname": "DiceOfDestiny_DiceOfChaos",
-      "price": 5000
-    },
-    {
-      "abr": "diceofdespair",
-      "category": "Dices",
-      "defname": "DiceOfDestiny_DiceOfDespair",
-      "price": 66666
-    },
-    {
-      "abr": "diceoffortune",
-      "category": "Dices",
-      "defname": "DiceOfDestiny_DiceOfFortune",
-      "price": 777
-    },
-    {
       "abr": "basicmedicine",
       "category": "Medicine",
       "defname": "MedicineBasic",
       "price": 20
+    },
+    {
+      "abr": "anthro",
+      "category": "Animal",
+      "defname": "Anthro",
+      "price": -10
+    },
+    {
+      "abr": "anthromeat",
+      "category": "Meat",
+      "defname": "Meat_Anthro",
+      "price": 1
+    },
+    {
+      "abr": "bullhorn",
+      "category": "Bionic",
+      "defname": "EccentricHornBull",
+      "price": 592
+    },
+    {
+      "abr": "bulltail",
+      "category": "Bionic",
+      "defname": "EccentricTailBull",
+      "price": 508
+    },
+    {
+      "abr": "catear",
+      "category": "Bionic",
+      "defname": "EccentricEarCat",
+      "price": 583
+    },
+    {
+      "abr": "cattail",
+      "category": "Bionic",
+      "defname": "EccentricTailCat",
+      "price": 508
+    },
+    {
+      "abr": "foxear",
+      "category": "Bionic",
+      "defname": "EccentricEarFox",
+      "price": 583
+    },
+    {
+      "abr": "foxtail",
+      "category": "Bionic",
+      "defname": "EccentricTailFox",
+      "price": 508
+    },
+    {
+      "abr": "horseear",
+      "category": "Bionic",
+      "defname": "EccentricEarHorse",
+      "price": 583
+    },
+    {
+      "abr": "horsetail",
+      "category": "Bionic",
+      "defname": "EccentricTailHorse",
+      "price": 508
+    },
+    {
+      "abr": "labradordogear",
+      "category": "Bionic",
+      "defname": "EccentricEarLabrador",
+      "price": 583
+    },
+    {
+      "abr": "labradordogtail",
+      "category": "Bionic",
+      "defname": "EccentricTailLabrador",
+      "price": 508
+    },
+    {
+      "abr": "mainecooncattail",
+      "category": "Bionic",
+      "defname": "EccentricTailMaineCoon",
+      "price": 508
+    },
+    {
+      "abr": "mainecoonear",
+      "category": "Bionic",
+      "defname": "EccentricEarMaineCoon",
+      "price": 583
+    },
+    {
+      "abr": "mouseear",
+      "category": "Bionic",
+      "defname": "EccentricEarMouse",
+      "price": 583
+    },
+    {
+      "abr": "mousetail",
+      "category": "Bionic",
+      "defname": "EccentricTailMouse",
+      "price": 508
+    },
+    {
+      "abr": "onihorn",
+      "category": "Bionic",
+      "defname": "EccentricHornOni",
+      "price": 592
+    },
+    {
+      "abr": "rabbitear",
+      "category": "Bionic",
+      "defname": "EccentricEarRabbit",
+      "price": 583
+    },
+    {
+      "abr": "rabbittail",
+      "category": "Bionic",
+      "defname": "EccentricTailRabbit",
+      "price": 508
+    },
+    {
+      "abr": "ramhorn",
+      "category": "Bionic",
+      "defname": "EccentricHornRam",
+      "price": 592
+    },
+    {
+      "abr": "revitalizermechserum",
+      "category": "Items",
+      "defname": "MechSerumRevitalizer",
+      "price": 1833
+    },
+    {
+      "abr": "shepherddogear",
+      "category": "Bionic",
+      "defname": "EccentricEarShepherd",
+      "price": 583
+    },
+    {
+      "abr": "shepherddogtail",
+      "category": "Bionic",
+      "defname": "EccentricTailShepherd",
+      "price": 508
+    },
+    {
+      "abr": "siamesecatear",
+      "category": "Bionic",
+      "defname": "EccentricEarSiamese",
+      "price": 583
+    },
+    {
+      "abr": "siamesecattail",
+      "category": "Bionic",
+      "defname": "EccentricTailSiamese",
+      "price": 508
+    },
+    {
+      "abr": "terrierdogear",
+      "category": "Bionic",
+      "defname": "EccentricEarTerrier",
+      "price": 583
+    },
+    {
+      "abr": "terrierdogtail",
+      "category": "Bionic",
+      "defname": "EccentricTailTerrier",
+      "price": 508
+    },
+    {
+      "abr": "thrumbohorn",
+      "category": "Bionic",
+      "defname": "EccentricHornThrumbo",
+      "price": 592
+    },
+    {
+      "abr": "unicornhorn",
+      "category": "Bionic",
+      "defname": "EccentricHornUnicorn",
+      "price": 592
     }
   ],
-  "total": 2927
+  "total": 2951
 }
