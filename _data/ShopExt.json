@@ -761,6 +761,33 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "defName": "RT_ConstantlyBemused",
+      "degree": 0,
+      "name": "constantlybemused",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "easilyamused"
+        ],
+        "customName": false,
+        "stats": [
+          "-3 artistic"
+        ]
+      },
+      "description": "Life to Timmy is an endless, boring joke that he just can't get away from.",
+      "stats": [
+        "-3 artistic"
+      ],
+      "conflicts": [
+        "easilyamused"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "defName": "RT_Coordinated",
       "degree": 0,
       "name": "coordinated",
@@ -974,6 +1001,33 @@
         "prodigy"
       ],
       "bypassLimit": true
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RT_EasilyAmused",
+      "degree": 0,
+      "name": "easilyamused",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "constantlybemused"
+        ],
+        "customName": false,
+        "stats": [
+          "+3 artistic"
+        ]
+      },
+      "description": "Whether by sheer optimism or a force of personality, Timmy always manages to see the bright side of life.",
+      "stats": [
+        "+3 artistic"
+      ],
+      "conflicts": [
+        "constantlybemused"
+      ],
+      "bypassLimit": false
     },
     {
       "canAdd": true,
@@ -1790,6 +1844,35 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "defName": "RT_Ignorant",
+      "degree": 0,
+      "name": "ignorant",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "inquisitive"
+        ],
+        "customName": false,
+        "stats": [
+          "-4 intellectual",
+          "+5% mental break threshold"
+        ]
+      },
+      "description": "Gaps in Timmy's education and general lack of curiosity makes life often stressful for him.",
+      "stats": [
+        "-4 intellectual",
+        "+5% mental break threshold"
+      ],
+      "conflicts": [
+        "inquisitive"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "defName": "RT_ImpatientCook",
       "degree": 0,
       "name": "impatientcook",
@@ -1914,6 +1997,35 @@
         "efficient"
       ],
       "bypassLimit": true
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RT_Inquisitive",
+      "degree": 0,
+      "name": "inquisitive",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "ignorant"
+        ],
+        "customName": false,
+        "stats": [
+          "+4 intellectual",
+          "-5% mental break threshold"
+        ]
+      },
+      "description": "Timmy has an interest in understanding the workings of the world, and is able to apply his knowledge in daily life.",
+      "stats": [
+        "+4 intellectual",
+        "-5% mental break threshold"
+      ],
+      "conflicts": [
+        "ignorant"
+      ],
+      "bypassLimit": false
     },
     {
       "canAdd": true,
@@ -2350,8 +2462,8 @@
       "bypassLimit": true
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Miraculous",
@@ -3823,6 +3935,101 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "defName": "RT_DemoCommon",
+      "degree": 0,
+      "name": "traitdemo:common",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "This is what a common trait would look like when paired with RimTraits: Vanilla Trait Colours.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RT_DemoEpic",
+      "degree": 0,
+      "name": "traitdemo:epic",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "This is what an epic trait would look like when paired with RimTraits: Vanilla Trait Colours.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RT_DemoLegendary",
+      "degree": 0,
+      "name": "traitdemo:legendary",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "This is what a legendary trait would look like when paired with RimTraits: Vanilla Trait Colours.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RT_DemoRare",
+      "degree": 0,
+      "name": "traitdemo:rare",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "This is what a rare trait would look like when paired with RimTraits: Vanilla Trait Colours.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RT_DemoUncommon",
+      "degree": 0,
+      "name": "traitdemo:uncommon",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "This is what an uncommon trait would look like when paired with RimTraits: Vanilla Trait Colours.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "defName": "Transhumanist",
       "degree": 0,
       "name": "transhumanist",
@@ -3996,35 +4203,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "RT_Valiant",
-      "degree": 0,
-      "name": "valiant",
-      "data": {
-        "canBypassLimit": true,
-        "conflicts": [
-          "valiant"
-        ],
-        "customName": false,
-        "stats": [
-          "-5% mental break threshold",
-          "+5% pain shock threshold"
-        ]
-      },
-      "description": "Timmy is brave, he would stand his where others would scramble and run.",
-      "stats": [
-        "-5% mental break threshold",
-        "+5% pain shock threshold"
-      ],
-      "conflicts": [
-        "valiant"
-      ],
-      "bypassLimit": true
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "defName": "RT_Craven",
       "degree": 0,
       "name": "valiant",
@@ -4043,6 +4221,35 @@
       "stats": [
         "+5% mental break threshold",
         "-5% pain shock threshold"
+      ],
+      "conflicts": [
+        "valiant"
+      ],
+      "bypassLimit": true
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RT_Valiant",
+      "degree": 0,
+      "name": "valiant",
+      "data": {
+        "canBypassLimit": true,
+        "conflicts": [
+          "valiant"
+        ],
+        "customName": false,
+        "stats": [
+          "-5% mental break threshold",
+          "+5% pain shock threshold"
+        ]
+      },
+      "description": "Timmy is brave, he would stand his where others would scramble and run.",
+      "stats": [
+        "-5% mental break threshold",
+        "+5% pain shock threshold"
       ],
       "conflicts": [
         "valiant"
@@ -4262,6 +4469,15 @@
   "races": [
     {
       "price": 2500,
+      "defName": "Anthro",
+      "enabled": true,
+      "name": "anthro",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2500,
       "defName": "Alien_Astoriel",
       "enabled": true,
       "name": "astoriel",
@@ -4321,6 +4537,78 @@
       "name": "Half-Orc",
       "data": {
         "customName": false
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "Hiver_Prince_South",
+      "enabled": true,
+      "name": "Hiver Prince South",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "Hiver_Soldier_South",
+      "enabled": true,
+      "name": "Hiver Soldier South",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "Hiver_Worker",
+      "enabled": true,
+      "name": "Hiver Worker",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "Hiver_Prince",
+      "enabled": true,
+      "name": "Hiver Prince",
+      "data": {
+        "customName": true
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "Hiver_Queen",
+      "enabled": true,
+      "name": "Hiver Queen",
+      "data": {
+        "customName": true
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "Hiver_Queen_South",
+      "enabled": true,
+      "name": "Hiver Queen South",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "Hiver_Soldier",
+      "enabled": true,
+      "name": "Hiver Soldier",
+      "data": {
+        "customName": true
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "Hiver_Worker_South",
+      "enabled": true,
+      "name": "Hiver Worker South",
+      "data": {
+        "customName": true
       }
     },
     {
