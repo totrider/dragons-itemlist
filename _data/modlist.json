@@ -84,6 +84,12 @@
     "name": "Giddy-up! Core"
   },
   {
+    "author": "Haplo",
+    "name": "Miscellaneous 'CORE'",
+    "steamId": "704181221",
+    "version": "1.2.0"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -153,7 +159,7 @@
     "author": "Oskar Potocki, Smash Phil",
     "name": "Vanilla Achievements Expanded",
     "steamId": "2288125657",
-    "version": "1.0.8.0"
+    "version": "1.0.9.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson",
@@ -286,8 +292,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "aRandomKiwi",
+    "name": "RimSaves",
+    "steamId": "1713367505",
+    "version": "2020.1.4.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Work Tab",
+    "steamId": "725219116",
+    "version": "3.21.303"
+  },
+  {
     "author": "neitsa",
     "name": "Prepare Landing"
+  },
+  {
+    "author": "Kosaro",
+    "name": "Fahrenheit and Celsius"
   },
   {
     "author": "NewsofPE",
@@ -304,6 +326,10 @@
     "name": "Animal Controls",
     "steamId": "2426119067",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "gguake",
+    "name": "Simple Search Bar"
   },
   {
     "author": "Mlie",
@@ -334,10 +360,6 @@
     "name": "RimHUD"
   },
   {
-    "author": "gguake",
-    "name": "Simple Search Bar"
-  },
-  {
     "author": "PorqueNoLosDos (Updated By CrashM)",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
@@ -352,6 +374,12 @@
   {
     "author": "bodlosh",
     "name": "WeaponStats"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "List Everything",
+    "steamId": "1706669545",
+    "version": "1.0.0.0"
   },
   {
     "author": "Uuugggg",
@@ -558,6 +586,12 @@
     "name": "Loading In Progress"
   },
   {
+    "author": "JisPichi",
+    "name": "Perfect Pathfinding",
+    "steamId": "2341486509",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "CodeOptimist",
     "name": "Jobs of Opportunity (While You're Up)"
   },
@@ -568,12 +602,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Alex",
+    "name": "Friendly Fire Tweaks",
+    "steamId": "1582686191",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Roolo",
     "name": "Search and Destroy"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Just Ignore Me Passing"
+  },
+  {
+    "author": "tikubonn",
+    "name": "DontBlockDoor[1.0-1.2]"
   },
   {
     "author": "Hanabishi",
@@ -640,6 +684,10 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "miyamiya",
+    "name": "Compressed Raid"
+  },
+  {
     "author": "joe_the_tech",
     "name": "Disable Sappers"
   },
@@ -672,6 +720,10 @@
     "name": "Build Near Anima Trees"
   },
   {
+    "author": "dhultgren",
+    "name": "Smarter Construction"
+  },
+  {
     "author": "legodude17",
     "name": "Smarter Deconstruction",
     "steamId": "2398365712",
@@ -687,7 +739,7 @@
     "author": "Loconeko",
     "name": "Roads of the Rim (Continued)",
     "steamId": "2280318231",
-    "version": "1.0.5.0"
+    "version": "1.0.6.0"
   },
   {
     "author": "Syrchalis",
@@ -752,6 +804,12 @@
     "name": "Injured Carry"
   },
   {
+    "author": "krafs",
+    "name": "Level Up!",
+    "steamId": "1701592470",
+    "version": "1.0.0"
+  },
+  {
     "author": "TechnoFox",
     "name": "Colonist Mentality"
   },
@@ -760,6 +818,12 @@
     "name": "Snap Out!",
     "steamId": "1319782555",
     "version": "0.7.3"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Release Animals into Wild",
+    "steamId": "1754692524",
+    "version": "1.0.0.0"
   },
   {
     "author": "Vectorial1024",
@@ -772,10 +836,38 @@
     "version": "1.1.0"
   },
   {
+    "author": "Albion",
+    "name": "Go Explore!",
+    "steamId": "1814100216",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Dametri",
+    "name": "[D] Techprinting",
+    "steamId": "2100243898",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Dametri",
     "name": "[D] Arcane Technology",
     "steamId": "2106703025",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "New Limbs Needs Training",
+    "steamId": "2439159828",
+    "version": "1.0.7.0"
+  },
+  {
+    "author": "cucumpear",
+    "name": "No Burny (less flammable metals)"
+  },
+  {
+    "author": "iamrespawn",
+    "name": "Prosthetic No Missing Body Parts",
+    "steamId": "2103563425",
+    "version": "1.0.0.3"
   },
   {
     "author": "jskyn",
@@ -786,10 +878,6 @@
     "name": "Vanilla Hair Expanded",
     "steamId": "1888705256",
     "version": "1.0.3"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Hair Expanded - Beards"
   },
   {
     "author": "Nackblad",
@@ -906,6 +994,10 @@
     "version": "2.0.0.0"
   },
   {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Cosmetic Modifications"
+  },
+  {
     "author": "Carnagion",
     "name": "Artifacts Expanded",
     "steamId": "2482885441",
@@ -964,6 +1056,10 @@
   {
     "author": "zymex",
     "name": "SS Bigger Batteries"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. TurretBase, Objects"
   },
   {
     "author": "Paradox",
@@ -1092,6 +1188,10 @@
     "name": "Vanilla Weapons Expanded - Tribal"
   },
   {
+    "author": "AobaKuma",
+    "name": "Fortifications - Medieval"
+  },
+  {
     "author": "Argón",
     "name": "Expanded Materials - Metals"
   },
@@ -1210,6 +1310,12 @@
     "name": "Netrve's DeepStorage GUI",
     "steamId": "2169841018",
     "version": "1.2.1.38"
+  },
+  {
+    "author": "noodlesking",
+    "name": "More Psycasts",
+    "steamId": "2460833332",
+    "version": "1.0.0.1"
   },
   {
     "author": "Lanilor, Pustalorc",
@@ -1386,6 +1492,14 @@
     "name": "Astoriel"
   },
   {
+    "author": "R-MK",
+    "name": "Anthro Race"
+  },
+  {
+    "author": "VexedTrees",
+    "name": "Rim-Hivers!"
+  },
+  {
     "author": "SineSwiper",
     "name": "Faction Blender"
   },
@@ -1394,10 +1508,6 @@
     "name": "Apparel BodyType Resolver",
     "steamId": "2037354634",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "tikubonn",
-    "name": "DiceOfDestiny"
   },
   {
     "author": "redbrick",
@@ -1460,12 +1570,12 @@
     "name": "Bionic icons"
   },
   {
-    "author": "Cosmo Corban",
-    "name": "AI Upscaled Textures - Mods"
-  },
-  {
     "author": "bradson",
     "name": "Bradson's Main Button Icons for Vanilla Textures Expanded"
+  },
+  {
+    "author": "marcin212",
+    "name": "Architect Icons"
   },
   {
     "author": "ireth92",
@@ -1486,8 +1596,16 @@
     "name": "Vanilla Weapons Retextured"
   },
   {
+    "author": "lolidrop",
+    "name": "[L]MangaFace"
+  },
+  {
     "author": "Laast",
     "name": "Toony Terrain Textures"
+  },
+  {
+    "author": "Cosmo Corban",
+    "name": "AI Upscaled Textures - Mods"
   },
   {
     "author": "MrKociak",
@@ -1526,9 +1644,19 @@
     "name": "TwitchToolkit Bridge - Vanilla Events Expanded"
   },
   {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.2.1"
+  },
+  {
     "author": "Krkr",
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
-    "version": "0.6.3.1411"
+    "version": "1.0.0"
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Partially-Passable Wind Turbines"
   }
 ]
