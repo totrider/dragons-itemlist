@@ -298,10 +298,10 @@
     "version": "2020.1.4.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Work Tab",
-    "steamId": "725219116",
-    "version": "3.21.303"
+    "author": "Lauriichen",
+    "name": "PriorityMaster",
+    "steamId": "1994006442",
+    "version": "1.0.0.0"
   },
   {
     "author": "neitsa",
@@ -898,6 +898,10 @@
   {
     "author": "BJInternetSupervision",
     "name": "[SS]Lovely Hair Style"
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Partially-Passable Wind Turbines"
   },
   {
     "author": "Rainbeau Flambe and Jamaican Castle",
@@ -1596,16 +1600,30 @@
     "name": "Vanilla Weapons Retextured"
   },
   {
-    "author": "lolidrop",
-    "name": "[L]MangaFace"
-  },
-  {
     "author": "Laast",
     "name": "Toony Terrain Textures"
   },
   {
     "author": "Cosmo Corban",
     "name": "AI Upscaled Textures - Mods"
+  },
+  {
+    "author": "Morphium",
+    "name": "HD Faces(Nonvanilla)"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Daemon976",
+    "name": "Nals Facial Animation for HAR"
+  },
+  {
+    "author": "VanillaSky",
+    "name": "Facial Animation Human Ears Patch"
   },
   {
     "author": "MrKociak",
@@ -1654,9 +1672,5 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "1.0.0"
-  },
-  {
-    "author": "Wemd",
-    "name": "[WD] Partially-Passable Wind Turbines"
   }
 ]
