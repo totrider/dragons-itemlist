@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 1400,
+		"price": 8000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 20000,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,12 +82,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 34000,
+		"price": 100000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 30000,
+		"price": 200000,
 		"karmatype": "Doom"
 	},
 	{
@@ -132,8 +132,8 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
-		"karmatype": "Neutral"
+		"price": 400,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -152,22 +152,22 @@
 	},
 	{
 		"abr": "ambrosiasprout",
-		"price": 300,
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "herdmigration",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "farmanimals",
-		"price": 400,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "rarethrumbos",
-		"price": 640,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -221,17 +221,7 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -391,11 +381,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "caravanraidquest",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "wantedquest",
 		"price": 1500,
 		"karmatype": "Neutral"
@@ -407,7 +392,7 @@
 	},
 	{
 		"abr": "earthquake",
-		"price": 2000,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -417,7 +402,7 @@
 	},
 	{
 		"abr": "drought",
-		"price": 5000,
+		"price": 7000,
 		"karmatype": "Bad"
 	},
 	{
@@ -426,5 +411,5 @@
 		"karmatype": "Bad"
 	}
 	],
-	"total": 85
+	"total": 82
 }
