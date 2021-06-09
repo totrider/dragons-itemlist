@@ -234,6 +234,10 @@
     "name": "A Dog Said... Animal Prosthetics"
   },
   {
+    "author": "LachlanEaston",
+    "name": "LBE's A Dog Said Easy Patcher"
+  },
+  {
     "author": "Nunahur Al-Shamikh",
     "name": "Medieval Prosthetics"
   },
@@ -708,6 +712,10 @@
     "name": "Storyteller Enhanced"
   },
   {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Perry Persistent"
+  },
+  {
     "author": "Paul Freeman",
     "name": "GroundClear"
   },
@@ -852,6 +860,12 @@
     "name": "[D] Arcane Technology",
     "steamId": "2106703025",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Netrve",
+    "name": "Hunters Use Melee!",
+    "steamId": "2062709324",
+    "version": "1.1.3.0"
   },
   {
     "author": "Mlie",
@@ -1192,6 +1206,20 @@
     "name": "Vanilla Weapons Expanded - Tribal"
   },
   {
+    "author": "Sicafe",
+    "name": "[SC]Thrumbo Horn Weapons"
+  },
+  {
+    "author": "Blazen_Rock, xrushha, legodude17, amnabi, Kitsune",
+    "name": "Heavy Melee Weapons",
+    "steamId": "2418407014",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Geminingen",
+    "name": "Hive Armory"
+  },
+  {
     "author": "AobaKuma",
     "name": "Fortifications - Medieval"
   },
@@ -1304,6 +1332,14 @@
     "name": "Materials for Tool Cabinet"
   },
   {
+    "author": "Wemd",
+    "name": "[WD] Materials For Vents"
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Materials For Coolers"
+  },
+  {
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
@@ -1406,6 +1442,10 @@
     "name": "Dragon's Descent",
     "steamId": "2026992161",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Ravvy",
+    "name": "[RWY]Dragon's Descent: Void Dwellers"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan",
