@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 8000,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 20000,
+		"price": 10000,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,12 +82,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 100000,
+		"price": 34000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 200000,
+		"price": 30000,
 		"karmatype": "Doom"
 	},
 	{
@@ -132,8 +132,8 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 400,
-		"karmatype": "Good"
+		"price": 350,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "madanimal",
@@ -152,22 +152,22 @@
 	},
 	{
 		"abr": "ambrosiasprout",
-		"price": 700,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "herdmigration",
-		"price": 1000,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "farmanimals",
-		"price": 1000,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "rarethrumbos",
-		"price": 2000,
+		"price": 640,
 		"karmatype": "Good"
 	},
 	{
@@ -392,7 +392,7 @@
 	},
 	{
 		"abr": "earthquake",
-		"price": 5000,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -402,7 +402,7 @@
 	},
 	{
 		"abr": "drought",
-		"price": 7000,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
