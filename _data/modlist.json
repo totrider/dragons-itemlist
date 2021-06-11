@@ -712,8 +712,30 @@
     "name": "Storyteller Enhanced"
   },
   {
+    "author": "rooki1",
+    "name": "Rimsenal - Storyteller pack"
+  },
+  {
     "author": "Oskar Potocki",
     "name": "Vanilla Storytellers Expanded - Perry Persistent"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi",
+    "name": "Vanilla Storytellers Expanded - Empress Evil"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Neron Neolithic"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] More Quests"
+  },
+  {
+    "author": "GwinnBleidd",
+    "name": "Adjust Quest Chance",
+    "steamId": "2034348644",
+    "version": "1.0.0.0"
   },
   {
     "author": "Paul Freeman",
@@ -871,7 +893,7 @@
     "author": "Mlie",
     "name": "New Limbs Needs Training",
     "steamId": "2439159828",
-    "version": "1.0.7.0"
+    "version": "1.0.9.0"
   },
   {
     "author": "cucumpear",
@@ -1092,6 +1114,10 @@
     "name": "Camping Tent",
     "steamId": "2407128339",
     "version": "1.8.0.0"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Post-apocalyptic Shelters"
   },
   {
     "author": "AobaKuma",
@@ -1368,6 +1394,10 @@
     "name": "Save Our Ship 2"
   },
   {
+    "author": "Morphium",
+    "name": "Advanced Doors"
+  },
+  {
     "author": "Sarg Bjornson",
     "name": "Alpha Ships"
   },
@@ -1444,10 +1474,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Ravvy",
-    "name": "[RWY]Dragon's Descent: Void Dwellers"
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan",
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
@@ -1474,6 +1500,14 @@
     "name": "Vanilla Factions Expanded - Insectoids",
     "steamId": "2149755445",
     "version": "1.2.0.0"
+  },
+  {
+    "author": "ISOREX",
+    "name": "VFE - Mechanoids : Unoffical Add-On"
+  },
+  {
+    "author": "Nowano",
+    "name": "VFE - Mechanoids : Prison control droid"
   },
   {
     "author": "Helixien",
