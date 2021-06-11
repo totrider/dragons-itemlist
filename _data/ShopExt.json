@@ -3352,25 +3352,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "Hygienic",
-      "degree": -2,
-      "name": "slob",
-      "data": {
-        "canBypassLimit": true,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "defName": "VTE_Slob",
       "degree": 0,
       "name": "slob",
@@ -3387,6 +3368,25 @@
       "conflicts": [
         "neat"
       ],
+      "bypassLimit": true
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Hygienic",
+      "degree": -2,
+      "name": "slob",
+      "data": {
+        "canBypassLimit": true,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": true
     },
     {
@@ -3931,8 +3931,8 @@
       "bypassLimit": true
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "RT_DemoCommon",
@@ -3950,8 +3950,8 @@
       "bypassLimit": false
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "RT_DemoEpic",
@@ -3969,8 +3969,8 @@
       "bypassLimit": false
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "RT_DemoLegendary",
@@ -3988,8 +3988,8 @@
       "bypassLimit": false
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "RT_DemoRare",
@@ -4007,8 +4007,8 @@
       "bypassLimit": false
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "RT_DemoUncommon",
@@ -4205,13 +4205,13 @@
       "removePrice": 5500,
       "defName": "RT_Craven",
       "degree": 0,
-      "name": "valiant",
+      "name": "craven",
       "data": {
         "canBypassLimit": true,
         "conflicts": [
           "valiant"
         ],
-        "customName": false,
+        "customName": true,
         "stats": [
           "+5% mental break threshold",
           "-5% pain shock threshold"
@@ -4240,7 +4240,7 @@
         "conflicts": [
           "valiant"
         ],
-        "customName": false,
+        "customName": true,
         "stats": [
           "-5% mental break threshold",
           "+5% pain shock threshold"
@@ -4541,38 +4541,20 @@
     },
     {
       "price": 2500,
-      "defName": "Hiver_Prince_South",
-      "enabled": true,
-      "name": "Hiver Prince South",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2500,
-      "defName": "Hiver_Soldier_South",
-      "enabled": true,
-      "name": "Hiver Soldier South",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2500,
-      "defName": "Hiver_Worker",
-      "enabled": true,
-      "name": "Hiver Worker",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2500,
       "defName": "Hiver_Prince",
       "enabled": true,
       "name": "Hiver Prince",
       "data": {
         "customName": true
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "Hiver_Prince_South",
+      "enabled": true,
+      "name": "Hiver Prince South",
+      "data": {
+        "customName": false
       }
     },
     {
@@ -4600,6 +4582,24 @@
       "name": "Hiver Soldier",
       "data": {
         "customName": true
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "Hiver_Soldier_South",
+      "enabled": true,
+      "name": "Hiver Soldier South",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "Hiver_Worker",
+      "enabled": true,
+      "name": "Hiver Worker",
+      "data": {
+        "customName": false
       }
     },
     {
