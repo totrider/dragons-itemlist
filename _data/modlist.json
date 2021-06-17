@@ -230,16 +230,18 @@
     "name": "EPOE-Forked: Royalty DLC expansion"
   },
   {
-    "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics"
-  },
-  {
-    "author": "LachlanEaston",
-    "name": "LBE's A Dog Said Easy Patcher"
-  },
-  {
     "author": "Nunahur Al-Shamikh",
     "name": "Medieval Prosthetics"
+  },
+  {
+    "author": "Kikohi, Trunken",
+    "name": "Cybernetic Organism and Neural Network",
+    "steamId": "2045064990",
+    "version": "2.0.0.0"
+  },
+  {
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics"
   },
   {
     "author": "Troopersmith1 - Linq- deathrat",
@@ -378,6 +380,12 @@
   {
     "author": "bodlosh",
     "name": "WeaponStats"
+  },
+  {
+    "author": "Revolus",
+    "name": "Textile Stats",
+    "steamId": "2045777828",
+    "version": "2020.4.17"
   },
   {
     "author": "Uuugggg",
@@ -576,6 +584,12 @@
     "name": "RunAndGun"
   },
   {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "3.1.7.0"
+  },
+  {
     "author": "Mehni",
     "name": "Pick Up And Haul (Continued)"
   },
@@ -766,6 +780,10 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Sneaks",
+    "name": "Recycle 1.2"
+  },
+  {
     "author": "Loconeko",
     "name": "Roads of the Rim (Continued)",
     "steamId": "2280318231",
@@ -782,6 +800,10 @@
     "name": "[Kit] Graze up",
     "steamId": "2302739121",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "AFLD",
+    "name": "[AFLD]AnimalsPreferGrazing"
   },
   {
     "author": "Mlie",
@@ -884,6 +906,10 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Valadilene",
+    "name": "Don't Drop Weapon"
+  },
+  {
     "author": "Netrve",
     "name": "Hunters Use Melee!",
     "steamId": "2062709324",
@@ -900,10 +926,14 @@
     "name": "No Burny (less flammable metals)"
   },
   {
-    "author": "iamrespawn",
-    "name": "Prosthetic No Missing Body Parts",
-    "steamId": "2103563425",
-    "version": "1.0.0.3"
+    "author": "LoggerC4, Taranchuk",
+    "name": "Proxy Heat"
+  },
+  {
+    "author": "peldor",
+    "name": "Brrr and Phew (Continued)",
+    "steamId": "2195938471",
+    "version": "1.0.3.0"
   },
   {
     "author": "jskyn",
@@ -1026,12 +1056,6 @@
   {
     "author": "Y1NaLin",
     "name": "Amrita - Age Reversing Serum"
-  },
-  {
-    "author": "Kikohi, Trunken",
-    "name": "Cybernetic Organism and Neural Network",
-    "steamId": "2045064990",
-    "version": "2.0.0.0"
   },
   {
     "author": "Aelanna",
@@ -1262,6 +1286,10 @@
     "name": "Expanded Materials - Metals Mega Patches"
   },
   {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Growable Ambrosia"
+  },
+  {
     "author": "Oskar Potocki, Sarg Bjornson, Chowder",
     "name": "Vanilla Cooking Expanded"
   },
@@ -1474,6 +1502,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "akairo",
+    "name": "Let's Have a Cat!"
+  },
+  {
+    "author": "Spidercamp",
+    "name": "Spidercamp's Dog Pack (Continued)"
+  },
+  {
+    "author": "PoetikDragon",
+    "name": "Japanese Dogs"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan",
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
@@ -1588,16 +1628,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "redbrick",
-    "name": "HAR BodytypeDef patch"
-  },
-  {
-    "author": "Tarojun",
-    "name": "EPOE-Forked: Alien expansion + patcher"
+    "author": "zyxabacab",
+    "name": "Mechanoids Can Burn"
   },
   {
     "author": "Daemon976",
     "name": "Stuffed Security"
+  },
+  {
+    "author": "redbrick",
+    "name": "HAR BodytypeDef patch"
   },
   {
     "author": "zymex",
@@ -1628,6 +1668,20 @@
     "name": "Psychic Harmonizer Lag Fix",
     "steamId": "2458294153",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Tarojun",
+    "name": "EPOE-Forked: Alien expansion + patcher"
+  },
+  {
+    "author": "SineSwiper",
+    "name": "Xenobionic Patcher"
+  },
+  {
+    "author": "iamrespawn",
+    "name": "Prosthetic No Missing Body Parts",
+    "steamId": "2103563425",
+    "version": "1.0.0.3"
   },
   {
     "author": "FrozenSnowFox",
@@ -1678,6 +1732,28 @@
     "name": "Toony Terrain Textures"
   },
   {
+    "author": "Odeum",
+    "name": "World Map Beautification Project",
+    "steamId": "2314407956",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Carolusclen",
+    "name": "World Map Beautification Project - for More Vanilla Biomes"
+  },
+  {
+    "author": "Carolusclen",
+    "name": "World Map Beautification Project - for Alpha Biomes"
+  },
+  {
+    "author": "Ketaros",
+    "name": "[KET] Urns Variations"
+  },
+  {
+    "author": "MrKociak",
+    "name": "Loot Boxes retexture"
+  },
+  {
     "author": "Cosmo Corban",
     "name": "AI Upscaled Textures - Mods"
   },
@@ -1698,10 +1774,6 @@
   {
     "author": "VanillaSky",
     "name": "Facial Animation Human Ears Patch"
-  },
-  {
-    "author": "MrKociak",
-    "name": "Loot Boxes retexture"
   },
   {
     "author": "Andreas Pardeike",
@@ -1728,23 +1800,21 @@
     "version": "5.0.3.2"
   },
   {
-    "author": "mr_chimick",
-    "name": "TwitchToolkit Bridge - VFE Settlers"
-  },
-  {
-    "author": "mr_chimick",
-    "name": "TwitchToolkit Bridge - Vanilla Events Expanded"
-  },
-  {
     "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "2091359241",
     "version": "1.0.2.1"
   },
   {
+    "author": "CaptainPootis",
+    "name": "RuntimeGC",
+    "steamId": "2228430510",
+    "version": "20.0.15.1"
+  },
+  {
     "author": "Krkr",
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
-    "version": "1.0.0"
+    "version": "0.6.3.2193"
   }
 ]
