@@ -369,47 +369,7 @@
 		"abr": "backpack",
 		"price": 1,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "drunkmuffalos",
-		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "protectionfee",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "wantedquest",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hailstorm",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "earthquake",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "cropsprout",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "drought",
-		"price": 5000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "huntingparty",
-		"price": 1200,
-		"karmatype": "Bad"
 	}
 	],
-	"total": 82
+	"total": 74
 }
