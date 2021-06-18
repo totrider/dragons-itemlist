@@ -40,7 +40,7 @@
       "abr": "aisr2g",
       "category": "Power",
       "defname": "RotR_AISR2G",
-      "price": 8967
+      "price": -10
     },
     {
       "abr": "alpaca",
@@ -94,7 +94,7 @@
       "abr": "animusstone",
       "category": "Misc",
       "defname": "AnimusStone",
-      "price": 8333
+      "price": -10
     },
     {
       "abr": "antigrainwarhead",
@@ -178,7 +178,7 @@
       "abr": "battery",
       "category": "Power",
       "defname": "Battery",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "bearmeat",
@@ -436,7 +436,7 @@
       "abr": "cat",
       "category": "Animal",
       "defname": "Cat",
-      "price": 167
+      "price": 170
     },
     {
       "abr": "catmeat",
@@ -976,7 +976,7 @@
       "abr": "firefoampopper",
       "category": "Misc",
       "defname": "FirefoamPopper",
-      "price": 300
+      "price": -10
     },
     {
       "abr": "firefoamshell",
@@ -1300,7 +1300,7 @@
       "abr": "heater",
       "category": "Temperature",
       "defname": "Heater",
-      "price": 218
+      "price": -10
     },
     {
       "abr": "heavyfur",
@@ -1534,7 +1534,7 @@
       "abr": "isr2g",
       "category": "Power",
       "defname": "RotR_ISR2G",
-      "price": 60
+      "price": -10
     },
     {
       "abr": "jacket",
@@ -1606,7 +1606,7 @@
       "abr": "largenatureshrine",
       "category": "Misc",
       "defname": "NatureShrine_Large",
-      "price": 1183
+      "price": -10
     },
     {
       "abr": "largesculpture",
@@ -1618,7 +1618,7 @@
       "abr": "largeshieldgenerator",
       "category": "Buildings",
       "defname": "Building_ShieldGeneratorLarge",
-      "price": 6500
+      "price": 7017
     },
     {
       "abr": "lavishmeal",
@@ -1924,7 +1924,7 @@
       "abr": "multi-analyzer",
       "category": "Misc",
       "defname": "MultiAnalyzer",
-      "price": 1700
+      "price": -10
     },
     {
       "abr": "neurocalculator",
@@ -1972,7 +1972,7 @@
       "abr": "orbitaltradebeacon",
       "category": "Misc",
       "defname": "OrbitalTradeBeacon",
-      "price": 185
+      "price": -10
     },
     {
       "abr": "ostrich",
@@ -2686,13 +2686,13 @@
       "abr": "shieldgenerator",
       "category": "Buildings",
       "defname": "Building_ShieldGenerator",
-      "price": 3200
+      "price": 3508
     },
     {
       "abr": "shiplandingbeacon",
       "category": "Misc",
       "defname": "ShipLandingBeacon",
-      "price": 185
+      "price": -10
     },
     {
       "abr": "shortbow",
@@ -2818,7 +2818,7 @@
       "abr": "smallnatureshrine",
       "category": "Misc",
       "defname": "NatureShrine_Small",
-      "price": 592
+      "price": -10
     },
     {
       "abr": "smallsculpture",
@@ -3118,7 +3118,7 @@
       "abr": "toolcabinet",
       "category": "Misc",
       "defname": "ToolCabinet",
-      "price": 642
+      "price": -10
     },
     {
       "abr": "tophat",
@@ -3130,7 +3130,7 @@
       "abr": "tornadogenerator",
       "category": "Utility",
       "defname": "TornadoGenerator",
-      "price": 6000
+      "price": -10
     },
     {
       "abr": "tortoise",
@@ -3256,7 +3256,7 @@
       "abr": "vitalsmonitor",
       "category": "Misc",
       "defname": "VitalsMonitor",
-      "price": 358
+      "price": -10
     },
     {
       "abr": "wake-up",
@@ -3466,25 +3466,25 @@
       "abr": "16kbattery",
       "category": "Power",
       "defname": "Battery16k",
-      "price": 1925
+      "price": -10
     },
     {
       "abr": "256kbattery",
       "category": "Power",
       "defname": "Battery256k",
-      "price": 19108
+      "price": -10
     },
     {
       "abr": "4kbattery",
       "category": "Power",
       "defname": "Battery4k",
-      "price": 692
+      "price": -10
     },
     {
       "abr": "64kbattery",
       "category": "Power",
       "defname": "Battery64k",
-      "price": 5392
+      "price": -10
     },
     {
       "abr": "abyssaleel",
@@ -3538,7 +3538,7 @@
       "abr": "abysstechpersonaadvisermodule",
       "category": "Misc",
       "defname": "MoyoGRModule",
-      "price": 10567
+      "price": -10
     },
     {
       "abr": "abyssteel",
@@ -3565,18 +3565,6 @@
       "price": 500
     },
     {
-      "abr": "acidicbreathimplant",
-      "category": "Animal Body Part",
-      "defname": "MM_AcidicBreathImplant",
-      "price": 1333
-    },
-    {
-      "abr": "acidicspitterimplant",
-      "category": "Animal Body Part",
-      "defname": "AA_AcidicSpitterImplant",
-      "price": 1333
-    },
-    {
       "abr": "actinamine",
       "category": "Chemicals",
       "defname": "VMEu_Actinamine",
@@ -3595,12 +3583,6 @@
       "price": 1092
     },
     {
-      "abr": "advancedanimalprostheticstable",
-      "category": "Production",
-      "defname": "VEF_AdvancedAnimalImplantsTable",
-      "price": -10
-    },
-    {
       "abr": "advancedassembler",
       "category": "Production",
       "defname": "VFEM_ElectronicsFabricationFactory_AdvancedAssembler",
@@ -3610,7 +3592,7 @@
       "abr": "advancedbattery",
       "category": "Power",
       "defname": "VFE_AdvancedBattery",
-      "price": 908
+      "price": -10
     },
     {
       "abr": "advancedbed",
@@ -3619,22 +3601,10 @@
       "price": -10
     },
     {
-      "abr": "advancedbionicarm",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicArm",
-      "price": 3808
-    },
-    {
       "abr": "advancedbionicear",
       "category": "Ultratech",
       "defname": "AdvancedBionicEar",
       "price": 2383
-    },
-    {
-      "abr": "advancedbionicelbowblade",
-      "category": "Ultratech",
-      "defname": "EPOE_AdvancedElbowBlade",
-      "price": 4508
     },
     {
       "abr": "advancedbioniceye",
@@ -3643,58 +3613,16 @@
       "price": 2750
     },
     {
-      "abr": "advancedbionicfinger",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicFinger",
-      "price": 600
-    },
-    {
-      "abr": "advancedbionicfoot",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicFoot",
-      "price": 2375
-    },
-    {
-      "abr": "advancedbionichand",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicHand",
-      "price": 2375
-    },
-    {
-      "abr": "advancedbionichandtalon",
-      "category": "Ultratech",
-      "defname": "EPOE_AdvancedHandTalon",
-      "price": 3525
-    },
-    {
       "abr": "advancedbionicjaw",
       "category": "Ultratech",
       "defname": "AdvancedBionicJaw",
       "price": 2567
     },
     {
-      "abr": "advancedbionickneespike",
-      "category": "Ultratech",
-      "defname": "EPOE_AdvancedKneeSpike",
-      "price": 4508
-    },
-    {
-      "abr": "advancedbionicleg",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicLeg",
-      "price": 3808
-    },
-    {
       "abr": "advancedbionicspine",
       "category": "Ultratech",
       "defname": "AdvancedBionicSpine",
       "price": 3808
-    },
-    {
-      "abr": "advancedbionictoe",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicToe",
-      "price": 600
     },
     {
       "abr": "advancedchair",
@@ -3707,18 +3635,6 @@
       "category": "Furniture",
       "defname": "Bed_AdvDoubleBed",
       "price": -10
-    },
-    {
-      "abr": "advanceddrillarm",
-      "category": "Ultratech",
-      "defname": "EPOE_AdvancedDrillArm",
-      "price": 3500
-    },
-    {
-      "abr": "advancedfieldhand",
-      "category": "Ultratech",
-      "defname": "EPOE_AdvancedFieldHand",
-      "price": 2733
     },
     {
       "abr": "advancedholodeck",
@@ -3737,12 +3653,6 @@
       "category": "Ranged",
       "defname": "VFE_Gun_AdvancedInfernoSpewer",
       "price": -10
-    },
-    {
-      "abr": "advancedpowerarm",
-      "category": "Ultratech",
-      "defname": "AdvancedPowerArm",
-      "price": 5275
     },
     {
       "abr": "advancedvest",
@@ -3850,13 +3760,13 @@
       "abr": "air-conindoorunit",
       "category": "Hygiene",
       "defname": "AirconIndoorUnit",
-      "price": 82
+      "price": -10
     },
     {
       "abr": "air-conoutdoorunit",
       "category": "Hygiene",
       "defname": "AirConOutdoorUnit",
-      "price": 458
+      "price": -10
     },
     {
       "abr": "alastair",
@@ -4033,12 +3943,6 @@
       "price": -10
     },
     {
-      "abr": "animalprostheticstable",
-      "category": "Production",
-      "defname": "TableAnimalProsthetics",
-      "price": -10
-    },
-    {
       "abr": "animalisk",
       "category": "Animal",
       "defname": "AA_Animalisk",
@@ -4126,7 +4030,7 @@
       "abr": "apiary",
       "category": "Misc",
       "defname": "VFEV_Apiary",
-      "price": 318
+      "price": -10
     },
     {
       "abr": "apples",
@@ -4276,25 +4180,25 @@
       "abr": "archotechpillaralpha",
       "category": "Misc",
       "defname": "ShipArchotechPillarA",
-      "price": 18167
+      "price": -10
     },
     {
       "abr": "archotechpillarbeta",
       "category": "Misc",
       "defname": "ShipArchotechPillarB",
-      "price": 18167
+      "price": -10
     },
     {
       "abr": "archotechpillardelta",
       "category": "Misc",
       "defname": "ShipArchotechPillarD",
-      "price": 18167
+      "price": -10
     },
     {
       "abr": "archotechpillargamma",
       "category": "Misc",
       "defname": "ShipArchotechPillarC",
-      "price": 18167
+      "price": -10
     },
     {
       "abr": "archotechsculpture",
@@ -4342,13 +4246,13 @@
       "abr": "archotechuplink",
       "category": "Misc",
       "defname": "ArchotechUplink",
-      "price": 8983
+      "price": -10
     },
     {
       "abr": "archotechviolencegenerator",
       "category": "Special",
       "defname": "VPE_ArchotechViolenceGenerator",
-      "price": 6000
+      "price": 12000
     },
     {
       "abr": "archothrumbo",
@@ -4669,16 +4573,10 @@
       "price": -10
     },
     {
-      "abr": "barbedquillthrowerimplant",
-      "category": "Animal Body Part",
-      "defname": "AA_BarbedQuillThrowerImplant",
-      "price": 1333
-    },
-    {
       "abr": "barber'stable",
       "category": "Misc",
       "defname": "VHE_TableBarber",
-      "price": 315
+      "price": -10
     },
     {
       "abr": "barbslinger",
@@ -4738,7 +4636,7 @@
       "abr": "basin",
       "category": "Hygiene",
       "defname": "BasinStuff",
-      "price": 60
+      "price": -10
     },
     {
       "abr": "bass",
@@ -4750,7 +4648,7 @@
       "abr": "bathtub",
       "category": "Hygiene",
       "defname": "BathtubStuff",
-      "price": 117
+      "price": -10
     },
     {
       "abr": "baton",
@@ -4849,12 +4747,6 @@
       "price": -10
     },
     {
-      "abr": "bioelectricorganimplant",
-      "category": "Animal Body Part",
-      "defname": "AA_BioelectricOrganImplant",
-      "price": 1333
-    },
-    {
       "abr": "bio-engineeringincubator",
       "category": "Furniture",
       "defname": "VFEI_BioengineeringIncubator",
@@ -4867,106 +4759,10 @@
       "price": -10
     },
     {
-      "abr": "bionicanimalarm",
-      "category": "Animal Body Part",
-      "defname": "BionicArmAnimal",
-      "price": 992
-    },
-    {
-      "abr": "bionicanimalbrainstimulator",
-      "category": "Animal Body Part",
-      "defname": "AnimalBrainStimulator",
-      "price": 1900
-    },
-    {
-      "abr": "bionicanimalearimplant",
-      "category": "Animal Body Part",
-      "defname": "EarAnimalBionic",
-      "price": 908
-    },
-    {
-      "abr": "bionicanimaleye",
-      "category": "Animal Body Part",
-      "defname": "BionicEyeAnimal",
-      "price": 908
-    },
-    {
-      "abr": "bionicanimalheart",
-      "category": "Animal Body Part",
-      "defname": "BionicAnimalHeart",
-      "price": 767
-    },
-    {
-      "abr": "bionicanimaljaw",
-      "category": "Animal Body Part",
-      "defname": "JawAnimalBionic",
-      "price": 908
-    },
-    {
-      "abr": "bionicanimalkidney",
-      "category": "Animal Body Part",
-      "defname": "BionicAnimalKidney",
-      "price": 525
-    },
-    {
-      "abr": "bionicanimalleg",
-      "category": "Animal Body Part",
-      "defname": "BionicLegAnimal",
-      "price": 992
-    },
-    {
-      "abr": "bionicanimalliver",
-      "category": "Animal Body Part",
-      "defname": "BionicAnimalLiver",
-      "price": 525
-    },
-    {
-      "abr": "bionicanimallung",
-      "category": "Animal Body Part",
-      "defname": "BionicAnimalLung",
-      "price": 525
-    },
-    {
-      "abr": "bionicanimalspine",
-      "category": "Animal Body Part",
-      "defname": "SpineAnimalBionic",
-      "price": 1142
-    },
-    {
-      "abr": "bionicanimalstomach",
-      "category": "Animal Body Part",
-      "defname": "BionicAnimalStomach",
-      "price": 533
-    },
-    {
-      "abr": "bionicbeak",
-      "category": "Animal Body Part",
-      "defname": "AA_BionicBeak",
-      "price": 958
-    },
-    {
       "abr": "bionicbladder",
       "category": "Bionic",
       "defname": "BionicBladder",
       "price": 1375
-    },
-    {
-      "abr": "bionicbuoyancymechanism",
-      "category": "Animal Body Part",
-      "defname": "AA_BionicBuoyancyMechanism",
-      "price": 1475
-    },
-    {
-      "abr": "bionicclaw",
-      "category": "Animal Body Part",
-      "defname": "AB_BionicClaw",
-      "price": 958
-    },
-    {
-      "abr": "bionicelbowblade",
-      "category": "Bionic",
-      "defname": "EPOE_ScytherElbowBlade",
-      "price": 3367
     },
     {
       "abr": "bionicfinger",
@@ -4987,76 +4783,22 @@
       "price": 1292
     },
     {
-      "abr": "bionichandtalon",
-      "category": "Bionic",
-      "defname": "EPOE_ScytherHandTalon",
-      "price": 2383
-    },
-    {
-      "abr": "bionichorns",
-      "category": "Animal Body Part",
-      "defname": "MM_BionicHorns",
-      "price": 1283
-    },
-    {
       "abr": "bionicjaw",
       "category": "Bionic",
       "defname": "BionicJaw",
       "price": 1483
     },
     {
-      "abr": "bionickneespike",
-      "category": "Bionic",
-      "defname": "EPOE_ScytherKneeSpike",
-      "price": 3367
-    },
-    {
-      "abr": "bionicmagicalwing",
-      "category": "Animal Body Part",
-      "defname": "MM_BionicMagicalWing",
-      "price": 1283
-    },
-    {
-      "abr": "bionicmotiondetector",
-      "category": "Animal Body Part",
-      "defname": "AA_BionicMotionDetector",
-      "price": 950
-    },
-    {
       "abr": "bionicmoyotail",
       "category": "Alien tails (original)",
       "defname": "Moyo_BionicTail",
-      "price": 1683
-    },
-    {
-      "abr": "bionicshell",
-      "category": "Animal Body Part",
-      "defname": "AA_BionicShell",
-      "price": 1825
-    },
-    {
-      "abr": "bionicstinger",
-      "category": "Animal Body Part",
-      "defname": "MM_BionicStinger",
-      "price": 1283
-    },
-    {
-      "abr": "bionictentacle",
-      "category": "Animal Body Part",
-      "defname": "AA_BionicTentacle",
-      "price": 958
+      "price": -10
     },
     {
       "abr": "bionictoe",
       "category": "Bionic",
       "defname": "BionicToe",
       "price": 253
-    },
-    {
-      "abr": "bionicwing",
-      "category": "Animal Body Part",
-      "defname": "AA_BionicWing",
-      "price": 1283
     },
     {
       "abr": "bionicsworkbench",
@@ -5128,7 +4870,7 @@
       "abr": "biosolidscomposter",
       "category": "Hygiene",
       "defname": "BiosolidsComposter",
-      "price": 146
+      "price": -10
     },
     {
       "abr": "birchlogs",
@@ -5302,7 +5044,7 @@
       "abr": "bluegelbattery",
       "category": "Power",
       "defname": "AA_BlueGelBattery",
-      "price": 1067
+      "price": -10
     },
     {
       "abr": "bluehaze",
@@ -5356,7 +5098,7 @@
       "abr": "boardgameboxes",
       "category": "Misc",
       "defname": "BoardGameBoxes",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "boltsmg",
@@ -5674,13 +5416,13 @@
       "abr": "ceilingfan1x1",
       "category": "Hygiene",
       "defname": "CeilingFanS",
-      "price": 184
+      "price": -10
     },
     {
       "abr": "ceilingfan2x2",
       "category": "Hygiene",
       "defname": "CeilingFan",
-      "price": 184
+      "price": -10
     },
     {
       "abr": "cerberus",
@@ -5914,7 +5656,7 @@
       "abr": "chemboiler",
       "category": "Temperature",
       "defname": "ChemBoiler",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "chemfuelbarrel",
@@ -6394,7 +6136,7 @@
       "abr": "conduitpylon",
       "category": "Misc",
       "defname": "VFE_ConduitPylon",
-      "price": 185
+      "price": -10
     },
     {
       "abr": "constructionbook",
@@ -6406,7 +6148,7 @@
       "abr": "conveyorbelt",
       "category": "Automation",
       "defname": "PRF_Conveyor_Simple_I",
-      "price": 120
+      "price": -10
     },
     {
       "abr": "conveyoroven",
@@ -6418,7 +6160,7 @@
       "abr": "conveyorsplitter",
       "category": "Automation",
       "defname": "PRF_Conveyor_Splitter_I",
-      "price": 1992
+      "price": -10
     },
     {
       "abr": "cookingbook",
@@ -6754,19 +6496,19 @@
       "abr": "curtain(tribal)(1x1)",
       "category": "Buildings",
       "defname": "HeronCurtainTribal",
-      "price": 88
+      "price": -10
     },
     {
       "abr": "curtain(tribal)(2x1)",
       "category": "Buildings",
       "defname": "HeronCurtainTribalDouble",
-      "price": 177
+      "price": -10
     },
     {
       "abr": "curtain(tribal)(3x1)",
       "category": "Buildings",
       "defname": "HeronCurtainTribalTriple",
-      "price": 265
+      "price": -10
     },
     {
       "abr": "cushionedchair",
@@ -7048,7 +6790,7 @@
       "abr": "digitalstorageunit",
       "category": "Automation",
       "defname": "PRF_DigitalStorageUnit_I",
-      "price": 18133
+      "price": -10
     },
     {
       "abr": "dilophosaurus",
@@ -7348,7 +7090,7 @@
       "abr": "drugcabinet",
       "category": "Misc",
       "defname": "VFE_DrugCabinet",
-      "price": 892
+      "price": -10
     },
     {
       "abr": "drugpowderizer",
@@ -7498,7 +7240,7 @@
       "abr": "electricboiler",
       "category": "Hygiene",
       "defname": "ElectricBoiler",
-      "price": 425
+      "price": -10
     },
     {
       "abr": "electricbutcher",
@@ -7528,7 +7270,7 @@
       "abr": "electricpump",
       "category": "Hygiene",
       "defname": "ElectricPump",
-      "price": 316
+      "price": -10
     },
     {
       "abr": "electricstonecutter'stable",
@@ -7702,7 +7444,7 @@
       "abr": "expressconveyorbelt",
       "category": "Automation",
       "defname": "PRF_Conveyor_Simple_III",
-      "price": 160
+      "price": -10
     },
     {
       "abr": "eyeball",
@@ -7714,13 +7456,13 @@
       "abr": "fabricationcabinet",
       "category": "Misc",
       "defname": "VFE_FabricationCabinet",
-      "price": 433
+      "price": -10
     },
     {
       "abr": "facepaintingtable",
       "category": "Misc",
       "defname": "VFE_TableFacePaints",
-      "price": 119
+      "price": -10
     },
     {
       "abr": "factoryhopper",
@@ -7744,7 +7486,7 @@
       "abr": "fastconveyorbelt",
       "category": "Automation",
       "defname": "PRF_Conveyor_Simple_II",
-      "price": 120
+      "price": -10
     },
     {
       "abr": "federationjumpsuit",
@@ -8011,12 +7753,6 @@
       "price": 314
     },
     {
-      "abr": "firebreathimplant",
-      "category": "Animal Body Part",
-      "defname": "MM_FireBreathImplant",
-      "price": 1333
-    },
-    {
       "abr": "fireextinguisher",
       "category": "Ranged",
       "defname": "VWE_Gun_FireExtinguisher",
@@ -8026,7 +7762,7 @@
       "abr": "firesprinkler",
       "category": "Hygiene",
       "defname": "FireSprinkler",
-      "price": 104
+      "price": -10
     },
     {
       "abr": "firesupportarmor",
@@ -8092,7 +7828,7 @@
       "abr": "flagpole",
       "category": "Buildings",
       "defname": "JDSExiledDawnFlagPole",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "flakgoggles",
@@ -8194,7 +7930,7 @@
       "abr": "fountain",
       "category": "Hygiene",
       "defname": "Fountain",
-      "price": 60
+      "price": -10
     },
     {
       "abr": "fragmissile",
@@ -8206,13 +7942,13 @@
       "abr": "fridgedigitalstorageunit",
       "category": "Automation",
       "defname": "PRFCoolDSU",
-      "price": 18167
+      "price": -10
     },
     {
       "abr": "fridgei/oport",
       "category": "Automation",
       "defname": "PRF_IOPort_IFridge",
-      "price": 625
+      "price": -10
     },
     {
       "abr": "frigidswimmer",
@@ -8284,13 +8020,13 @@
       "abr": "fuelingmachine",
       "category": "Automation",
       "defname": "PRF_FuelingMachine",
-      "price": 2600
+      "price": -10
     },
     {
       "abr": "fungalhusk",
       "category": "Animal",
       "defname": "AA_FungalHusk",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "furbed",
@@ -8368,7 +8104,7 @@
       "abr": "gasboiler",
       "category": "Hygiene",
       "defname": "GasBoiler",
-      "price": 425
+      "price": -10
     },
     {
       "abr": "gasfloodlight",
@@ -8380,7 +8116,7 @@
       "abr": "gasheater",
       "category": "Temperature",
       "defname": "VPE_GasHeater",
-      "price": 218
+      "price": -10
     },
     {
       "abr": "gasmask",
@@ -8404,7 +8140,7 @@
       "abr": "gastank",
       "category": "Power",
       "defname": "VPE_GasTank",
-      "price": 266
+      "price": -10
     },
     {
       "abr": "gaswalllight",
@@ -8650,7 +8386,7 @@
       "abr": "goldeneye",
       "category": "Prosthetic",
       "defname": "GoldenEye",
-      "price": 26
+      "price": 60
     },
     {
       "abr": "goldfish",
@@ -8663,12 +8399,6 @@
       "category": "Animal",
       "defname": "Gomphotaria",
       "price": 3333
-    },
-    {
-      "abr": "gooacidifier",
-      "category": "Animal Body Part",
-      "defname": "AA_GooAcidifier",
-      "price": 160
     },
     {
       "abr": "gourmetbake",
@@ -8884,7 +8614,7 @@
       "abr": "growzonepuller",
       "category": "Automation",
       "defname": "PRF_GrowzonePuller_I",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "guardianarmor",
@@ -9148,7 +8878,7 @@
       "abr": "hexagelbattery",
       "category": "Power",
       "defname": "AA_HexaGelBattery",
-      "price": 2542
+      "price": -10
     },
     {
       "abr": "hexagelcore",
@@ -9208,19 +8938,19 @@
       "abr": "hottub",
       "category": "Hygiene",
       "defname": "HotTub",
-      "price": 800
+      "price": -10
     },
     {
       "abr": "hotwatertank",
       "category": "Hygiene",
       "defname": "HotWaterTank",
-      "price": 195
+      "price": -10
     },
     {
       "abr": "hugeanimapearl",
       "category": "Manufactured",
       "defname": "AA_HugeAnimaPearl",
-      "price": 83
+      "price": 1600
     },
     {
       "abr": "hugecapturedasteroid,bottom",
@@ -9277,16 +9007,10 @@
       "price": 1375
     },
     {
-      "abr": "hyperacidicstomachimplant",
-      "category": "Animal Body Part",
-      "defname": "AA_HyperAcidicStomachImplant",
-      "price": 1333
-    },
-    {
       "abr": "i/oport",
       "category": "Automation",
       "defname": "PRF_IOPort_I",
-      "price": 617
+      "price": -10
     },
     {
       "abr": "iashiphusfruit",
@@ -9592,7 +9316,7 @@
       "abr": "intravenousdripstand",
       "category": "Misc",
       "defname": "Facility_IVDrip",
-      "price": 316
+      "price": -10
     },
     {
       "abr": "irishcoffee",
@@ -9652,19 +9376,19 @@
       "abr": "itemanglepuller",
       "category": "Automation",
       "defname": "PRF_SimplePuller_II_Side",
-      "price": 2342
+      "price": -10
     },
     {
       "abr": "itempullermki",
       "category": "Automation",
       "defname": "PRF_SimplePuller_I",
-      "price": 992
+      "price": -10
     },
     {
       "abr": "itempullermkii",
       "category": "Automation",
       "defname": "PRF_SimplePuller_II",
-      "price": 4083
+      "price": -10
     },
     {
       "abr": "jackhammer",
@@ -9862,13 +9586,13 @@
       "abr": "kitchensink",
       "category": "Hygiene",
       "defname": "KitchenSink",
-      "price": 147
+      "price": -10
     },
     {
       "abr": "kitchensinkcabinet",
       "category": "Misc",
       "defname": "VFE_KitchenSinkCabinet",
-      "price": 327
+      "price": -10
     },
     {
       "abr": "kiteshield",
@@ -9952,13 +9676,13 @@
       "abr": "largeadvancedbattery",
       "category": "Power",
       "defname": "VFE_LargeAdvancedBattery",
-      "price": 1775
+      "price": -10
     },
     {
       "abr": "largebattery",
       "category": "Power",
       "defname": "VFE_LargeBattery",
-      "price": 758
+      "price": -10
     },
     {
       "abr": "largebin",
@@ -9982,7 +9706,7 @@
       "abr": "largeradiator",
       "category": "Hygiene",
       "defname": "RadiatorLarge",
-      "price": 254
+      "price": -10
     },
     {
       "abr": "largerug",
@@ -10066,7 +9790,7 @@
       "abr": "latrine",
       "category": "Hygiene",
       "defname": "PitLatrine",
-      "price": 60
+      "price": -10
     },
     {
       "abr": "lattecoffee",
@@ -10186,19 +9910,13 @@
       "abr": "lifesupportsystem",
       "category": "Misc",
       "defname": "QE_LifeSupportSystem",
-      "price": 925
+      "price": -10
     },
     {
       "abr": "lightclub",
       "category": "Melee",
       "defname": "VWE_MeleeWeapon_LightClub",
       "price": 89
-    },
-    {
-      "abr": "lightfocusinglensimplant",
-      "category": "Animal Body Part",
-      "defname": "AA_LightFocusingLensImplant",
-      "price": 1333
     },
     {
       "abr": "lightmagicalleather",
@@ -10264,7 +9982,7 @@
       "abr": "litterbox",
       "category": "Hygiene",
       "defname": "LitterBox",
-      "price": 60
+      "price": -10
     },
     {
       "abr": "lizardmeat",
@@ -10300,7 +10018,7 @@
       "abr": "logboiler",
       "category": "Hygiene",
       "defname": "LogBoiler",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "longbow",
@@ -10366,7 +10084,7 @@
       "abr": "machiningcabinet",
       "category": "Misc",
       "defname": "VFE_MachiningCabinet",
-      "price": 483
+      "price": -10
     },
     {
       "abr": "mackerel",
@@ -10402,7 +10120,7 @@
       "abr": "magneticshield",
       "category": "Power",
       "defname": "Building_RTMagneticShield",
-      "price": 742
+      "price": -10
     },
     {
       "abr": "magyarosaurus",
@@ -11698,7 +11416,7 @@
       "abr": "oculargasspewer",
       "category": "Misc",
       "defname": "AB_OcularGasSpewer",
-      "price": 304
+      "price": -10
     },
     {
       "abr": "ocularjelly",
@@ -12043,12 +11761,6 @@
       "price": -10
     },
     {
-      "abr": "petrifyinggazeimplant",
-      "category": "Animal Body Part",
-      "defname": "MM_PetrifyingGazeImplant",
-      "price": 1333
-    },
-    {
       "abr": "pheromonesecretor",
       "category": "Insect",
       "defname": "VFEI_PheromoneSecretor",
@@ -12358,7 +12070,7 @@
       "abr": "playerhandbook",
       "category": "Misc",
       "defname": "PlayerHandbook",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "plinth",
@@ -12370,7 +12082,7 @@
       "abr": "plumbingvalve",
       "category": "Hygiene",
       "defname": "plumbingValve",
-      "price": 60
+      "price": -10
     },
     {
       "abr": "plums",
@@ -12412,7 +12124,7 @@
       "abr": "portablechemfuelpoweredgenerator",
       "category": "Power",
       "defname": "VFE_PortableChemfuelPoweredGenerator",
-      "price": 242
+      "price": -10
     },
     {
       "abr": "portablemg",
@@ -12430,7 +12142,7 @@
       "abr": "portablewood-firedgenerator",
       "category": "Power",
       "defname": "VFE_PortableWoodFiredGenerator",
-      "price": 189
+      "price": -10
     },
     {
       "abr": "pottery",
@@ -12439,16 +12151,10 @@
       "price": 143
     },
     {
-      "abr": "powerarm",
-      "category": "Bionic",
-      "defname": "PowerArm",
-      "price": 3525
-    },
-    {
       "abr": "powershower",
       "category": "Hygiene",
       "defname": "ShowerAdvStuff",
-      "price": 170
+      "price": -10
     },
     {
       "abr": "precisionlmg",
@@ -12532,7 +12238,7 @@
       "abr": "propaneheater",
       "category": "Temperature",
       "defname": "AB_PropaneHeater",
-      "price": 188
+      "price": -10
     },
     {
       "abr": "propanestove",
@@ -12769,12 +12475,6 @@
       "price": -10
     },
     {
-      "abr": "quadteslacannonimplant",
-      "category": "Animal Body Part",
-      "defname": "AA_QuadTeslaCannonImplant",
-      "price": 1333
-    },
-    {
       "abr": "quartz",
       "category": "Gemstones",
       "defname": "Z_Quartz",
@@ -12820,7 +12520,7 @@
       "abr": "radiator",
       "category": "Hygiene",
       "defname": "RadiatorStuffed",
-      "price": 88
+      "price": -10
     },
     {
       "abr": "radyak",
@@ -12833,12 +12533,6 @@
       "category": "Meat",
       "defname": "Meat_AA_Radyak",
       "price": 3
-    },
-    {
-      "abr": "rangedspinneretimplant",
-      "category": "Animal Body Part",
-      "defname": "AA_RangedSpinneretImplant",
-      "price": 1333
     },
     {
       "abr": "raptorleather",
@@ -13546,7 +13240,7 @@
       "abr": "scarecrow",
       "category": "Misc",
       "defname": "VFE_Scarecrow",
-      "price": 129
+      "price": -10
     },
     {
       "abr": "scarf",
@@ -13756,7 +13450,7 @@
       "abr": "shower",
       "category": "Hygiene",
       "defname": "ShowerStuff",
-      "price": 84
+      "price": -10
     },
     {
       "abr": "siegebreakerarmor",
@@ -13825,30 +13519,6 @@
       "price": 250
     },
     {
-      "abr": "simpleanimalearimplant",
-      "category": "Animal Body Part",
-      "defname": "EarAnimalSimple",
-      "price": 121
-    },
-    {
-      "abr": "simpleanimaljawimplant",
-      "category": "Animal Body Part",
-      "defname": "JawAnimalSimple",
-      "price": 121
-    },
-    {
-      "abr": "simpleanimalnose",
-      "category": "Animal Body Part",
-      "defname": "NoseAnimalSimple",
-      "price": 121
-    },
-    {
-      "abr": "simpleanimalspine",
-      "category": "Animal Body Part",
-      "defname": "SpineAnimalSimple",
-      "price": 199
-    },
-    {
       "abr": "simplebake",
       "category": "Meals",
       "defname": "VCE_SimpleBake",
@@ -13885,82 +13555,10 @@
       "price": -10
     },
     {
-      "abr": "simpleprostheticanimalarm",
-      "category": "Animal Body Part",
-      "defname": "SimpleProstheticArmAnimal",
-      "price": 211
-    },
-    {
-      "abr": "simpleprostheticanimalleg",
-      "category": "Animal Body Part",
-      "defname": "SimpleProstheticLegAnimal",
-      "price": 211
-    },
-    {
-      "abr": "simpleprostheticanimaltail",
-      "category": "Animal Body Part",
-      "defname": "ProstheticTailAnimal",
-      "price": 102
-    },
-    {
-      "abr": "simpleprostheticbeak",
-      "category": "Animal Body Part",
-      "defname": "AA_ProstheticBeak",
-      "price": 218
-    },
-    {
-      "abr": "simpleprostheticbuoyancymechanism",
-      "category": "Animal Body Part",
-      "defname": "AA_ProstheticBuoyancyMechanism",
-      "price": 533
-    },
-    {
-      "abr": "simpleprostheticclaw",
-      "category": "Animal Body Part",
-      "defname": "AB_SimpleProstheticClaw",
-      "price": 218
-    },
-    {
-      "abr": "simpleprosthetichorns",
-      "category": "Animal Body Part",
-      "defname": "MM_ProstheticHorns",
-      "price": 218
-    },
-    {
-      "abr": "simpleprostheticmagicalwing",
-      "category": "Animal Body Part",
-      "defname": "MM_ProstheticMagicalWing",
-      "price": 218
-    },
-    {
-      "abr": "simpleprostheticshell",
-      "category": "Animal Body Part",
-      "defname": "AA_ProstheticShell",
-      "price": 260
-    },
-    {
-      "abr": "simpleprostheticstinger",
-      "category": "Animal Body Part",
-      "defname": "MM_ProstheticStinger",
-      "price": 218
-    },
-    {
-      "abr": "simpleprosthetictentacle",
-      "category": "Animal Body Part",
-      "defname": "AA_ProstheticTentacle",
-      "price": 218
-    },
-    {
-      "abr": "simpleprostheticwing",
-      "category": "Animal Body Part",
-      "defname": "AA_ProstheticWing",
-      "price": 234
-    },
-    {
       "abr": "simpleshower",
       "category": "Hygiene",
       "defname": "ShowerSimple",
-      "price": 39
+      "price": -10
     },
     {
       "abr": "simplesoup",
@@ -14086,7 +13684,7 @@
       "abr": "smallbattery",
       "category": "Power",
       "defname": "VFE_SmallBattery",
-      "price": 201
+      "price": -10
     },
     {
       "abr": "smallbin",
@@ -14152,7 +13750,7 @@
       "abr": "smallsteelcrate",
       "category": "Automation",
       "defname": "PRF_SteelCrate_I",
-      "price": 900
+      "price": -10
     },
     {
       "abr": "smallvanometricpowercell",
@@ -14164,19 +13762,19 @@
       "abr": "smallwoodencrate",
       "category": "Automation",
       "defname": "PRF_WoodCrate_I",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "smarthopper",
       "category": "Automation",
       "defname": "PRF_SmartHopper",
-      "price": 2458
+      "price": -10
     },
     {
       "abr": "smarttoilet",
       "category": "Hygiene",
       "defname": "ToiletAdvStuff",
-      "price": 182
+      "price": -10
     },
     {
       "abr": "smg",
@@ -14200,7 +13798,7 @@
       "abr": "smithingcabinet",
       "category": "Misc",
       "defname": "VFE_SmithyCabinet",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "smokegrenades",
@@ -14368,7 +13966,7 @@
       "abr": "sprinkler",
       "category": "Misc",
       "defname": "VFE_Sprinkler",
-      "price": 182
+      "price": -10
     },
     {
       "abr": "squarechair",
@@ -14488,7 +14086,7 @@
       "abr": "steelcrate",
       "category": "Automation",
       "defname": "PRF_SteelCrate_II",
-      "price": 800
+      "price": -10
     },
     {
       "abr": "steelextractor",
@@ -14818,7 +14416,7 @@
       "abr": "tailorcabinet",
       "category": "Misc",
       "defname": "VFE_TailorCabinet",
-      "price": 307
+      "price": -10
     },
     {
       "abr": "tanktop",
@@ -14927,18 +14525,6 @@
       "category": "Ranged",
       "defname": "VWE_Gun_TearGasLauncher",
       "price": 925
-    },
-    {
-      "abr": "techprint(advancedcompactweaponry)",
-      "category": "Techprints",
-      "defname": "Techprint_EPOE_AdvancedCompactWeaponry",
-      "price": -10
-    },
-    {
-      "abr": "techprint(advancedspecializedlimbs)",
-      "category": "Techprints",
-      "defname": "Techprint_EPOE_AdvancedSpecializedLimbs",
-      "price": -10
     },
     {
       "abr": "techprint(exileddawnknowledge)",
@@ -15136,7 +14722,7 @@
       "abr": "thermostat",
       "category": "Hygiene",
       "defname": "Thermostat",
-      "price": 86
+      "price": -10
     },
     {
       "abr": "theropodleather",
@@ -15250,7 +14836,7 @@
       "abr": "toilet",
       "category": "Hygiene",
       "defname": "ToiletStuff",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "tomahawk",
@@ -15269,12 +14855,6 @@
       "category": "Melee",
       "defname": "MeleeWeapon_TorchSword",
       "price": 1475
-    },
-    {
-      "abr": "toxicbreathimplant",
-      "category": "Animal Body Part",
-      "defname": "MM_ToxicBreathImplant",
-      "price": 1333
     },
     {
       "abr": "toxicgrenades",
@@ -15574,25 +15154,25 @@
       "abr": "undergroundbelt",
       "category": "Automation",
       "defname": "PRF_Conveyor_UG_I",
-      "price": 120
+      "price": -10
     },
     {
       "abr": "undergroundbeltentrance",
       "category": "Automation",
       "defname": "PRF_Conveyor_Connector_To_UG",
-      "price": 260
+      "price": -10
     },
     {
       "abr": "undergroundbeltexit",
       "category": "Automation",
       "defname": "PRF_Conveyor_Connector_To_Floor",
-      "price": 260
+      "price": -10
     },
     {
       "abr": "undergroundsplitter",
       "category": "Automation",
       "defname": "PRF_Conveyor_Splitter_UG",
-      "price": 2133
+      "price": -10
     },
     {
       "abr": "unfermentedcider",
@@ -15694,7 +15274,7 @@
       "abr": "vanometricheatsink",
       "category": "Misc",
       "defname": "AS_ArchotechHeatsink",
-      "price": 1650
+      "price": -10
     },
     {
       "abr": "vanoroot",
@@ -15841,18 +15421,6 @@
       "price": 2000
     },
     {
-      "abr": "venomousquillimplant",
-      "category": "Animal Body Part",
-      "defname": "MM_VenomousQuillImplant",
-      "price": 1333
-    },
-    {
-      "abr": "venomousspitterimplant",
-      "category": "Animal Body Part",
-      "defname": "AA_VenomousSpitterImplant",
-      "price": 1333
-    },
-    {
       "abr": "ventricularsleeve",
       "category": "Insect",
       "defname": "VFEI_VentricularSleeve",
@@ -15886,7 +15454,7 @@
       "abr": "vitalscentre",
       "category": "Misc",
       "defname": "Facility_VitalsCentre",
-      "price": 1192
+      "price": -10
     },
     {
       "abr": "vodka",
@@ -15928,13 +15496,13 @@
       "abr": "walk-infreezerunit",
       "category": "Hygiene",
       "defname": "FreezerUnit",
-      "price": 153
+      "price": -10
     },
     {
       "abr": "wallbelt",
       "category": "Automation",
       "defname": "PRF_Conveyor_Wall_I",
-      "price": 160
+      "price": -10
     },
     {
       "abr": "walldualrefrigerator",
@@ -15946,7 +15514,7 @@
       "abr": "wallitempuller",
       "category": "Automation",
       "defname": "PRF_SimplePuller_II_Wall",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "wallsinglerefrigerator",
@@ -15958,7 +15526,7 @@
       "abr": "wallsplitter",
       "category": "Automation",
       "defname": "PRF_Conveyor_Splitter_Wall",
-      "price": 1992
+      "price": -10
     },
     {
       "abr": "walrusmeat",
@@ -15994,7 +15562,7 @@
       "abr": "washingmachine",
       "category": "Hygiene",
       "defname": "WashingMachine",
-      "price": 433
+      "price": -10
     },
     {
       "abr": "waterbutt",
@@ -16006,7 +15574,7 @@
       "abr": "watertub",
       "category": "Hygiene",
       "defname": "WashBucket",
-      "price": 60
+      "price": -10
     },
     {
       "abr": "waveemitter",
@@ -16147,12 +15715,6 @@
       "price": -10
     },
     {
-      "abr": "wispfireimplant",
-      "category": "Animal Body Part",
-      "defname": "MM_WispFireImplant",
-      "price": 1333
-    },
-    {
       "abr": "wolfhound",
       "category": "Animal",
       "defname": "VFEV_Wolfhound",
@@ -16180,7 +15742,7 @@
       "abr": "woodencrate",
       "category": "Automation",
       "defname": "PRF_WoodCrate_II",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "woodworkingtable",
@@ -16984,7 +16546,7 @@
       "abr": "archotechsacrificerbelt",
       "category": "Utility",
       "defname": "Apparel_ArchotechSacrificerBelt",
-      "price": 3667
+      "price": -10
     },
     {
       "abr": "aurum",
@@ -17320,7 +16882,7 @@
       "abr": "bionicorassantail",
       "category": "Alien tails (original)",
       "defname": "OBionicTail",
-      "price": 1150
+      "price": -10
     },
     {
       "abr": "bluecatlily",
@@ -17434,7 +16996,7 @@
       "abr": "orassantail",
       "category": "Natural",
       "defname": "OTail",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "ori",
@@ -17465,12 +17027,6 @@
       "category": "Neurotrainers",
       "defname": "ANN_PassionGiver",
       "price": 6000
-    },
-    {
-      "abr": "powerarm",
-      "category": "Cybernetic",
-      "defname": "ANN_PowerArms",
-      "price": 4008
     },
     {
       "abr": "psychicchaospulser",
@@ -18152,7 +17708,7 @@
     },
     {
       "abr": "hiverlarva",
-      "category": "Eggs (fert.)",
+      "category": "Items",
       "defname": "EggHiverFertilized",
       "price": 833
     },
@@ -18188,7 +17744,7 @@
     },
     {
       "abr": "savage-hiverlarva",
-      "category": "Eggs (fert.)",
+      "category": "Items",
       "defname": "EggHiverFertilizedSouth",
       "price": 833
     },
@@ -18202,6 +17758,810 @@
       "abr": "scrapshelter",
       "category": "Furniture",
       "defname": "ScrapShelter",
+      "price": -10
+    },
+    {
+      "abr": "afghanhound",
+      "category": "Animal",
+      "defname": "SCAfghanHound",
+      "price": 500
+    },
+    {
+      "abr": "afghanhoundmeat",
+      "category": "Meat",
+      "defname": "Meat_SCAfghanHound",
+      "price": 3
+    },
+    {
+      "abr": "akitainu",
+      "category": "Animal",
+      "defname": "Poetik_AkitaJapanese",
+      "price": 1083
+    },
+    {
+      "abr": "americanshorthair",
+      "category": "Animal",
+      "defname": "akaNEKO_A_Shorthair",
+      "price": 250
+    },
+    {
+      "abr": "blackcat",
+      "category": "Animal",
+      "defname": "akaNEKO_kuroneko",
+      "price": 250
+    },
+    {
+      "abr": "bordercollie",
+      "category": "Animal",
+      "defname": "SCBorderCollie",
+      "price": 500
+    },
+    {
+      "abr": "bordercolliemeat",
+      "category": "Meat",
+      "defname": "Meat_SCBorderCollie",
+      "price": 3
+    },
+    {
+      "abr": "borzoi",
+      "category": "Animal",
+      "defname": "SCBorzoi",
+      "price": 500
+    },
+    {
+      "abr": "borzoimeat",
+      "category": "Meat",
+      "defname": "Meat_SCBorzoi",
+      "price": 3
+    },
+    {
+      "abr": "browntabby",
+      "category": "Animal",
+      "defname": "akaNEKO_kijitora",
+      "price": 250
+    },
+    {
+      "abr": "bullmastiff",
+      "category": "Animal",
+      "defname": "SCBullmastiff",
+      "price": 500
+    },
+    {
+      "abr": "bullmastiffmeat",
+      "category": "Meat",
+      "defname": "Meat_SCBullmastiff",
+      "price": 3
+    },
+    {
+      "abr": "bullterrier",
+      "category": "Animal",
+      "defname": "SCBullTerrier",
+      "price": 500
+    },
+    {
+      "abr": "bullterriermeat",
+      "category": "Meat",
+      "defname": "Meat_SCBullTerrier",
+      "price": 3
+    },
+    {
+      "abr": "caucasianshepherd",
+      "category": "Animal",
+      "defname": "SCCaucasianshepherd",
+      "price": 500
+    },
+    {
+      "abr": "caucasianshepherdmeat",
+      "category": "Meat",
+      "defname": "Meat_SCCaucasianshepherd",
+      "price": 3
+    },
+    {
+      "abr": "chowchow",
+      "category": "Animal",
+      "defname": "SCChowchow",
+      "price": 500
+    },
+    {
+      "abr": "chowchowmeat",
+      "category": "Meat",
+      "defname": "Meat_SCChowchow",
+      "price": 3
+    },
+    {
+      "abr": "collie",
+      "category": "Animal",
+      "defname": "SCCollie",
+      "price": 500
+    },
+    {
+      "abr": "colliemeat",
+      "category": "Meat",
+      "defname": "Meat_SCCollie",
+      "price": 3
+    },
+    {
+      "abr": "doberman",
+      "category": "Animal",
+      "defname": "SCDoberman",
+      "price": 500
+    },
+    {
+      "abr": "dobermanmeat",
+      "category": "Meat",
+      "defname": "Meat_SCDoberman",
+      "price": 3
+    },
+    {
+      "abr": "dogmeat",
+      "category": "Meat",
+      "defname": "Meat_Poetik_Shiba",
+      "price": 3
+    },
+    {
+      "abr": "dogmeat",
+      "category": "Meat",
+      "defname": "Meat_Poetik_Kai",
+      "price": 3
+    },
+    {
+      "abr": "dogmeat",
+      "category": "Meat",
+      "defname": "Meat_Poetik_Hokkaido",
+      "price": 3
+    },
+    {
+      "abr": "dogmeat",
+      "category": "Meat",
+      "defname": "Meat_Poetik_Kishu",
+      "price": 3
+    },
+    {
+      "abr": "dogmeat",
+      "category": "Meat",
+      "defname": "Meat_Poetik_Shikoku",
+      "price": 3
+    },
+    {
+      "abr": "dogmeat",
+      "category": "Meat",
+      "defname": "Meat_Poetik_AkitaJapanese",
+      "price": 3
+    },
+    {
+      "abr": "goldenretriever",
+      "category": "Animal",
+      "defname": "SCGoldenRetriever",
+      "price": 500
+    },
+    {
+      "abr": "goldenretrievermeat",
+      "category": "Meat",
+      "defname": "Meat_SCGoldenRetriever",
+      "price": 3
+    },
+    {
+      "abr": "greyhound",
+      "category": "Animal",
+      "defname": "SCGreyhound",
+      "price": 500
+    },
+    {
+      "abr": "greyhoundmeat",
+      "category": "Meat",
+      "defname": "Meat_SCGreyhound",
+      "price": 3
+    },
+    {
+      "abr": "hokkaidoken",
+      "category": "Animal",
+      "defname": "Poetik_Hokkaido",
+      "price": 750
+    },
+    {
+      "abr": "japanesebobtail",
+      "category": "Animal",
+      "defname": "akaNEKO_J_Bobtail",
+      "price": 250
+    },
+    {
+      "abr": "kaiken",
+      "category": "Animal",
+      "defname": "Poetik_Kai",
+      "price": 750
+    },
+    {
+      "abr": "kishuken",
+      "category": "Animal",
+      "defname": "Poetik_Kishu",
+      "price": 750
+    },
+    {
+      "abr": "mainecoon",
+      "category": "Animal",
+      "defname": "akaNEKO_Maine_Coon",
+      "price": 417
+    },
+    {
+      "abr": "miniaturedachshund",
+      "category": "Animal",
+      "defname": "SCMiniatureDachshund",
+      "price": 500
+    },
+    {
+      "abr": "miniaturedachshundmeat",
+      "category": "Meat",
+      "defname": "Meat_SCMiniatureDachshund",
+      "price": 3
+    },
+    {
+      "abr": "miniatureschnauzer",
+      "category": "Animal",
+      "defname": "SCSchnauzer",
+      "price": 500
+    },
+    {
+      "abr": "miniatureschnauzermeat",
+      "category": "Meat",
+      "defname": "Meat_SCSchnauzer",
+      "price": 3
+    },
+    {
+      "abr": "norwegianforestcat",
+      "category": "Animal",
+      "defname": "akaNEKO_N_Forest_Cat",
+      "price": 333
+    },
+    {
+      "abr": "oldenglishsheepdog",
+      "category": "Animal",
+      "defname": "SCOldEnglishSheepdog",
+      "price": 500
+    },
+    {
+      "abr": "oldenglishsheepdogmeat",
+      "category": "Meat",
+      "defname": "Meat_SCOldEnglishSheepdog",
+      "price": 3
+    },
+    {
+      "abr": "persian",
+      "category": "Animal",
+      "defname": "akaNEKO_Persian",
+      "price": 333
+    },
+    {
+      "abr": "pug",
+      "category": "Animal",
+      "defname": "SCPug",
+      "price": 500
+    },
+    {
+      "abr": "pugmeat",
+      "category": "Meat",
+      "defname": "Meat_SCPug",
+      "price": 3
+    },
+    {
+      "abr": "russianblue",
+      "category": "Animal",
+      "defname": "akaNEKO_Russian_Blue",
+      "price": 333
+    },
+    {
+      "abr": "saintbernard",
+      "category": "Animal",
+      "defname": "SCSaintbernard",
+      "price": 500
+    },
+    {
+      "abr": "saintbernardmeat",
+      "category": "Meat",
+      "defname": "Meat_SCSaintbernard",
+      "price": 3
+    },
+    {
+      "abr": "scottishfold",
+      "category": "Animal",
+      "defname": "akaNEKO_Scottish_Fold",
+      "price": 333
+    },
+    {
+      "abr": "scottishfoldlonghair",
+      "category": "Animal",
+      "defname": "akaNEKO_Scottish_Fold_Long",
+      "price": 333
+    },
+    {
+      "abr": "shibainu",
+      "category": "Animal",
+      "defname": "Poetik_Shiba",
+      "price": 750
+    },
+    {
+      "abr": "shikokuken",
+      "category": "Animal",
+      "defname": "Poetik_Shikoku",
+      "price": 750
+    },
+    {
+      "abr": "siamese",
+      "category": "Animal",
+      "defname": "akaNEKO_Siamese",
+      "price": 250
+    },
+    {
+      "abr": "standardpoodle",
+      "category": "Animal",
+      "defname": "SCStandardPoodle",
+      "price": 500
+    },
+    {
+      "abr": "standardpoodlemeat",
+      "category": "Meat",
+      "defname": "Meat_SCStandardPoodle",
+      "price": 3
+    },
+    {
+      "abr": "welshcorgi",
+      "category": "Animal",
+      "defname": "SCWelshCorgi",
+      "price": 500
+    },
+    {
+      "abr": "welshcorgimeat",
+      "category": "Meat",
+      "defname": "Meat_SCWelshCorgi",
+      "price": 3
+    },
+    {
+      "abr": "whitecat",
+      "category": "Animal",
+      "defname": "akaNEKO_shironeko",
+      "price": 250
+    },
+    {
+      "abr": "acidicbreathimplant",
+      "category": "Animal Body Part",
+      "defname": "MM_AcidicBreathImplant",
+      "price": 1333
+    },
+    {
+      "abr": "acidicspitterimplant",
+      "category": "Animal Body Part",
+      "defname": "AA_AcidicSpitterImplant",
+      "price": 1333
+    },
+    {
+      "abr": "advancedanimalprostheticstable",
+      "category": "Production",
+      "defname": "VEF_AdvancedAnimalImplantsTable",
+      "price": -10
+    },
+    {
+      "abr": "animalprostheticstable",
+      "category": "Production",
+      "defname": "TableAnimalProsthetics",
+      "price": -10
+    },
+    {
+      "abr": "barbedquillthrowerimplant",
+      "category": "Animal Body Part",
+      "defname": "AA_BarbedQuillThrowerImplant",
+      "price": 1333
+    },
+    {
+      "abr": "bioelectricorganimplant",
+      "category": "Animal Body Part",
+      "defname": "AA_BioelectricOrganImplant",
+      "price": 1333
+    },
+    {
+      "abr": "bionicanimalarm",
+      "category": "Animal Body Part",
+      "defname": "BionicArmAnimal",
+      "price": 992
+    },
+    {
+      "abr": "bionicanimalbrainstimulator",
+      "category": "Animal Body Part",
+      "defname": "AnimalBrainStimulator",
+      "price": 1900
+    },
+    {
+      "abr": "bionicanimalearimplant",
+      "category": "Animal Body Part",
+      "defname": "EarAnimalBionic",
+      "price": 908
+    },
+    {
+      "abr": "bionicanimaleye",
+      "category": "Animal Body Part",
+      "defname": "BionicEyeAnimal",
+      "price": 908
+    },
+    {
+      "abr": "bionicanimalheart",
+      "category": "Animal Body Part",
+      "defname": "BionicAnimalHeart",
+      "price": 767
+    },
+    {
+      "abr": "bionicanimaljaw",
+      "category": "Animal Body Part",
+      "defname": "JawAnimalBionic",
+      "price": 908
+    },
+    {
+      "abr": "bionicanimalkidney",
+      "category": "Animal Body Part",
+      "defname": "BionicAnimalKidney",
+      "price": 525
+    },
+    {
+      "abr": "bionicanimalleg",
+      "category": "Animal Body Part",
+      "defname": "BionicLegAnimal",
+      "price": 983
+    },
+    {
+      "abr": "bionicanimalliver",
+      "category": "Animal Body Part",
+      "defname": "BionicAnimalLiver",
+      "price": 525
+    },
+    {
+      "abr": "bionicanimallung",
+      "category": "Animal Body Part",
+      "defname": "BionicAnimalLung",
+      "price": 525
+    },
+    {
+      "abr": "bionicanimalspine",
+      "category": "Animal Body Part",
+      "defname": "SpineAnimalBionic",
+      "price": 1142
+    },
+    {
+      "abr": "bionicanimalstomach",
+      "category": "Animal Body Part",
+      "defname": "BionicAnimalStomach",
+      "price": 533
+    },
+    {
+      "abr": "bionicbeak",
+      "category": "Animal Body Part",
+      "defname": "AA_BionicBeak",
+      "price": 958
+    },
+    {
+      "abr": "bionicbuoyancymechanism",
+      "category": "Animal Body Part",
+      "defname": "AA_BionicBuoyancyMechanism",
+      "price": 1475
+    },
+    {
+      "abr": "bionicclaw",
+      "category": "Animal Body Part",
+      "defname": "AB_BionicClaw",
+      "price": 958
+    },
+    {
+      "abr": "bionichorns",
+      "category": "Animal Body Part",
+      "defname": "MM_BionicHorns",
+      "price": 1283
+    },
+    {
+      "abr": "bionicmagicalwing",
+      "category": "Animal Body Part",
+      "defname": "MM_BionicMagicalWing",
+      "price": 1283
+    },
+    {
+      "abr": "bionicmotiondetector",
+      "category": "Animal Body Part",
+      "defname": "AA_BionicMotionDetector",
+      "price": 950
+    },
+    {
+      "abr": "bionicshell",
+      "category": "Animal Body Part",
+      "defname": "AA_BionicShell",
+      "price": 1825
+    },
+    {
+      "abr": "bionicstinger",
+      "category": "Animal Body Part",
+      "defname": "MM_BionicStinger",
+      "price": 1283
+    },
+    {
+      "abr": "bionictentacle",
+      "category": "Animal Body Part",
+      "defname": "AA_BionicTentacle",
+      "price": 958
+    },
+    {
+      "abr": "bionicwing",
+      "category": "Animal Body Part",
+      "defname": "AA_BionicWing",
+      "price": 1283
+    },
+    {
+      "abr": "firebreathimplant",
+      "category": "Animal Body Part",
+      "defname": "MM_FireBreathImplant",
+      "price": 1333
+    },
+    {
+      "abr": "gooacidifier",
+      "category": "Animal Body Part",
+      "defname": "AA_GooAcidifier",
+      "price": 160
+    },
+    {
+      "abr": "hyperacidicstomachimplant",
+      "category": "Animal Body Part",
+      "defname": "AA_HyperAcidicStomachImplant",
+      "price": 1333
+    },
+    {
+      "abr": "lightfocusinglensimplant",
+      "category": "Animal Body Part",
+      "defname": "AA_LightFocusingLensImplant",
+      "price": 1333
+    },
+    {
+      "abr": "petrifyinggazeimplant",
+      "category": "Animal Body Part",
+      "defname": "MM_PetrifyingGazeImplant",
+      "price": 1333
+    },
+    {
+      "abr": "quadteslacannonimplant",
+      "category": "Animal Body Part",
+      "defname": "AA_QuadTeslaCannonImplant",
+      "price": 1333
+    },
+    {
+      "abr": "rangedspinneretimplant",
+      "category": "Animal Body Part",
+      "defname": "AA_RangedSpinneretImplant",
+      "price": 1333
+    },
+    {
+      "abr": "simpleanimalearimplant",
+      "category": "Animal Body Part",
+      "defname": "EarAnimalSimple",
+      "price": 121
+    },
+    {
+      "abr": "simpleanimaljawimplant",
+      "category": "Animal Body Part",
+      "defname": "JawAnimalSimple",
+      "price": 121
+    },
+    {
+      "abr": "simpleanimalnose",
+      "category": "Animal Body Part",
+      "defname": "NoseAnimalSimple",
+      "price": 121
+    },
+    {
+      "abr": "simpleanimalspine",
+      "category": "Animal Body Part",
+      "defname": "SpineAnimalSimple",
+      "price": 199
+    },
+    {
+      "abr": "simpleprostheticanimalarm",
+      "category": "Animal Body Part",
+      "defname": "SimpleProstheticArmAnimal",
+      "price": 211
+    },
+    {
+      "abr": "simpleprostheticanimalleg",
+      "category": "Animal Body Part",
+      "defname": "SimpleProstheticLegAnimal",
+      "price": 199
+    },
+    {
+      "abr": "simpleprostheticanimaltail",
+      "category": "Animal Body Part",
+      "defname": "ProstheticTailAnimal",
+      "price": 102
+    },
+    {
+      "abr": "simpleprostheticbeak",
+      "category": "Animal Body Part",
+      "defname": "AA_ProstheticBeak",
+      "price": 218
+    },
+    {
+      "abr": "simpleprostheticbuoyancymechanism",
+      "category": "Animal Body Part",
+      "defname": "AA_ProstheticBuoyancyMechanism",
+      "price": 533
+    },
+    {
+      "abr": "simpleprostheticclaw",
+      "category": "Animal Body Part",
+      "defname": "AB_SimpleProstheticClaw",
+      "price": 218
+    },
+    {
+      "abr": "simpleprosthetichorns",
+      "category": "Animal Body Part",
+      "defname": "MM_ProstheticHorns",
+      "price": 218
+    },
+    {
+      "abr": "simpleprostheticmagicalwing",
+      "category": "Animal Body Part",
+      "defname": "MM_ProstheticMagicalWing",
+      "price": 218
+    },
+    {
+      "abr": "simpleprostheticshell",
+      "category": "Animal Body Part",
+      "defname": "AA_ProstheticShell",
+      "price": 260
+    },
+    {
+      "abr": "simpleprostheticstinger",
+      "category": "Animal Body Part",
+      "defname": "MM_ProstheticStinger",
+      "price": 218
+    },
+    {
+      "abr": "simpleprosthetictentacle",
+      "category": "Animal Body Part",
+      "defname": "AA_ProstheticTentacle",
+      "price": 218
+    },
+    {
+      "abr": "simpleprostheticwing",
+      "category": "Animal Body Part",
+      "defname": "AA_ProstheticWing",
+      "price": 234
+    },
+    {
+      "abr": "toxicbreathimplant",
+      "category": "Animal Body Part",
+      "defname": "MM_ToxicBreathImplant",
+      "price": 1333
+    },
+    {
+      "abr": "venomousquillimplant",
+      "category": "Animal Body Part",
+      "defname": "MM_VenomousQuillImplant",
+      "price": 1333
+    },
+    {
+      "abr": "venomousspitterimplant",
+      "category": "Animal Body Part",
+      "defname": "AA_VenomousSpitterImplant",
+      "price": 1333
+    },
+    {
+      "abr": "wispfireimplant",
+      "category": "Animal Body Part",
+      "defname": "MM_WispFireImplant",
+      "price": 1333
+    },
+    {
+      "abr": "advancedbionicarm",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicArm",
+      "price": 3808
+    },
+    {
+      "abr": "advancedbionicelbowblade",
+      "category": "Ultratech",
+      "defname": "EPOE_AdvancedElbowBlade",
+      "price": 4508
+    },
+    {
+      "abr": "advancedbionicfinger",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicFinger",
+      "price": 600
+    },
+    {
+      "abr": "advancedbionicfoot",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicFoot",
+      "price": 2375
+    },
+    {
+      "abr": "advancedbionichand",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicHand",
+      "price": 2375
+    },
+    {
+      "abr": "advancedbionichandtalon",
+      "category": "Ultratech",
+      "defname": "EPOE_AdvancedHandTalon",
+      "price": 3525
+    },
+    {
+      "abr": "advancedbionickneespike",
+      "category": "Ultratech",
+      "defname": "EPOE_AdvancedKneeSpike",
+      "price": 4508
+    },
+    {
+      "abr": "advancedbionicleg",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicLeg",
+      "price": 3808
+    },
+    {
+      "abr": "advancedbionictoe",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicToe",
+      "price": 600
+    },
+    {
+      "abr": "advanceddrillarm",
+      "category": "Ultratech",
+      "defname": "EPOE_AdvancedDrillArm",
+      "price": 3500
+    },
+    {
+      "abr": "advancedfieldhand",
+      "category": "Ultratech",
+      "defname": "EPOE_AdvancedFieldHand",
+      "price": 2733
+    },
+    {
+      "abr": "advancedpowerarm",
+      "category": "Ultratech",
+      "defname": "AdvancedPowerArm",
+      "price": 5275
+    },
+    {
+      "abr": "bionicelbowblade",
+      "category": "Bionic",
+      "defname": "EPOE_ScytherElbowBlade",
+      "price": 3367
+    },
+    {
+      "abr": "bionichandtalon",
+      "category": "Bionic",
+      "defname": "EPOE_ScytherHandTalon",
+      "price": 2383
+    },
+    {
+      "abr": "bionickneespike",
+      "category": "Bionic",
+      "defname": "EPOE_ScytherKneeSpike",
+      "price": 3367
+    },
+    {
+      "abr": "powerarm",
+      "category": "Bionic",
+      "defname": "PowerArm",
+      "price": 3525
+    },
+    {
+      "abr": "powerarm",
+      "category": "Cybernetic",
+      "defname": "ANN_PowerArms",
+      "price": 4008
+    },
+    {
+      "abr": "techprint(advancedcompactweaponry)",
+      "category": "Techprints",
+      "defname": "Techprint_EPOE_AdvancedCompactWeaponry",
+      "price": -10
+    },
+    {
+      "abr": "techprint(advancedspecializedlimbs)",
+      "category": "Techprints",
+      "defname": "Techprint_EPOE_AdvancedSpecializedLimbs",
       "price": -10
     },
     {
@@ -18661,18 +19021,6 @@
       "price": -10
     },
     {
-      "abr": "techshard(simpleanimalprosthetics)",
-      "category": "Techshards",
-      "defname": "Techshard_SimpleAnimalProsthetics",
-      "price": -10
-    },
-    {
-      "abr": "techshard(animalbionics)",
-      "category": "Techshards",
-      "defname": "Techshard_AnimalBionics",
-      "price": -10
-    },
-    {
       "abr": "techshard(crudelimbs)",
       "category": "Techshards",
       "defname": "Techshard_CrudeLimbs",
@@ -18694,6 +19042,48 @@
       "abr": "techshard(ambroisenlimbs)",
       "category": "Techshards",
       "defname": "Techshard_AmbroisenLimbs",
+      "price": -10
+    },
+    {
+      "abr": "techshard(productionimprovingbionics)",
+      "category": "Techshards",
+      "defname": "Techshard_CONN_ProductiveBionics",
+      "price": -10
+    },
+    {
+      "abr": "techshard(advancedproductionimprovingbionics)",
+      "category": "Techshards",
+      "defname": "Techshard_CONN_ProductiveAdvancedBionics",
+      "price": -10
+    },
+    {
+      "abr": "techshard(combatimprovingbionics)",
+      "category": "Techshards",
+      "defname": "Techshard_CONN_CombatBionics",
+      "price": -10
+    },
+    {
+      "abr": "techshard(advancedcombatimprovingbionics)",
+      "category": "Techshards",
+      "defname": "Techshard_CONN_CombatAdvancedBionics",
+      "price": -10
+    },
+    {
+      "abr": "techshard(mindalteringbionics)",
+      "category": "Techshards",
+      "defname": "Techshard_CONN_MindAlteringBionics",
+      "price": -10
+    },
+    {
+      "abr": "techshard(simpleanimalprosthetics)",
+      "category": "Techshards",
+      "defname": "Techshard_SimpleAnimalProsthetics",
+      "price": -10
+    },
+    {
+      "abr": "techshard(animalbionics)",
+      "category": "Techshards",
+      "defname": "Techshard_AnimalBionics",
       "price": -10
     },
     {
@@ -18742,36 +19132,6 @@
       "abr": "techshard(amrita)",
       "category": "Techshards",
       "defname": "Techshard_Amrita",
-      "price": -10
-    },
-    {
-      "abr": "techshard(productionimprovingbionics)",
-      "category": "Techshards",
-      "defname": "Techshard_CONN_ProductiveBionics",
-      "price": -10
-    },
-    {
-      "abr": "techshard(advancedproductionimprovingbionics)",
-      "category": "Techshards",
-      "defname": "Techshard_CONN_ProductiveAdvancedBionics",
-      "price": -10
-    },
-    {
-      "abr": "techshard(combatimprovingbionics)",
-      "category": "Techshards",
-      "defname": "Techshard_CONN_CombatBionics",
-      "price": -10
-    },
-    {
-      "abr": "techshard(advancedcombatimprovingbionics)",
-      "category": "Techshards",
-      "defname": "Techshard_CONN_CombatAdvancedBionics",
-      "price": -10
-    },
-    {
-      "abr": "techshard(mindalteringbionics)",
-      "category": "Techshards",
-      "defname": "Techshard_CONN_MindAlteringBionics",
       "price": -10
     },
     {
@@ -19357,5 +19717,5 @@
       "price": -10
     }
   ],
-  "total": 3226
+  "total": 3286
 }
