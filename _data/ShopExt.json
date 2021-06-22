@@ -12,9 +12,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -46,9 +46,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "workaholic",
           "industrious",
@@ -82,7 +82,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "ravenous"
         ],
@@ -114,7 +114,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -206,9 +206,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -236,9 +236,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "fun-loving"
         ],
@@ -269,7 +269,7 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
@@ -335,7 +335,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "stiff"
         ],
@@ -366,7 +366,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -394,9 +394,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -518,7 +518,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "wimp",
           "coward"
@@ -588,7 +588,7 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
@@ -621,7 +621,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "brawler"
         ],
@@ -742,9 +742,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "healthy"
         ],
@@ -774,9 +774,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "nimble"
         ],
@@ -805,10 +805,10 @@
       "bypassLimit": true,
       "data": {
         "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
+        "customName": true,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "coordinated"
         ],
@@ -819,7 +819,7 @@
         ]
       },
       "defName": "RT_Clumsy",
-      "name": "clumsy",
+      "name": "clumsy-skills",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -840,7 +840,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "heatinclined"
         ],
@@ -868,9 +868,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "coldtolerant"
         ],
@@ -900,7 +900,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "coldintolerant"
         ],
@@ -930,7 +930,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "rowdy"
         ],
@@ -954,13 +954,13 @@
       "conflicts": [
         "easilyamused"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "easilyamused"
         ],
@@ -992,7 +992,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "clumsy"
         ],
@@ -1054,9 +1054,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "brawler",
           "brave",
@@ -1086,9 +1086,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -1116,9 +1116,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -1208,7 +1208,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -1240,9 +1240,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "fastlearner",
           "toosmart",
@@ -1270,13 +1270,13 @@
       "conflicts": [
         "constantlybemused"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "constantlybemused"
         ],
@@ -1339,7 +1339,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -1373,7 +1373,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "inefficient"
         ],
@@ -1405,7 +1405,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "sluggish"
         ],
@@ -1476,7 +1476,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -1506,7 +1506,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -1538,9 +1538,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "hardy"
         ],
@@ -1603,9 +1603,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "resilient"
         ],
@@ -1635,9 +1635,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "muscular"
         ],
@@ -1668,7 +1668,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "anxious"
         ],
@@ -1700,7 +1700,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -1803,7 +1803,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "incompetent"
         ],
@@ -1844,7 +1844,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "poorhygiene"
         ],
@@ -1936,7 +1936,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -1965,9 +1965,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "ascetic",
           "jealous"
@@ -2001,7 +2001,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -2034,7 +2034,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -2068,7 +2068,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "feeble"
         ],
@@ -2104,7 +2104,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "chronicallyill"
         ],
@@ -2136,7 +2136,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "coldinclined"
         ],
@@ -2164,9 +2164,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "heattolerant"
         ],
@@ -2196,7 +2196,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "heatintolerant"
         ],
@@ -2281,13 +2281,13 @@
       "conflicts": [
         "inquisitive"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "inquisitive"
         ],
@@ -2319,7 +2319,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "patientcook"
         ],
@@ -2359,9 +2359,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "gifted"
         ],
@@ -2402,7 +2402,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -2431,9 +2431,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "efficient"
         ],
@@ -2459,13 +2459,13 @@
       "conflicts": [
         "ignorant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "ignorant"
         ],
@@ -2562,7 +2562,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "squeamish"
         ],
@@ -2592,7 +2592,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -2621,9 +2621,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "ascetic",
           "greedy"
@@ -2654,7 +2654,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -2685,7 +2685,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "abrasive",
           "psychopath"
@@ -2714,9 +2714,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -2744,9 +2744,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -2842,7 +2842,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -2903,7 +2903,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "animalhater"
         ],
@@ -2932,9 +2932,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -2962,9 +2962,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -3025,7 +3025,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "frail"
         ],
@@ -3061,7 +3061,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Ferian Race",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -3136,7 +3136,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "slob"
         ],
@@ -3164,9 +3164,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -3259,7 +3259,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -3350,7 +3350,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -3443,7 +3443,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "unconvincing"
         ],
@@ -3472,9 +3472,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -3502,9 +3502,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "goodhygiene"
         ],
@@ -3534,7 +3534,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -3628,7 +3628,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -3658,7 +3658,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -3686,9 +3686,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -3716,9 +3716,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -3777,9 +3777,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -3810,7 +3810,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -3838,9 +3838,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "abstinent"
         ],
@@ -3868,9 +3868,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "submissive"
         ],
@@ -3931,7 +3931,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "fragile"
         ],
@@ -3962,7 +3962,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "restless"
         ],
@@ -3990,9 +3990,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "restful"
         ],
@@ -4020,9 +4020,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "composed"
         ],
@@ -4052,7 +4052,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -4083,9 +4083,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "iron-willed",
           "steadfast",
@@ -4146,9 +4146,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -4176,9 +4176,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "neat"
         ],
@@ -4205,10 +4205,10 @@
       "bypassLimit": true,
       "data": {
         "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
+        "customName": true,
+        "karmaTypeForRemoving": "Good",
         "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -4217,7 +4217,7 @@
         ]
       },
       "defName": "Hygienic",
-      "name": "slob",
+      "name": "slob-2",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -4236,9 +4236,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -4266,9 +4266,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "toosmart"
         ],
@@ -4297,9 +4297,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -4329,9 +4329,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "energetic"
         ],
@@ -4360,9 +4360,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "ascetic"
         ],
@@ -4391,9 +4391,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "ironstomach",
           "desensitized"
@@ -4422,9 +4422,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -4454,7 +4454,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -4483,9 +4483,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "athletic"
         ],
@@ -4550,9 +4550,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "rebel"
         ],
@@ -4582,7 +4582,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -4610,9 +4610,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "transhumanist"
         ],
@@ -4673,9 +4673,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "temperaturetolerant"
         ],
@@ -4707,7 +4707,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "temperatureintolerant"
         ],
@@ -4738,7 +4738,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "thinskinned"
         ],
@@ -4766,9 +4766,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "thickskinned"
         ],
@@ -4868,7 +4868,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -4892,9 +4892,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -4922,9 +4922,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -4952,9 +4952,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -4982,9 +4982,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -5012,9 +5012,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -5112,7 +5112,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -5142,9 +5142,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -5173,9 +5173,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "persuasive"
         ],
@@ -5234,9 +5234,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -5265,9 +5265,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": true,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "valiant"
         ],
@@ -5299,7 +5299,7 @@
         "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
           "valiant"
         ],
@@ -5328,9 +5328,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "kind"
         ],
@@ -5390,9 +5390,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -5450,9 +5450,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "RimWorld",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Doom",
         "conflicts": [
           "brawler"
         ],
@@ -5484,9 +5484,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
           "absent-minded",
           "industrious",
@@ -5518,9 +5518,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -5550,7 +5550,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Humanoid Alien Races 2.0",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Good",
         "conflicts": [
 
         ],
@@ -5578,9 +5578,9 @@
       "data": {
         "canBypassLimit": true,
         "customName": false,
-        "karmaTypeForRemoving": null,
+        "karmaTypeForRemoving": "Good",
         "mod": "Humanoid Alien Races 2.0",
-        "karmaTypeForAdding": null,
+        "karmaTypeForAdding": "Bad",
         "conflicts": [
 
         ],
@@ -5595,6 +5595,1566 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1
+    },
+    {
+      "description": "Timmy is the descendant of a designer mate. Though most of his ancestral traits are diluted, he is still extremely beautiful and cheerful.",
+      "stats": [
+        "+3.0 beauty"
+      ],
+      "conflicts": [
+        "beautiful",
+        "pretty",
+        "ugly",
+        "staggeringlyugly",
+        "jealous"
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Xenohumans - Anthromorphs",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+          "beautiful",
+          "pretty",
+          "ugly",
+          "staggeringlyugly",
+          "jealous"
+        ],
+        "stats": [
+          "+3.0 beauty"
+        ]
+      },
+      "defName": "ATK_DesignerMate",
+      "name": "designerheritage",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is confident that everything will work out for the best.",
+      "stats": [
+        "+2 social",
+        "-6% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 social",
+          "-6% mental break threshold"
+        ]
+      },
+      "defName": "GAT_Confident",
+      "name": "confident",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is seriously overweight. he moves slowly, and works even slower.",
+      "stats": [
+        "-0.30 move speed",
+        "-25% global work speed",
+        "+10 meat amount"
+      ],
+      "conflicts": [
+        "athletic"
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": "Good",
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Bad",
+        "conflicts": [
+          "athletic"
+        ],
+        "stats": [
+          "-0.30 move speed",
+          "-25% global work speed",
+          "+10 meat amount"
+        ]
+      },
+      "defName": "GAT_Overweight",
+      "name": "overweight",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has honed his mind and body for most of his life.",
+      "stats": [
+        "+2 melee",
+        "+2 shooting",
+        "+1 construction",
+        "+0.35 move speed",
+        "+25% global work speed",
+        "-10% aiming time",
+        "+0.1 shooting accuracy"
+      ],
+      "conflicts": [
+        "overweight"
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": true,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+          "overweight"
+        ],
+        "stats": [
+          "+2 melee",
+          "+2 shooting",
+          "+1 construction",
+          "+0.35 move speed",
+          "+25% global work speed",
+          "-10% aiming time",
+          "+0.1 shooting accuracy"
+        ]
+      },
+      "defName": "GAT_Athletic",
+      "name": "athletic-godly",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy demonstrates neat skill, especially with his hands.",
+      "stats": [
+        "+2 crafting",
+        "+2 artistic",
+        "+25% global work speed",
+        "-10% aiming time"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 crafting",
+          "+2 artistic",
+          "+25% global work speed",
+          "-10% aiming time"
+        ]
+      },
+      "defName": "GAT_Dexterous",
+      "name": "dexterous",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a keen eye, and can quickly spot a target.",
+      "stats": [
+        "+1 shooting",
+        "+0.3 shooting accuracy",
+        "+0.1 melee hit chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 shooting",
+          "+0.3 shooting accuracy",
+          "+0.1 melee hit chance"
+        ]
+      },
+      "defName": "GAT_Perceptive",
+      "name": "perceptive",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is fastidious to a fault.",
+      "stats": [
+        "+1 cooking",
+        "-25% global work speed",
+        "-50.00% food poison chance",
+        "+20% immunity gain speed",
+        "+20% medical surgery success chance",
+        "+20% medical tend quality",
+        "+20% medical operation speed",
+        "+20% medical tend speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 cooking",
+          "-25% global work speed",
+          "-50.00% food poison chance",
+          "+20% immunity gain speed",
+          "+20% medical surgery success chance",
+          "+20% medical tend quality",
+          "+20% medical operation speed",
+          "+20% medical tend speed"
+        ]
+      },
+      "defName": "GAT_Clean",
+      "name": "clean",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a hard time seeing things clearly unless he is relatively close to it.",
+      "stats": [
+        "-10% global work speed",
+        "-0.3 shooting accuracy"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": true,
+        "karmaTypeForRemoving": "Good",
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Bad",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-10% global work speed",
+          "-0.3 shooting accuracy"
+        ]
+      },
+      "defName": "GAT_Nearsighted",
+      "name": "near-sighted-godly",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has always picked up skills pretty quickly.",
+      "stats": [
+        "+25% global learning factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+25% global learning factor"
+        ]
+      },
+      "defName": "GAT_QuickLearner",
+      "name": "quicklearner",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Some people use a spoon to eat. Timmy uses a shovel...",
+      "stats": [
+        "+25% eating speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+25% eating speed"
+        ]
+      },
+      "defName": "GAT_Glutton",
+      "name": "glutton",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is good at persuading someone to do or believe something through reasoning or the use of temptation.",
+      "stats": [
+        "+10.00% negotiation ability",
+        "+10.00% social impact",
+        "+5.00% trade price improvement"
+      ],
+      "conflicts": [
+        "sucker",
+        "amateurhaggler",
+        "hagglingenthusiast"
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": true,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+          "sucker",
+          "amateurhaggler",
+          "hagglingenthusiast"
+        ],
+        "stats": [
+          "+10.00% negotiation ability",
+          "+10.00% social impact",
+          "+5.00% trade price improvement"
+        ]
+      },
+      "defName": "GAT_Persuasive",
+      "name": "persuasive-godly",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy could sleep through an earthquake.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": true,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "GAT_HeavySleeper",
+      "name": "heavysleeper-godly",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is an extreme pervert. he doesn't mind sharing a room, or streaking. It makes others feel incredibly uncomfortable.",
+      "stats": [
+        "-1 social"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-1 social"
+        ]
+      },
+      "defName": "GAT_Pervert",
+      "name": "pervert",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Ashes to ashes and dust to dust. Timmy is fascinated by corpses and decay.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "GAT_Morbid",
+      "name": "morbid",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy takes medicine very seriously. he wants to do no harm and isn't afraid to take longer to do the job right.",
+      "stats": [
+        "+1 medical",
+        "+20% medical operation speed",
+        "+20% medical tend speed",
+        "+60% medical surgery success chance",
+        "+50% medical tend quality"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 medical",
+          "+20% medical operation speed",
+          "+20% medical tend speed",
+          "+60% medical surgery success chance",
+          "+50% medical tend quality"
+        ]
+      },
+      "defName": "GAT_CarefulSurgeon",
+      "name": "carefulsurgeon",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Sometimes it's hard to tell where the knife stops and Timmy starts. People like to say that \"if it bleeds Timmy can skin it and split it\".",
+      "stats": [
+        "+1 cooking",
+        "-50% mechanoid shredding speed",
+        "+50% butchery speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 cooking",
+          "-50% mechanoid shredding speed",
+          "+50% butchery speed"
+        ]
+      },
+      "defName": "GAT_ProfessionalButcher",
+      "name": "naturalbutcher",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is loved by animals, but people don't feel quite the same.",
+      "stats": [
+        "+1 animals",
+        "+50.00% train animal chance",
+        "+50.00% tame animal chance",
+        "-50.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 animals",
+          "+50.00% train animal chance",
+          "+50.00% tame animal chance",
+          "-50.00% social impact"
+        ]
+      },
+      "defName": "GAT_LovedByAnimals",
+      "name": "lovedbyanimals",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Strange new ideas just appear in the mind of Timmy. Researching new technology comes easily to Timmy, but he always seems distracted.",
+      "stats": [
+        "+1 intellectual",
+        "+70% research speed",
+        "-20% global work speed",
+        "-0.10 move speed",
+        "+10% psychic sensitivity",
+        "+10% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 intellectual",
+          "+70% research speed",
+          "-20% global work speed",
+          "-0.10 move speed",
+          "+10% psychic sensitivity",
+          "+10% mental break threshold"
+        ]
+      },
+      "defName": "GAT_GeniusResearcher",
+      "name": "geniusinventor",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a passion for gardening. he knows exactly what a plant needs to grow happily.",
+      "stats": [
+        "+1 plants",
+        "+50% plant work speed",
+        "+150% plant harvest yield"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 plants",
+          "+50% plant work speed",
+          "+150% plant harvest yield"
+        ]
+      },
+      "defName": "GAT_GreenestThumb",
+      "name": "greenthumb",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy doesn't like to waste materials. he takes great care in his work.",
+      "stats": [
+        "+1 construction",
+        "-10% construction speed",
+        "+150% construct success chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 construction",
+          "-10% construction speed",
+          "+150% construct success chance"
+        ]
+      },
+      "defName": "GAT_EfficientBuilder",
+      "name": "efficientbuilder",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy knows how to exploit the cleavage of rocks. he doesn't understand why plants are so much more fragile though.",
+      "stats": [
+        "+1 mining",
+        "+50% mining speed",
+        "+50% smoothing speed",
+        "-75% plant harvest yield"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 mining",
+          "+50% mining speed",
+          "+50% smoothing speed",
+          "-75% plant harvest yield"
+        ]
+      },
+      "defName": "GAT_FastMiner",
+      "name": "fastminer",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "They say a sucker is born every minute, and Timmy is that sucker.",
+      "stats": [
+        "-20.00% trade price improvement"
+      ],
+      "conflicts": [
+        "persuasive"
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": "Good",
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Bad",
+        "conflicts": [
+          "persuasive"
+        ],
+        "stats": [
+          "-20.00% trade price improvement"
+        ]
+      },
+      "defName": "GAT_TradePriceImprovementOffset",
+      "name": "sucker",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy likes to haggle. he gets better prices than most people.",
+      "stats": [
+        "+20.00% trade price improvement"
+      ],
+      "conflicts": [
+        "persuasive"
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+          "persuasive"
+        ],
+        "stats": [
+          "+20.00% trade price improvement"
+        ]
+      },
+      "defName": "GAT_TradePriceImprovementOffset",
+      "name": "amateurhaggler",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy always gets the best deals - so much so that others often fail to realize they're being duped.",
+      "stats": [
+        "+40.00% trade price improvement"
+      ],
+      "conflicts": [
+        "persuasive"
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+          "persuasive"
+        ],
+        "stats": [
+          "+40.00% trade price improvement"
+        ]
+      },
+      "defName": "GAT_TradePriceImprovementOffset",
+      "name": "hagglingenthusiast",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "The elephant in the room is named Timmy.",
+      "stats": [
+        "-20.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": "Good",
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Bad",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-20.00% social impact"
+        ]
+      },
+      "defName": "GAT_SocialImpactOffset",
+      "name": "awkward",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "\"That's a lotta graves. Lotta holes to fill. Bow-Chicka-Bow-Wow\" - Timmy, probably.",
+      "stats": [
+        "+20.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+20.00% social impact"
+        ]
+      },
+      "defName": "GAT_SocialImpactOffset",
+      "name": "tucker",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy could talk for days on end and people would still listen to that sweet voice.",
+      "stats": [
+        "+40.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+40.00% social impact"
+        ]
+      },
+      "defName": "GAT_SocialImpactOffset",
+      "name": "melodicvoice",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Subtle is the game of diplomacy, and subtle, Timmy is not.",
+      "stats": [
+        "-20.00% negotiation ability"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": "Good",
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Bad",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-20.00% negotiation ability"
+        ]
+      },
+      "defName": "GAT_DiplomacyPowerOffset",
+      "name": "uncouth",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy knows how to grease the wheels of diplomacy.",
+      "stats": [
+        "+20.00% negotiation ability"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+20.00% negotiation ability"
+        ]
+      },
+      "defName": "GAT_DiplomacyPowerOffset",
+      "name": "diplomatic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has such a way with him words and gifts that he always manages to cool down a tense situation.",
+      "stats": [
+        "+40.00% negotiation ability"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+40.00% negotiation ability"
+        ]
+      },
+      "defName": "GAT_DiplomacyPowerOffset",
+      "name": "verydiplomatic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy has never held a gun in him hands. The weight of the cold metal in him hands makes he shudder uncontrollably.",
+      "stats": [
+        "-2 shooting",
+        "-0.2 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler"
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": "Good",
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Bad",
+        "conflicts": [
+          "brawler"
+        ],
+        "stats": [
+          "-2 shooting",
+          "-0.2 shooting accuracy"
+        ]
+      },
+      "defName": "GAT_ShootingOffsetTrait",
+      "name": "shootingamateur",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy knows him way with a gun.",
+      "stats": [
+        "+2 shooting",
+        "+0.2 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler"
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+          "brawler"
+        ],
+        "stats": [
+          "+2 shooting",
+          "+0.2 shooting accuracy"
+        ]
+      },
+      "defName": "GAT_ShootingOffsetTrait",
+      "name": "shootingenthusiast",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "\"My rifle is my best friend. It is my life. I must master it as I must master my life.\" - Timmy, probably.",
+      "stats": [
+        "+4 shooting",
+        "+0.4 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler"
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+          "brawler"
+        ],
+        "stats": [
+          "+4 shooting",
+          "+0.4 shooting accuracy"
+        ]
+      },
+      "defName": "GAT_ShootingOffsetTrait",
+      "name": "shootingprofessional",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Brave Timmy, born with impossible strength and force of will.",
+      "stats": [
+        "+6 melee",
+        "-100% mental break threshold",
+        "+150 carrying capacity",
+        "+50.0% Armor - Blunt",
+        "+70.0% Armor - Sharp"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+6 melee",
+          "-100% mental break threshold",
+          "+150 carrying capacity",
+          "+50.0% Armor - Blunt",
+          "+70.0% Armor - Sharp"
+        ]
+      },
+      "defName": "GAT_Hercules",
+      "name": "herculean",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is said to have been dipped in the river of death, he seems invulnerable in battle.",
+      "stats": [
+        "+2 melee",
+        "+2 shooting",
+        "+100% immunity gain speed",
+        "+0.50 move speed",
+        "+80.0% Armor - Blunt",
+        "+80.0% Armor - Sharp"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 melee",
+          "+2 shooting",
+          "+100% immunity gain speed",
+          "+0.50 move speed",
+          "+80.0% Armor - Blunt",
+          "+80.0% Armor - Sharp"
+        ]
+      },
+      "defName": "GAT_Achilles",
+      "name": "achillean",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Craftier by far than any mortal man, Timmy is also a very capable warrior.",
+      "stats": [
+        "+1 melee",
+        "+1 shooting",
+        "+100% global learning factor",
+        "+0.5 shooting accuracy",
+        "+0.5 melee hit chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 melee",
+          "+1 shooting",
+          "+100% global learning factor",
+          "+0.5 shooting accuracy",
+          "+0.5 melee hit chance"
+        ]
+      },
+      "defName": "GAT_Odysseus",
+      "name": "odyssean",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Feared by him enemies and worshiped by warriors, Timmy is a bloodthirsty embodiment of war.",
+      "stats": [
+        "+8 melee",
+        "+1.0 shooting accuracy",
+        "+0.50 move speed",
+        "+1.0 melee hit chance",
+        "+100.0% Armor - Blunt",
+        "+120.0% Armor - Sharp"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+8 melee",
+          "+1.0 shooting accuracy",
+          "+0.50 move speed",
+          "+1.0 melee hit chance",
+          "+100.0% Armor - Blunt",
+          "+120.0% Armor - Sharp"
+        ]
+      },
+      "defName": "GAT_Ares",
+      "name": "ares'wrath",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy's natural instinct to protect and nurture the people led him to champion the hunt.",
+      "stats": [
+        "+8 shooting",
+        "+50% hunting stealth",
+        "+1.0 shooting accuracy",
+        "-100% aiming time",
+        "+100% butchery speed",
+        "+1.0 cooking speed",
+        "+100.0% Armor - Blunt",
+        "+120.0% Armor - Sharp",
+        "+1 foraged food amount"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+8 shooting",
+          "+50% hunting stealth",
+          "+1.0 shooting accuracy",
+          "-100% aiming time",
+          "+100% butchery speed",
+          "+1.0 cooking speed",
+          "+100.0% Armor - Blunt",
+          "+120.0% Armor - Sharp",
+          "+1 foraged food amount"
+        ]
+      },
+      "defName": "GAT_Artemis",
+      "name": "artemis'blessing",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "So wondrous is Timmy to behold that one look can inspire tears, desire, jealousy, and love.",
+      "stats": [
+        "+8 social",
+        "+100.00% negotiation ability",
+        "+100.00% social impact",
+        "+100.00% trade price improvement",
+        "+100.0% Armor - Blunt",
+        "+120.0% Armor - Sharp"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+8 social",
+          "+100.00% negotiation ability",
+          "+100.00% social impact",
+          "+100.00% trade price improvement",
+          "+100.0% Armor - Blunt",
+          "+120.0% Armor - Sharp"
+        ]
+      },
+      "defName": "GAT_Aphrodite",
+      "name": "aphrodite'sgrace",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "It is said that Timmy can leap the space between lightning and thunder, outfox the fox king, and reach tomorrow before the sun.",
+      "stats": [
+        "+8 intellectual",
+        "+100% eating speed",
+        "+100% global work speed",
+        "+100% global learning factor",
+        "+1.00 move speed",
+        "+100.0% Armor - Blunt",
+        "+120.0% Armor - Sharp"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+8 intellectual",
+          "+100% eating speed",
+          "+100% global work speed",
+          "+100% global learning factor",
+          "+1.00 move speed",
+          "+100.0% Armor - Blunt",
+          "+120.0% Armor - Sharp"
+        ]
+      },
+      "defName": "GAT_Mercury",
+      "name": "mercury'sblessing",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Companion to all woodland creatures, both mundane and fantastic, Timmy protects and nurtures those that respect his domain.",
+      "stats": [
+        "+4 plants",
+        "+4 animals",
+        "+100.00% tame animal chance",
+        "+100.00% train animal chance",
+        "+100% plant work speed",
+        "+200% plant harvest yield",
+        "+100.0% Armor - Blunt",
+        "+120.0% Armor - Sharp",
+        "+1 foraged food amount"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 plants",
+          "+4 animals",
+          "+100.00% tame animal chance",
+          "+100.00% train animal chance",
+          "+100% plant work speed",
+          "+200% plant harvest yield",
+          "+100.0% Armor - Blunt",
+          "+120.0% Armor - Sharp",
+          "+1 foraged food amount"
+        ]
+      },
+      "defName": "GAT_Sylvanus",
+      "name": "sylvanus'blessing",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy crafts with fire and forge as an artist would with paint and brush.",
+      "stats": [
+        "+4 crafting",
+        "+4 construction",
+        "+200% construct success chance",
+        "+100% construction speed",
+        "+100% smelting speed",
+        "+50% general labor speed",
+        "+100.0% Armor - Blunt",
+        "+120.0% Armor - Sharp"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 crafting",
+          "+4 construction",
+          "+200% construct success chance",
+          "+100% construction speed",
+          "+100% smelting speed",
+          "+50% general labor speed",
+          "+100.0% Armor - Blunt",
+          "+120.0% Armor - Sharp"
+        ]
+      },
+      "defName": "GAT_Vulcan",
+      "name": "vulcan'sfire",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy sends to sleep those who suffer, the new day bringing good health to them.",
+      "stats": [
+        "+8 medical",
+        "+100% medical tend speed",
+        "+100% medical operation speed",
+        "+100% medical surgery success chance",
+        "+100% medical tend quality",
+        "+100.0% Armor - Blunt",
+        "+100.0% Armor - Blunt",
+        "+120.0% Armor - Sharp"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Additional Traits (Heroes + Gods Optional)",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+8 medical",
+          "+100% medical tend speed",
+          "+100% medical operation speed",
+          "+100% medical surgery success chance",
+          "+100% medical tend quality",
+          "+100.0% Armor - Blunt",
+          "+100.0% Armor - Blunt",
+          "+120.0% Armor - Sharp"
+        ]
+      },
+      "defName": "GAT_Imhotep",
+      "name": "imhotep'swisdom",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is adorable being with smooth and charming voice. There is something mysterious about him that attracts everyone around. Even plants start to bloom around Timmy...",
+      "stats": [
+        "+5 social",
+        "+5 animals",
+        "+5 plants",
+        "+25.00% train animal chance",
+        "+25.00% tame animal chance",
+        "+2.0 beauty",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vulpes - Adorable Foxes! [1.2]",
+        "karmaTypeForAdding": "Good",
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5 social",
+          "+5 animals",
+          "+5 plants",
+          "+25.00% train animal chance",
+          "+25.00% tame animal chance",
+          "+2.0 beauty",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ]
+      },
+      "defName": "Adorable",
+      "name": "adorable",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -6434,6 +7994,223 @@
       "defName": "O21_Alien_WoodElf",
       "enabled": true,
       "name": "Wood Elf",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$2000 Market value",
+          "+4.60 Move speed",
+          "+0.0C [0.0F] Minimum comfortable temperature",
+          "+26.0C [46.8F] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Xenohumans - Anthromorphs",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that resembles an anthropomorphic feline, modified by gene engineering either prenatally or postnatally, or inheriting such traits from a parent. Most are found on ultra-tech glitterworlds and are consequently uncommon on the rim.",
+      "defName": "ATK_Felinemorph",
+      "enabled": true,
+      "name": "felinemorph",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$2250 Market value",
+          "+4.60 Move speed",
+          "+20.0C [36.0F] Minimum comfortable temperature",
+          "+40.0C [72.0F] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Xenohumans - Anthromorphs",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that resembles an anthropomorphic dragon, modified by gene engineering either prenatally or postnatally, or inheriting such traits from a parent. They are exceedingly rare among the rim, due to the extensive and expensive modifications made to their physiology.",
+      "defName": "ATK_Dragomorph",
+      "enabled": true,
+      "name": "dragomorph",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$2000 Market value",
+          "+4.60 Move speed",
+          "+9.0C [16.2F] Minimum comfortable temperature",
+          "+34.0C [61.2F] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Xenohumans - Anthromorphs",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that resembles an anthropomorphic canine, modified by gene engineering either prenatally or postnatally, or inheriting such traits from a parent. Most are found on ultra-tech glitterworlds and are consequently uncommon on the rim.",
+      "defName": "ATK_Caninemorph",
+      "enabled": true,
+      "name": "caninemorph",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$2000 Market value",
+          "+4.60 Move speed",
+          "+9.0C [16.2F] Minimum comfortable temperature",
+          "+34.0C [61.2F] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Xenohumans - Anthromorphs",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that resembles an anthropomorphic lapine, modified by gene engineering either prenatally or postnatally, or inheriting such traits from a parent. Most are found on ultra-tech glitterworlds and are consequently uncommon on the rim.",
+      "defName": "ATK_Lagomorph",
+      "enabled": true,
+      "name": "lagomorph",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$2000 Market value",
+          "+4.60 Move speed",
+          "+0.0C [0.0F] Minimum comfortable temperature",
+          "+26.0C [46.8F] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Xenohumans - Anthromorphs",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that resembles an anthropomorphic cervine, modified by gene engineering either prenatally or postnatally, or inheriting such traits from a parent. Most are found on ultra-tech glitterworlds and are consequently uncommon on the rim.",
+      "defName": "ATK_Cervinemorph",
+      "enabled": true,
+      "name": "cervinemorph",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+2.0 Beauty",
+          "+50 Carrying capacity",
+          "+50% Pain shock threshold",
+          "+$2500 Market value",
+          "+5.40 Move speed",
+          "+120% Immunity gain speed",
+          "+10.0C [18.0F] Minimum comfortable temperature",
+          "+25.0C [45.0F] Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+120% Research speed",
+          "+120% Global learning factor",
+          "+80% Mining speed",
+          "+100.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.2 Shooting accuracy"
+        ],
+        "mod": "Kisalfar and Fressálfar - Lost Project [1.2]",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A marvel of genetic engineering created on a far off glitterworld on the verge of transcendence. The Fressalfar were the result of a lone scientists quest to engineer the perfect being that did not rely on the taint of mechanite technology. Pods of them were sent off to rimworlds all across the universe in an effort to save his creation before the AI scourge devoured their homeworld. Believed to be the genetic combination of hyper-intelligent felines, thrumbos, and human DNA; the Fressalfar are fast, highly intelligent, and incredibly beautiful.",
+      "defName": "Fressalfar",
+      "enabled": true,
+      "name": "Fressalfar",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+2.0 Beauty",
+          "+50 Carrying capacity",
+          "+50% Pain shock threshold",
+          "+$2000 Market value",
+          "+5.00 Move speed",
+          "+100% Immunity gain speed",
+          "+10.0C [18.0F] Minimum comfortable temperature",
+          "+25.0C [45.0F] Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+110% Research speed",
+          "+110% Global learning factor",
+          "+80% Mining speed",
+          "+100.00% Social impact",
+          "+100% Construction speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1.0 Shooting accuracy"
+        ],
+        "mod": "Kisalfar and Fressálfar - Lost Project [1.2]",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Genetic descendants of the Fressalfar. The Kisalfar are slightly inferior the Fressalfar due to the highly unstable genome not replicating perfectly outside of lab conditions. Physically this led to the lost of their highly coveted horns and some would say they could never live up to the original race. However, the combination of high intelligence and growing up in a natural environment means the  Kisalfar are much more attuned with the ways of their home world and those around them. What they lost in speed and beauty they make up for in natural charm and instinct and they have proven an ability to get along with humans in a way the Fressalfar never could.",
+      "defName": "Kisalfar",
+      "enabled": true,
+      "name": "Kisalfar",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+50 Carrying capacity",
+          "+50% Pain shock threshold",
+          "+$3000 Market value",
+          "+9.00 Move speed",
+          "+150% Immunity gain speed",
+          "+25.0C [45.0F] Minimum comfortable temperature",
+          "+50.0C [90.0F] Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+400% Research speed",
+          "+200% Global learning factor",
+          "+50% Mining speed",
+          "+200.00% Social impact",
+          "+75% Construction speed",
+          "+125% Animal gather speed",
+          "+125% Animal gather yield",
+          "+4.0 Shooting accuracy"
+        ],
+        "mod": "Vulpes - Adorable Foxes! [1.2]",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Vulpes is a race of adorable genetically engineered foxes with high mental capabilities but weak and fragile body.",
+      "defName": "Vulpes",
+      "enabled": true,
+      "name": "Vulpes",
       "price": 2500
     }
   ]
