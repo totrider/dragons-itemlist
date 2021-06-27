@@ -1960,7 +1960,7 @@
       "abr": "orbitalmechclustertargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterMechCluster",
-      "price": 6000
+      "price": -10
     },
     {
       "abr": "orbitalpowerbeamtargeter",
@@ -8155,36 +8155,6 @@
       "price": 408
     },
     {
-      "abr": "gausslance",
-      "category": "Ranged",
-      "defname": "VWE_Gun_GaussLance",
-      "price": 3508
-    },
-    {
-      "abr": "gaussmagnum",
-      "category": "Ranged",
-      "defname": "VWE_Gun_GaussMagnum",
-      "price": 817
-    },
-    {
-      "abr": "gaussrepeater",
-      "category": "Ranged",
-      "defname": "VWEFT_Gun_GaussRepeater",
-      "price": 1500
-    },
-    {
-      "abr": "gaussrevolver",
-      "category": "Ranged",
-      "defname": "VWEFT_Gun_GaussRevolver",
-      "price": 908
-    },
-    {
-      "abr": "gaussrifle",
-      "category": "Ranged",
-      "defname": "VWE_Gun_GaussRifle",
-      "price": 1392
-    },
-    {
       "abr": "gdbuckshotlauncher",
       "category": "Ranged",
       "defname": "GD_BSLauncher",
@@ -11908,73 +11878,73 @@
       "abr": "plasmacaliver",
       "category": "Ranged",
       "defname": "AD_PlasmaCaliver",
-      "price": -10
+      "price": 4942
     },
     {
       "abr": "plasmagrenade",
       "category": "Ranged",
       "defname": "AD_FedPlasmaGrenades",
-      "price": -10
+      "price": 1500
     },
     {
       "abr": "plasmapistol",
       "category": "Ranged",
       "defname": "KIT_Gun_PlasmaPistol",
-      "price": -10
+      "price": 3833
     },
     {
       "abr": "plasmarifle",
       "category": "Ranged",
       "defname": "AD_Sentinel",
-      "price": -10
+      "price": 5150
     },
     {
       "abr": "plasmarifle",
       "category": "Ranged",
       "defname": "KIT_Gun_PlasmaRifle",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "plasmascattergun",
       "category": "Ranged",
       "defname": "VFE_Gun_PlasmaScattergun",
-      "price": -10
+      "price": 3833
     },
     {
       "abr": "plasmasmg",
       "category": "Ranged",
       "defname": "KIT_Gun_PlasmaSMG",
-      "price": -10
+      "price": 3833
     },
     {
       "abr": "plasmasniper",
       "category": "Ranged",
       "defname": "KIT_Gun_PlasmaSniper",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "plasmabeamrifle",
       "category": "Ranged",
       "defname": "VFE_Gun_PlasmabeamRifle",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "plasmacutter",
       "category": "Ranged",
       "defname": "VFE_Gun_Plasmacutter",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "plasmapiercer",
       "category": "Ranged",
       "defname": "VFE_Gun_Plasmapiercer",
-      "price": -10
+      "price": 3833
     },
     {
       "abr": "plasmasaw",
       "category": "Melee",
       "defname": "VFE_Plasmasaw",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "plasmorph",
@@ -17323,36 +17293,6 @@
       "price": 106
     },
     {
-      "abr": "bionicbrainpal",
-      "category": "Bionic",
-      "defname": "BionicTacticalImplant",
-      "price": 5000
-    },
-    {
-      "abr": "electronicbrainpal",
-      "category": "Bionic",
-      "defname": "ElectronicTacticalImplant",
-      "price": 3250
-    },
-    {
-      "abr": "microturretlauncher",
-      "category": "Ranged",
-      "defname": "Gun_MicroTurretLauncher",
-      "price": 1442
-    },
-    {
-      "abr": "nanoprinter",
-      "category": "Production",
-      "defname": "NanoPrinter",
-      "price": 758
-    },
-    {
-      "abr": "nanoscanner",
-      "category": "Production",
-      "defname": "NanoScanner",
-      "price": 160
-    },
-    {
       "abr": "psytrainer(arcticpinhole)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MorePsycasts_ArcticPinhole",
@@ -17425,46 +17365,10 @@
       "price": 1500
     },
     {
-      "abr": "railgun",
-      "category": "Ranged",
-      "defname": "Gun_RailgunMKI",
-      "price": 2667
-    },
-    {
       "abr": "techprinter",
       "category": "Production",
       "defname": "DTechprinter",
       "price": 342
-    },
-    {
-      "abr": "turretbasea",
-      "category": "Security",
-      "defname": "TurretWeaponBaseAutomatic_Buildable",
-      "price": -10
-    },
-    {
-      "abr": "turretbasea",
-      "category": "Security",
-      "defname": "TurretWeaponBaseAutomatic",
-      "price": -10
-    },
-    {
-      "abr": "turretbaseamk-ii",
-      "category": "Security",
-      "defname": "TurretWeaponBaseAutomaticPlasteel",
-      "price": -10
-    },
-    {
-      "abr": "turretbaseamk-iii",
-      "category": "Security",
-      "defname": "TurretWeaponBaseAutomaticHighTechTargeting_Buildable",
-      "price": -10
-    },
-    {
-      "abr": "turretbaseamk-iii",
-      "category": "Security",
-      "defname": "TurretWeaponBaseAutomaticHighTechTargeting",
-      "price": -10
     },
     {
       "abr": "hiveprince",
@@ -17566,7 +17470,7 @@
       "abr": "burstblade",
       "category": "Melee",
       "defname": "HMW_MeleeWeapon_ZeusSword",
-      "price": 15000
+      "price": 5000
     },
     {
       "abr": "guardianshield",
@@ -17578,7 +17482,7 @@
       "abr": "heavymonosword",
       "category": "Melee",
       "defname": "HMW_MeleeWeapon_HeavyMonoSword",
-      "price": 15000
+      "price": 5000
     },
     {
       "abr": "hivechainvest",
@@ -17608,31 +17512,31 @@
       "abr": "personaburstblade",
       "category": "Persona",
       "defname": "HMW_MeleeWeapon_PersonaZeusSword",
-      "price": 30000
+      "price": 10000
     },
     {
       "abr": "personaheavymonosword",
       "category": "Persona",
       "defname": "HMW_MeleeWeapon_PersonaHeavyMonoSword",
-      "price": 30000
+      "price": 10000
     },
     {
       "abr": "personaplasmalance",
       "category": "Persona",
       "defname": "HMW_MeleeWeapon_PersonaFlameLance",
-      "price": 30000
+      "price": 10000
     },
     {
       "abr": "personarelicmaul",
       "category": "Persona",
       "defname": "HMW_MeleeWeapon_PersonaPsychicWarhammer",
-      "price": 30000
+      "price": 10000
     },
     {
       "abr": "plasmalance",
       "category": "Melee",
       "defname": "HMW_MeleeWeapon_FlameLance",
-      "price": 15000
+      "price": 5000
     },
     {
       "abr": "polearm",
@@ -17644,7 +17548,7 @@
       "abr": "relicmaul",
       "category": "Melee",
       "defname": "HMW_MeleeWeapon_PsychicWarhammer",
-      "price": 15000
+      "price": 5000
     },
     {
       "abr": "rockethammer",
@@ -18709,6 +18613,60 @@
       "price": 166
     },
     {
+      "abr": "fressalfar",
+      "category": "Animal",
+      "defname": "Fressalfar",
+      "price": -10
+    },
+    {
+      "abr": "gerdenlight",
+      "category": "Furniture",
+      "defname": "SC_GardenLightCenter",
+      "price": -10
+    },
+    {
+      "abr": "gerdenlight(corner)",
+      "category": "Furniture",
+      "defname": "SC_GardenLightCorner",
+      "price": -10
+    },
+    {
+      "abr": "gerdenlight(side)",
+      "category": "Furniture",
+      "defname": "SC_GardenLight",
+      "price": -10
+    },
+    {
+      "abr": "kisalfar",
+      "category": "Animal",
+      "defname": "Kisalfar",
+      "price": -10
+    },
+    {
+      "abr": "synthreadtail",
+      "category": "Bionic",
+      "defname": "SynthTail",
+      "price": 875
+    },
+    {
+      "abr": "tacticalbioniceye",
+      "category": "Ultratech",
+      "defname": "EPIA_TacticalBionicEye",
+      "price": 4433
+    },
+    {
+      "abr": "vulpes",
+      "category": "Animal",
+      "defname": "Vulpes",
+      "price": -10
+    },
+    {
+      "abr": "vulpianleather",
+      "category": "Leathers",
+      "defname": "Vulpian_leather",
+      "price": 83
+    },
+    {
       "abr": "techshard(psychoidbrewing)",
       "category": "Techshards",
       "defname": "Techshard_PsychoidBrewing",
@@ -19099,7 +19057,7 @@
       "price": -10
     },
     {
-      "abr": "techshard(ribreplacements)",
+      "abr": "techshard(ribimplants)",
       "category": "Techshards",
       "defname": "Techshard_RibReplacements",
       "price": -10
@@ -19456,12 +19414,6 @@
       "abr": "techshard(ultratechlaserweapons)",
       "category": "Techshards",
       "defname": "Techshard_VWE_UltratechLaserWeapons",
-      "price": -10
-    },
-    {
-      "abr": "techshard(massdrivers)",
-      "category": "Techshards",
-      "defname": "Techshard_VWE_MassDrivers",
       "price": -10
     },
     {
@@ -19859,37 +19811,7 @@
       "category": "Techshards",
       "defname": "Techshard_VEF_AdvancedAnimalImplants",
       "price": -10
-    },
-    {
-      "abr": "fressalfar",
-      "category": "Animal",
-      "defname": "Fressalfar",
-      "price": -10
-    },
-    {
-      "abr": "kisalfar",
-      "category": "Animal",
-      "defname": "Kisalfar",
-      "price": -10
-    },
-    {
-      "abr": "synthreadtail",
-      "category": "Bionic",
-      "defname": "SynthTail",
-      "price": 875
-    },
-    {
-      "abr": "vulpes",
-      "category": "Animal",
-      "defname": "Vulpes",
-      "price": -10
-    },
-    {
-      "abr": "vulpianleather",
-      "category": "Leathers",
-      "defname": "Vulpian_leather",
-      "price": 83
     }
   ],
-  "total": 3315
+  "total": 3302
 }
