@@ -90,12 +90,6 @@
     "version": null
   },
   {
-    "author": "Haplo",
-    "name": "Miscellaneous 'CORE'",
-    "steamId": "704181221",
-    "version": "1.2.0"
-  },
-  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -664,6 +658,12 @@
     "name": "Too Many Areas",
     "steamId": "2316018203",
     "version": "1.0"
+  },
+  {
+    "author": "Alan Dariva",
+    "name": "More Planning",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Roolo",
@@ -1338,6 +1338,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Temeez",
+    "name": "Floor Lights",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Si-Cafe",
+    "name": "Garden Light",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Haplo",
     "name": "Misc. Training",
     "steamId": null,
@@ -1358,12 +1370,6 @@
   {
     "author": "zymex",
     "name": "SS Bigger Batteries",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. TurretBase, Objects",
     "steamId": null,
     "version": null
   },
@@ -1464,6 +1470,12 @@
     "version": null
   },
   {
+    "author": "LordKuper",
+    "name": "Vanilla Fishing Expanded - Automation",
+    "steamId": "2266336252",
+    "version": "1.2.2.0"
+  },
+  {
     "author": "Oskar Potocki, Trunken, XeoNovaDan",
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
@@ -1536,12 +1548,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, AveryTheKitty, Taranchuk",
-    "name": "Vanilla Weapons Expanded - Coilguns",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Non-Lethal",
     "steamId": null,
@@ -1578,62 +1584,8 @@
     "version": null
   },
   {
-    "author": "Argón",
-    "name": "Expanded Materials - Metals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Argón",
-    "name": "Expanded Materials - Plastics",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "GamingTesh",
-    "name": "Expanded Materials - Metals Mega Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Growable Ambrosia",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Cooking Expanded - Stews",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson, Oskar Potocki",
-    "name": "Vanilla Cooking Expanded - Sushi",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Brewing Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LordKuper",
-    "name": "Vanilla Fishing Expanded - Automation",
-    "steamId": "2266336252",
-    "version": "1.2.2.0"
-  },
-  {
-    "author": "Sarg Bjornson, Chowder",
-    "name": "Vanilla Brewing Expanded - Coffees and Teas",
     "steamId": null,
     "version": null
   },
@@ -1718,12 +1670,6 @@
   {
     "author": "wofl",
     "name": "More Furniture [1.1 + 1.2] Royalty Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Argón",
-    "name": "Salted Meat",
     "steamId": null,
     "version": null
   },
@@ -1934,6 +1880,60 @@
   {
     "author": "Nowano",
     "name": "VFE - Mechanoids : Prison control droid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Argón",
+    "name": "Expanded Materials - Metals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Argón",
+    "name": "Expanded Materials - Plastics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Cooking Expanded - Stews",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson, Oskar Potocki",
+    "name": "Vanilla Cooking Expanded - Sushi",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson, Chowder",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Argón",
+    "name": "Salted Meat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GamingTesh",
+    "name": "Expanded Materials - Metals Mega Patches",
     "steamId": null,
     "version": null
   },
@@ -2283,7 +2283,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.0.3.0"
+    "version": "6.0.3.3"
   },
   {
     "author": "SirRandoo",
