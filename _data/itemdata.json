@@ -14767,45 +14767,6 @@
     "Mod": "Vanilla Weapons Expanded - Laser",
     "KarmaType": "Neutral"
   },
-  "VWE_Gun_GaussRifle": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Vanilla Weapons Expanded - Coilguns",
-    "KarmaType": "Neutral"
-  },
-  "VWE_Gun_GaussMagnum": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Vanilla Weapons Expanded - Coilguns",
-    "KarmaType": "Neutral"
-  },
-  "VWE_Gun_GaussLance": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Vanilla Weapons Expanded - Coilguns",
-    "KarmaType": "Neutral"
-  },
   "VWE_Gun_Taser": {
     "CustomName": null,
     "HasQuantityLimit": true,
@@ -36451,19 +36412,6 @@
     "Mod": "Tribal Warrior Set!",
     "KarmaType": "Neutral"
   },
-  "BionicTacticalImplant": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Miscellaneous 'CORE'",
-    "KarmaType": "Neutral"
-  },
   "VMEu_Synthleather_Black": {
     "CustomName": null,
     "HasQuantityLimit": true,
@@ -36516,32 +36464,6 @@
     "Mod": "Expanded Materials - Plastics",
     "KarmaType": "Neutral"
   },
-  "ElectronicTacticalImplant": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Miscellaneous 'CORE'",
-    "KarmaType": "Neutral"
-  },
-  "Gun_RailgunMKI": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Miscellaneous 'CORE'",
-    "KarmaType": "Neutral"
-  },
   "DTechprinter": {
     "CustomName": null,
     "HasQuantityLimit": true,
@@ -36553,110 +36475,6 @@
     "Weight": 1,
     "ResearchOverrides": null,
     "Mod": "[D] Techprinting",
-    "KarmaType": "Neutral"
-  },
-  "Gun_MicroTurretLauncher": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Misc. TurretBase, Objects",
-    "KarmaType": "Neutral"
-  },
-  "NanoPrinter": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Misc. TurretBase, Objects",
-    "KarmaType": "Neutral"
-  },
-  "NanoScanner": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Misc. TurretBase, Objects",
-    "KarmaType": "Neutral"
-  },
-  "TurretWeaponBaseAutomatic_Buildable": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Misc. TurretBase, Objects",
-    "KarmaType": "Neutral"
-  },
-  "TurretWeaponBaseAutomaticHighTechTargeting_Buildable": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Misc. TurretBase, Objects",
-    "KarmaType": "Neutral"
-  },
-  "TurretWeaponBaseAutomatic": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Misc. TurretBase, Objects",
-    "KarmaType": "Neutral"
-  },
-  "TurretWeaponBaseAutomaticPlasteel": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Misc. TurretBase, Objects",
-    "KarmaType": "Neutral"
-  },
-  "TurretWeaponBaseAutomaticHighTechTargeting": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Misc. TurretBase, Objects",
     "KarmaType": "Neutral"
   },
   "Psytrainer_MorePsycasts_StabilizingTouch": {
@@ -38791,32 +38609,6 @@
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
     "KarmaType": "Neutral"
   },
-  "akaNEKO_N_Forest_Cat": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Let's Have a Cat!",
-    "KarmaType": null
-  },
-  "akaNEKO_Maine_Coon": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "Let's Have a Cat!",
-    "KarmaType": null
-  },
   "VAEA_Apparel_MiniTurretPack": {
     "CustomName": null,
     "HasQuantityLimit": true,
@@ -40156,30 +39948,30 @@
     "Mod": null,
     "KarmaType": null
   },
-  "VWEFT_Gun_GaussRevolver": {
+  "akaNEKO_N_Forest_Cat": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": 1,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "Mod": null,
+    "Mod": "Let's Have a Cat!",
     "KarmaType": null
   },
-  "VWEFT_Gun_GaussRepeater": {
+  "akaNEKO_Maine_Coon": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": 1,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "Mod": null,
+    "Mod": "Let's Have a Cat!",
     "KarmaType": null
   },
   "VWEFT_Gun_SalvagedLaserRevolver": {
@@ -40312,46 +40104,46 @@
     "Mod": "Let's Have a Cat!",
     "KarmaType": null
   },
-  "akaNEKO_kijitora": {
+  "SC_GardenLightCorner": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "Mod": "Let's Have a Cat!",
+    "Mod": "Garden Light",
     "KarmaType": null
   },
-  "akaNEKO_kuroneko": {
+  "SC_GardenLight": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "Mod": "Let's Have a Cat!",
+    "Mod": "Garden Light",
     "KarmaType": null
   },
-  "akaNEKO_shironeko": {
+  "SC_GardenLightCenter": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "Mod": "Let's Have a Cat!",
+    "Mod": "Garden Light",
     "KarmaType": null
   },
-  "plumbingValve": {
+  "EPIA_TacticalBionicEye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -40361,7 +40153,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
     "KarmaType": null
   },
   "ATK_StabilizerTail": {
@@ -40596,6 +40388,58 @@
     "Weight": 1,
     "ResearchOverrides": null,
     "Mod": "Vulpes - Adorable Foxes! [1.2]",
+    "KarmaType": null
+  },
+  "akaNEKO_kijitora": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Let's Have a Cat!",
+    "KarmaType": null
+  },
+  "akaNEKO_kuroneko": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Let's Have a Cat!",
+    "KarmaType": null
+  },
+  "akaNEKO_shironeko": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Let's Have a Cat!",
+    "KarmaType": null
+  },
+  "plumbingValve": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "Mod": "Dubs Bad Hygiene",
     "KarmaType": null
   }
 }
