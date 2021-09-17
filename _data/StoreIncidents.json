@@ -106,11 +106,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "tradercaravan",
 		"price": 1000,
 		"karmatype": "Good"
@@ -213,6 +208,11 @@
 	{
 		"abr": "siegeraid",
 		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidraid",
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
