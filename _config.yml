@@ -68,7 +68,7 @@ mods:
   author: true
 
 # Build settings
-remote_theme: SirRandoo/Type-on-Strap
+remote_theme: totrider/Type-on-Strap-Dragon
 plugins:
   -
 
