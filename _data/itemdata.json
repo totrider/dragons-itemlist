@@ -10080,7 +10080,7 @@
     "KarmaType": null
   },
   "MMr_sling": {
-    "CustomName": null,
+    "CustomName": "slingmm",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
@@ -37920,7 +37920,7 @@
     "KarmaType": null
   },
   "Ranged_Slinger": {
-    "CustomName": null,
+    "CustomName": "slingap",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": true,
