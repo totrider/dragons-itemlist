@@ -25,7 +25,7 @@ title: Store
         {%- continue -%}
     {%- endif -%}
 
-    {%- if site.data.itemdata[item.defname].IsAnimal -%}
+    {%- if item.category == "Animal" -%}
         {%- assign animalsForDisplay = animalsForDisplay | push: item | sort: "abr" -%}
         {%- continue -%}
     {%- endif -%}
