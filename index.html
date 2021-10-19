@@ -25,7 +25,7 @@ title: Store
         {%- continue -%}
     {%- endif -%}
 
-    {%- if item.category == "Animal" OR item.category == "Animals" -%}
+    {%- if item.category == "Animal" || item.category == "Animals" -%}
         {%- assign animalsForDisplay = animalsForDisplay | push: item | sort: "abr" -%}
         {%- continue -%}
     {%- endif -%}
