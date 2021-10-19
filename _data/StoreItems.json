@@ -15556,13 +15556,13 @@
       "abr": "strikerskill:howlingfist",
       "category": "Scrolls",
       "defname": "SkillOf_HowlingFist",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "strikerskill:rockbreaker",
       "category": "Scrolls",
       "defname": "SkillOf_Rockbreaker",
-      "price": 3000
+      "price": -10
     },
     {
       "abr": "syntheticbone",
@@ -15611,7 +15611,85 @@
       "category": "Melee",
       "defname": "MeleeWeapon_Zeushammer",
       "price": -10
+    },
+    {
+      "abr": "fieldmortar",
+      "category": "Utility",
+      "defname": "SGC_Apparel_FieldMortar",
+      "price": -10
+    },
+    {
+      "abr": "staminapotion",
+      "category": "Drugs",
+      "defname": "RFS_StaminaPotion",
+      "price": 150
+    },
+    {
+      "abr": "wearableforklift",
+      "category": "Utility",
+      "defname": "SGC_Apparel_Forklift",
+      "price": -10
+    },
+    {
+      "abr": "firepotbomb",
+      "category": "Grenades",
+      "defname": "BZT_Weapon_FirepotBomb",
+      "price": 442
+    },
+    {
+      "abr": "firethrower",
+      "category": "Ranged",
+      "defname": "BZT_Gun_Firethrower",
+      "price": 358
+    },
+    {
+      "abr": "footmanarmor",
+      "category": "Armored",
+      "defname": "BZT_FootmanArmor",
+      "price": 733
+    },
+    {
+      "abr": "footmanhelmet",
+      "category": "Armored",
+      "defname": "BZN_FootmanHelmet",
+      "price": 383
+    },
+    {
+      "abr": "imperialsabre",
+      "category": "Melee",
+      "defname": "BZT_MeleeWeapon_ImperialSabre",
+      "price": 833
+    },
+    {
+      "abr": "scoutarmor",
+      "category": "Armored",
+      "defname": "BZT_ScoutArmor",
+      "price": 733
+    },
+    {
+      "abr": "scouthelmet",
+      "category": "Armored",
+      "defname": "BZN_ScoutHelmet",
+      "price": 383
+    },
+    {
+      "abr": "varangianarmor",
+      "category": "Armored",
+      "defname": "BZT_VarangianArmor",
+      "price": 767
+    },
+    {
+      "abr": "varangianaxe",
+      "category": "Melee",
+      "defname": "BZT_MeleeWeapon_VarangianAxe",
+      "price": 833
+    },
+    {
+      "abr": "varangianhelmet",
+      "category": "Armored",
+      "defname": "BZN_VarangianHelmet",
+      "price": 383
     }
   ],
-  "total": 2602
+  "total": 2615
 }
