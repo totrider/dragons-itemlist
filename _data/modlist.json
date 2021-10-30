@@ -366,8 +366,32 @@
     "version": null
   },
   {
-    "author": "Sugar Show",
-    "name": "Medieval Music",
+    "author": "Ank",
+    "name": "Age of Mythology Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ank",
+    "name": "Genshin Impact Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Augustus",
+    "name": "Pharaoh - Soundtrack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Legion_LXIXI",
+    "name": "Pure Medieval Soundtrack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Augustus",
+    "name": "Rimhold: Crusader",
     "steamId": null,
     "version": null
   },
@@ -891,7 +915,7 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.7856.17248"
+    "version": "1.0.7969.5967"
   },
   {
     "author": "AFLD",
@@ -1188,6 +1212,12 @@
     "version": null
   },
   {
+    "author": "denev",
+    "name": "Smart Turret Covering",
+    "steamId": "2636621800",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
@@ -1398,8 +1428,8 @@
     "version": null
   },
   {
-    "author": "Myf",
-    "name": "Frostshards",
+    "author": "Vali",
+    "name": "Ancient Crystals",
     "steamId": null,
     "version": null
   },
@@ -1431,7 +1461,7 @@
     "author": "pelador",
     "name": "Apothecary (Continued)",
     "steamId": "2195469123",
-    "version": "1.0.11.0"
+    "version": "1.0.12.0"
   },
   {
     "author": "Geminingen",
@@ -1688,6 +1718,12 @@
   {
     "author": "Oskar Potocki and  Kikohi",
     "name": "Vanilla Storytellers Expanded - Empress Evil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lanilor",
+    "name": "Storyteller Enhanced (Continued)",
     "steamId": null,
     "version": null
   },

@@ -134,7 +134,7 @@
     },
     {
       "abr": "beret",
-      "category": "Headgear",
+      "category": "Royalty",
       "defname": "Apparel_Beret",
       "price": 141
     },
@@ -254,7 +254,7 @@
     },
     {
       "abr": "cape",
-      "category": "Outer",
+      "category": "Royalty",
       "defname": "Apparel_Cape",
       "price": 367
     },
@@ -422,13 +422,13 @@
     },
     {
       "abr": "coronet",
-      "category": "Headgear",
+      "category": "Royalty",
       "defname": "Apparel_Coronet",
       "price": 215
     },
     {
       "abr": "corset",
-      "category": "Middle",
+      "category": "Royalty",
       "defname": "Apparel_Corset",
       "price": 222
     },
@@ -458,7 +458,7 @@
     },
     {
       "abr": "crown",
-      "category": "Headgear",
+      "category": "Royalty",
       "defname": "Apparel_Crown",
       "price": 322
     },
@@ -662,13 +662,13 @@
     },
     {
       "abr": "formalshirt",
-      "category": "Skin",
+      "category": "Royalty",
       "defname": "Apparel_ShirtRuffle",
       "price": 253
     },
     {
       "abr": "formalvest",
-      "category": "Middle",
+      "category": "Royalty",
       "defname": "Apparel_VestRoyal",
       "price": 222
     },
@@ -1046,7 +1046,7 @@
     },
     {
       "abr": "ladieshat",
-      "category": "Headgear",
+      "category": "Royalty",
       "defname": "Apparel_HatLadies",
       "price": 203
     },
@@ -1382,7 +1382,7 @@
     },
     {
       "abr": "prestigerobe",
-      "category": "Outer",
+      "category": "Royalty",
       "defname": "Apparel_RobeRoyal",
       "price": 450
     },
@@ -1622,7 +1622,7 @@
     },
     {
       "abr": "stelliccrown",
-      "category": "Headgear",
+      "category": "Royalty",
       "defname": "Apparel_CrownStellic",
       "price": 283
     },
@@ -1790,7 +1790,7 @@
     },
     {
       "abr": "tophat",
-      "category": "Headgear",
+      "category": "Royalty",
       "defname": "Apparel_HatTop",
       "price": 203
     },
@@ -4058,7 +4058,7 @@
     },
     {
       "abr": "jarlcape",
-      "category": "Outer",
+      "category": "Royalty",
       "defname": "VFEV_Apparel_JarlCape",
       "price": 583
     },
@@ -4712,7 +4712,7 @@
     },
     {
       "abr": "noblefurcoat",
-      "category": "Outer",
+      "category": "Royalty",
       "defname": "VFEV_Apparel_RoyalFurCoat",
       "price": 433
     },
@@ -6722,7 +6722,7 @@
     },
     {
       "abr": "arcanehood",
-      "category": "Headgear",
+      "category": "Royalty",
       "defname": "ArcaneHood",
       "price": 817
     },
@@ -7538,13 +7538,13 @@
     },
     {
       "abr": "byzantineimperialcrown",
-      "category": "Headgear",
+      "category": "Royalty",
       "defname": "Canon_Crown_Byzantine",
       "price": 1050
     },
     {
       "abr": "byzantineimperialcrown(stuffable)",
-      "category": "Headgear",
+      "category": "Royalty",
       "defname": "Canon_Crown_Byzantine_Stuffable",
       "price": 675
     },
@@ -7904,7 +7904,7 @@
     },
     {
       "abr": "cloakofsupremacy",
-      "category": "Cloak",
+      "category": "Royalty",
       "defname": "DemonLordCloak",
       "price": -10
     },
@@ -8690,13 +8690,13 @@
     },
     {
       "abr": "emeraldcrown",
-      "category": "Headgear",
+      "category": "Royalty",
       "defname": "Canon_Crown_Emerald",
       "price": 1050
     },
     {
       "abr": "emeraldcrown(stuffable)",
-      "category": "Headgear",
+      "category": "Royalty",
       "defname": "Canon_Crown_Emerald_Stuffable",
       "price": 425
     },
@@ -9071,12 +9071,6 @@
       "category": "Ranged",
       "defname": "MMr_fbolas",
       "price": 284
-    },
-    {
-      "abr": "frostshard",
-      "category": "Temperature",
-      "defname": "MYF_Frostshards",
-      "price": 2000
     },
     {
       "abr": "fueledsmithy",
@@ -9716,13 +9710,13 @@
     },
     {
       "abr": "holyromanreichskrone",
-      "category": "Headgear",
+      "category": "Royalty",
       "defname": "Canon_Crown_Reichskrone",
       "price": 1050
     },
     {
       "abr": "holyromanreichskrone(stuffable)",
-      "category": "Headgear",
+      "category": "Royalty",
       "defname": "Canon_Crown_Reichskrone_Stuffable",
       "price": 675
     },
@@ -9734,7 +9728,7 @@
     },
     {
       "abr": "hoodofmadness",
-      "category": "Headgear",
+      "category": "Royalty",
       "defname": "HoodOfMadness",
       "price": -10
     },
@@ -10220,7 +10214,7 @@
     },
     {
       "abr": "magerobe",
-      "category": "Middle",
+      "category": "Royalty",
       "defname": "DarkRobe",
       "price": 3767
     },
@@ -12572,7 +12566,7 @@
     },
     {
       "abr": "wanderer'scloak",
-      "category": "Cloak",
+      "category": "Royalty",
       "defname": "TM_MaestersCloak",
       "price": -10
     },
@@ -14840,7 +14834,7 @@
     },
     {
       "abr": "shirtandtie",
-      "category": "Skin",
+      "category": "Royalty",
       "defname": "VAE_Apparel_ShirtandTie",
       "price": -10
     },
@@ -15032,7 +15026,7 @@
     },
     {
       "abr": "skirt",
-      "category": "Skin",
+      "category": "Royalty",
       "defname": "VAE_Apparel_Skirt",
       "price": -10
     },
@@ -15140,7 +15134,7 @@
     },
     {
       "abr": "suitjacket",
-      "category": "Outer",
+      "category": "Royalty",
       "defname": "VAE_Apparel_SuitJacket",
       "price": -10
     },
@@ -15284,7 +15278,7 @@
     },
     {
       "abr": "trousers",
-      "category": "Skin",
+      "category": "Royalty",
       "defname": "VAE_Apparel_Trousers",
       "price": -10
     },
@@ -15689,7 +15683,49 @@
       "category": "Armored",
       "defname": "BZN_VarangianHelmet",
       "price": 383
+    },
+    {
+      "abr": "windmagespell:feywinds",
+      "category": "Scrolls",
+      "defname": "SpellOf_FeyWindsLearnable",
+      "price": -10
+    },
+    {
+      "abr": "arefarcrystal1x1",
+      "category": "Temperature",
+      "defname": "Ar_Crystal_Small",
+      "price": 4042
+    },
+    {
+      "abr": "arefarcrystal3x3",
+      "category": "Temperature",
+      "defname": "Ar_Crystal_Med",
+      "price": 6417
+    },
+    {
+      "abr": "arefarcrystal4x4",
+      "category": "Temperature",
+      "defname": "Ar_Crystal_Grand",
+      "price": 8525
+    },
+    {
+      "abr": "yggdrasilcrystal1x1",
+      "category": "Temperature",
+      "defname": "YGG_Crystal_Small",
+      "price": 4042
+    },
+    {
+      "abr": "yggdrasilcrystal3x3",
+      "category": "Temperature",
+      "defname": "YGG_Crystal_Med",
+      "price": 6417
+    },
+    {
+      "abr": "yggdrasilcrystal4x4",
+      "category": "Temperature",
+      "defname": "YGG_Crystal_Grand",
+      "price": 8525
     }
   ],
-  "total": 2615
+  "total": 2621
 }
