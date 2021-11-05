@@ -69,7 +69,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.6.2"
+    "version": "1.6.3"
   },
   {
     "author": "these people",
@@ -372,12 +372,6 @@
     "version": null
   },
   {
-    "author": "Ank",
-    "name": "Genshin Impact Music",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Augustus",
     "name": "Pharaoh - Soundtrack",
     "steamId": null,
@@ -392,6 +386,12 @@
   {
     "author": "Augustus",
     "name": "Rimhold: Crusader",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ank",
+    "name": "Age of Empires II Music",
     "steamId": null,
     "version": null
   },
@@ -1212,6 +1212,12 @@
     "version": null
   },
   {
+    "author": "Owlchemist",
+    "name": "Boundary Training",
+    "steamId": "2635034257",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "denev",
     "name": "Smart Turret Covering",
     "steamId": "2636621800",
@@ -1221,7 +1227,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.1.0"
+    "version": "2.6.2.0"
   },
   {
     "author": "Kure",
@@ -1620,6 +1626,12 @@
     "version": null
   },
   {
+    "author": "Daniledman",
+    "name": "Carpets++ (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Plants Expanded",
     "steamId": null,
@@ -1680,7 +1692,7 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sarg,  AFriend,  milon,  Skullywag and kaptain_kavern",
+    "author": "Sarg Bjornson and  AFriend",
     "name": "Alpha Animals",
     "steamId": "1541721856",
     "version": "1.0.0.0"
