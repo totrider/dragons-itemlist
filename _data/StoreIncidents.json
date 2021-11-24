@@ -369,7 +369,32 @@
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "hailstorm",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "earthquake",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "cropsprout",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "drought",
+		"price": 10000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "huntingparty",
+		"price": 1200,
+		"karmatype": "Bad"
 	}
 	],
-	"total": 74
+	"total": 79
 }

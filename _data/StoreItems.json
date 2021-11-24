@@ -229,12 +229,6 @@
 		"defname": "Brewery"
 	},
 	{
-		"abr": "bricks",
-		"price": 3,
-		"category": "Stone blocks",
-		"defname": "RFFBricks"
-	},
-	{
 		"abr": "butchertable",
 		"price": 329,
 		"category": "Production",
@@ -365,12 +359,6 @@
 		"price": 5,
 		"category": "Foods",
 		"defname": "Chocolate"
-	},
-	{
-		"abr": "clay",
-		"price": 3,
-		"category": "Raw resources",
-		"defname": "RFFClay"
 	},
 	{
 		"abr": "cloth",
@@ -643,12 +631,6 @@
 		"defname": "FermentingBarrel"
 	},
 	{
-		"abr": "fertilizer",
-		"price": 10,
-		"category": "Raw resources",
-		"defname": "Fertilizer"
-	},
-	{
 		"abr": "finemeal",
 		"price": 33,
 		"category": "Meals",
@@ -875,12 +857,6 @@
 		"price": 6,
 		"category": "Leathers",
 		"defname": "Leather_Heavy"
-	},
-	{
-		"abr": "heavysandbags",
-		"price": -10,
-		"category": "Security",
-		"defname": "HeavySandbags"
 	},
 	{
 		"abr": "herbalmedicine",
@@ -1321,18 +1297,6 @@
 		"defname": "Pila"
 	},
 	{
-		"abr": "pileofdirt",
-		"price": 3,
-		"category": "Raw resources",
-		"defname": "PileofDirt"
-	},
-	{
-		"abr": "pileofsand",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "SandPile"
-	},
-	{
 		"abr": "plainleather",
 		"price": 3,
 		"category": "Leathers",
@@ -1421,12 +1385,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Rat"
-	},
-	{
-		"abr": "rawcompost",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "RawCompost"
 	},
 	{
 		"abr": "rawfungus",
@@ -6591,7 +6549,7 @@
 	{
 		"abr": "ambut",
 		"price": 12,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Ambut"
 	},
 	{
@@ -6633,7 +6591,7 @@
 	{
 		"abr": "andrium",
 		"price": 37,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Andrium"
 	},
 	{
@@ -7011,7 +6969,7 @@
 	{
 		"abr": "bananite",
 		"price": 2,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Bananite"
 	},
 	{
@@ -7489,12 +7447,6 @@
 		"defname": "RGK_bucketr"
 	},
 	{
-		"abr": "bucket(ash/scraps)",
-		"price": 19,
-		"category": "Apothecary products",
-		"defname": "AYAshScraps_Bucket"
-	},
-	{
 		"abr": "bucket(rocksalt)",
 		"price": 135,
 		"category": "Apothecary products",
@@ -7617,7 +7569,7 @@
 	{
 		"abr": "captolite",
 		"price": 2,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Captolite"
 	},
 	{
@@ -8179,21 +8131,15 @@
 		"defname": "ChunkCreoleMarble"
 	},
 	{
-		"abr": "crushedrocks",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "CrushedRocks"
-	},
-	{
 		"abr": "cryolium",
 		"price": 27,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Cryolium"
 	},
 	{
 		"abr": "cryppo",
 		"price": 20,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Cryppo"
 	},
 	{
@@ -9483,7 +9429,7 @@
 	{
 		"abr": "hampu",
 		"price": 12,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Hampu"
 	},
 	{
@@ -9735,7 +9681,7 @@
 	{
 		"abr": "hydrotherium",
 		"price": 27,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Hydrotherium"
 	},
 	{
@@ -9843,7 +9789,7 @@
 	{
 		"abr": "keellikoi",
 		"price": 20,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Keellikoi"
 	},
 	{
@@ -9909,7 +9855,7 @@
 	{
 		"abr": "laatim",
 		"price": 15,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Laatim"
 	},
 	{
@@ -10173,7 +10119,7 @@
 	{
 		"abr": "loveli",
 		"price": 2,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Loveli"
 	},
 	{
@@ -10185,7 +10131,7 @@
 	{
 		"abr": "luxorium",
 		"price": 3,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Luxorium"
 	},
 	{
@@ -10641,7 +10587,7 @@
 	{
 		"abr": "muuhute",
 		"price": 13,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Muuhute"
 	},
 	{
@@ -10665,7 +10611,7 @@
 	{
 		"abr": "mythil",
 		"price": 22,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Mythil"
 	},
 	{
@@ -10851,7 +10797,7 @@
 	{
 		"abr": "penumbrite",
 		"price": 18,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Penumbrite"
 	},
 	{
@@ -10983,7 +10929,7 @@
 	{
 		"abr": "primoss",
 		"price": 13,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Primoss"
 	},
 	{
@@ -11205,7 +11151,7 @@
 	{
 		"abr": "roosterium",
 		"price": 23,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Roosterium"
 	},
 	{
@@ -11373,7 +11319,7 @@
 	{
 		"abr": "sephim",
 		"price": 2,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Sephim"
 	},
 	{
@@ -11607,7 +11553,7 @@
 	{
 		"abr": "smarat",
 		"price": 12,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Smarat"
 	},
 	{
@@ -12339,7 +12285,7 @@
 	{
 		"abr": "tumblum",
 		"price": 27,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Tumblum"
 	},
 	{
@@ -12501,7 +12447,7 @@
 	{
 		"abr": "vulcanite",
 		"price": 28,
-		"category": "Raw resources",
+		"category": "Dragon's Ores",
 		"defname": "Vulcanite"
 	},
 	{
@@ -13211,12 +13157,6 @@
 		"price": -10,
 		"category": "Utility",
 		"defname": "SGC_Apparel_CommandTower"
-	},
-	{
-		"abr": "compostbarrel",
-		"price": -10,
-		"category": "Production",
-		"defname": "CompostBarrel"
 	},
 	{
 		"abr": "cryptoarmor",
@@ -14713,12 +14653,6 @@
 		"defname": "SGC_Apparel_RoboticRig"
 	},
 	{
-		"abr": "rockmill",
-		"price": -10,
-		"category": "Production",
-		"defname": "RockMill"
-	},
-	{
 		"abr": "roulettetable",
 		"price": -10,
 		"category": "Furniture",
@@ -14930,73 +14864,73 @@
 	},
 	{
 		"abr": "skilltrainer(animals)",
-		"price": -10,
+		"price": 1800,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Animals"
 	},
 	{
 		"abr": "skilltrainer(artistic)",
-		"price": -10,
+		"price": 1800,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "skilltrainer(construction)",
-		"price": -10,
+		"price": 1800,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Construction"
 	},
 	{
 		"abr": "skilltrainer(cooking)",
-		"price": -10,
+		"price": 1800,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Cooking"
 	},
 	{
 		"abr": "skilltrainer(crafting)",
-		"price": -10,
+		"price": 1800,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
 		"abr": "skilltrainer(intellectual)",
-		"price": -10,
+		"price": 1800,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Intellectual"
 	},
 	{
 		"abr": "skilltrainer(medical)",
-		"price": -10,
+		"price": 1800,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
 		"abr": "skilltrainer(melee)",
-		"price": -10,
+		"price": 1800,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Melee"
 	},
 	{
 		"abr": "skilltrainer(mining)",
-		"price": -10,
+		"price": 1800,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Mining"
 	},
 	{
 		"abr": "skilltrainer(plants)",
-		"price": -10,
+		"price": 1800,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Plants"
 	},
 	{
 		"abr": "skilltrainer(shooting)",
-		"price": -10,
+		"price": 1800,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Shooting"
 	},
 	{
 		"abr": "skilltrainer(social)",
-		"price": -10,
+		"price": 1800,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Social"
 	},
@@ -15704,13 +15638,13 @@
 	},
 	{
 		"abr": "arcanetome:golemancer",
-		"price": 5500,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "BookOfGolemancy"
 	},
 	{
 		"abr": "fleshgolem",
-		"price": 4500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "TM_FleshGolem"
 	},
@@ -15752,40 +15686,796 @@
 	},
 	{
 		"abr": "golemancerspell:awarenessbrand",
-		"price": 1333,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_BrandAwareness"
 	},
 	{
 		"abr": "golemancerspell:emotionbrand",
-		"price": 1567,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_BrandEmotion"
 	},
 	{
 		"abr": "golemancerspell:fitnessbrand",
-		"price": 1333,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_BrandFitness"
 	},
 	{
 		"abr": "golemancerspell:livingwall",
-		"price": 3667,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_LivingWall"
 	},
 	{
 		"abr": "golemancerspell:protectionbrand",
-		"price": 1567,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_BrandProtection"
 	},
 	{
 		"abr": "golemancerspell:siphonbrand",
-		"price": 1567,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_BrandSiphon"
 	},
+	{
+		"abr": "golemancerspell:vitalitybrand",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_BrandVitality"
+	},
+	{
+		"abr": "mecha-golem",
+		"price": -10,
+		"category": "Animal",
+		"defname": "TM_MechaGolem"
+	},
+	{
+		"abr": "tornscript:golemancer",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfGolemancy"
+	},
+	{
+		"abr": "windbeast",
+		"price": 1250,
+		"category": "Animals",
+		"defname": "AA_WindBeast"
+	},
+	{
+		"abr": "ancientairconditioner",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientAirConditioner"
+	},
+	{
+		"abr": "ancientatm",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientATM"
+	},
+	{
+		"abr": "ancientbarrel",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientBarrel"
+	},
+	{
+		"abr": "ancientbed",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientBed"
+	},
+	{
+		"abr": "ancientcar",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientRustedCar"
+	},
+	{
+		"abr": "ancientcarframe",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientRustedCarFrame"
+	},
+	{
+		"abr": "ancientcentipedeshell",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientCentipedeShell"
+	},
+	{
+		"abr": "ancientcontainer",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientContainer"
+	},
+	{
+		"abr": "ancientcrate",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientCrate"
+	},
+	{
+		"abr": "ancientdisplaybank",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientDisplayBank"
+	},
+	{
+		"abr": "ancientdropship",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientRustedDropship"
+	},
+	{
+		"abr": "ancientdropshipengine",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientDropshipEngine"
+	},
+	{
+		"abr": "ancientengineblock",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientRustedEngineBlock"
+	},
+	{
+		"abr": "ancientequipmentblocks",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientEquipmentBlocks"
+	},
+	{
+		"abr": "ancientfence",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientFence"
+	},
+	{
+		"abr": "ancientgenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientGenerator"
+	},
+	{
+		"abr": "ancientgiantwheel",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientGiantWheel"
+	},
+	{
+		"abr": "ancienthydrant",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientHydrant"
+	},
+	{
+		"abr": "ancientjetengine",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientJetEngine"
+	},
+	{
+		"abr": "ancientkitchensink",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientKitchenSink"
+	},
+	{
+		"abr": "ancientlargecrate",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientLargeCrate"
+	},
+	{
+		"abr": "ancientlockerbank",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientLockerBank"
+	},
+	{
+		"abr": "ancientlongcrate",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientLongCrate"
+	},
+	{
+		"abr": "ancientmachine",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientMachine"
+	},
+	{
+		"abr": "ancientmacro-engineblock",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientLargeRustedEngineBlock"
+	},
+	{
+		"abr": "ancientmechdropbeacon",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientMechDropBeacon"
+	},
+	{
+		"abr": "ancientmechanoidshell",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientMechanoidShell"
+	},
+	{
+		"abr": "ancientmega-cannonbarrel",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientMegaCannonBarrel"
+	},
+	{
+		"abr": "ancientmega-cannonplatform",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientMegaCannonTripod"
+	},
+	{
+		"abr": "ancientmicrowave",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientMicrowave"
+	},
+	{
+		"abr": "ancientmilitarycrate",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientMilitaryCrate"
+	},
+	{
+		"abr": "ancientnavbeacon",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientShipBeacon"
+	},
+	{
+		"abr": "ancientoperatingtable",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientOperatingTable"
+	},
+	{
+		"abr": "ancientoven",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientOven"
+	},
+	{
+		"abr": "ancientpipelinesection",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientPipelineSection"
+	},
+	{
+		"abr": "ancientpipes",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientPipes"
+	},
+	{
+		"abr": "ancientpodcar",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientPodCar"
+	},
+	{
+		"abr": "ancientpostbox",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientPostbox"
+	},
+	{
+		"abr": "ancientrazorwire",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientRazorWire"
+	},
+	{
+		"abr": "ancientrefrigerator",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientRefrigerator"
+	},
+	{
+		"abr": "ancientruinedapc",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientAPC"
+	},
+	{
+		"abr": "ancientruinedtank",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientTank"
+	},
+	{
+		"abr": "ancientsecurityturret",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientSecurityTurret"
+	},
+	{
+		"abr": "ancientshoppingcart",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientShoppingCart"
+	},
+	{
+		"abr": "ancientsmallcrate",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientSmallCrate"
+	},
+	{
+		"abr": "ancientspacejunk",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientSpaceJunk"
+	},
+	{
+		"abr": "ancientspacercrate",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientSpacerCrate"
+	},
+	{
+		"abr": "ancientstoragecylinder",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientStorageCylinder"
+	},
+	{
+		"abr": "ancientstove",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientStove"
+	},
+	{
+		"abr": "ancientsystemrack",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientSystemRack"
+	},
+	{
+		"abr": "ancienttanktrap",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientTankTrap"
+	},
+	{
+		"abr": "ancienttoilet",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientToilet"
+	},
+	{
+		"abr": "ancienttroopcarrier",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientRustedJeep"
+	},
+	{
+		"abr": "ancienttruck",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientRustedTruck"
+	},
+	{
+		"abr": "ancientvendingmachine",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientVendingMachine"
+	},
+	{
+		"abr": "ancientwarspiderremains",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientWarspiderRemains"
+	},
+	{
+		"abr": "ancientwarsprinterremains",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientMiniWarwalkerRemains"
+	},
+	{
+		"abr": "ancientwarwalkerclaw",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientWarwalkerClaw"
+	},
+	{
+		"abr": "ancientwarwalkerfoot",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientWarwalkerFoot"
+	},
+	{
+		"abr": "ancientwarwalkerleg",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientWarwalkerLeg"
+	},
+	{
+		"abr": "ancientwarwalkershell",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientWarwalkerShell"
+	},
+	{
+		"abr": "ancientwarwalkertorso",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_AncientWarwalkerTorso"
+	},
+	{
+		"abr": "ancientwashingmachine",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientWashingMachine"
+	},
+	{
+		"abr": "ancientwheel",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientWheel"
+	},
+	{
+		"abr": "animaldatabase",
+		"price": -10,
+		"category": "Misc",
+		"defname": "AM_AnimalDatabase"
+	},
+	{
+		"abr": "arapaima(adeptcatch)",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VCEF_ArapaimaItem"
+	},
+	{
+		"abr": "blunttrap",
+		"price": 112,
+		"category": "Security",
+		"defname": "AM_TrapBlunt"
+	},
+	{
+		"abr": "bonfire",
+		"price": 567,
+		"category": "Misc",
+		"defname": "VME_Bonfire"
+	},
+	{
+		"abr": "bookshelf",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "VanillaBooksExpandedExpanded_Bookshelf"
+	},
+	{
+		"abr": "butterfish(adeptcatch)",
+		"price": 1,
+		"category": "Raw fish",
+		"defname": "VCEF_ButterFishItem"
+	},
+	{
+		"abr": "crayfish(adeptcatch)",
+		"price": 1,
+		"category": "Raw fish",
+		"defname": "VCEF_CrayfishItem"
+	},
+	{
+		"abr": "eldritchslab(broad)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "VME_EldritchSlab_Broad"
+	},
+	{
+		"abr": "eldritchslab(medium)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "VME_EldritchSlab_Medium"
+	},
+	{
+		"abr": "esotericismslab(broad)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "VME_EsotericismSlab_Broad"
+	},
+	{
+		"abr": "esotericismslab(medium)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "VME_EsotericismSlab_Medium"
+	},
+	{
+		"abr": "fleshcraftedarm",
+		"price": -10,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedArm"
+	},
+	{
+		"abr": "fleshcraftedear",
+		"price": -10,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedEar"
+	},
+	{
+		"abr": "fleshcraftedeye",
+		"price": -10,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedEye"
+	},
+	{
+		"abr": "fleshcraftedfinger",
+		"price": -10,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedFinger"
+	},
+	{
+		"abr": "fleshcraftedhand",
+		"price": -10,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedHand"
+	},
+	{
+		"abr": "fleshcraftedheart",
+		"price": -10,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedHeart"
+	},
+	{
+		"abr": "fleshcraftedjaw",
+		"price": -10,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedJaw"
+	},
+	{
+		"abr": "fleshcraftedkidney",
+		"price": -10,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedKidney"
+	},
+	{
+		"abr": "fleshcraftedleg",
+		"price": -10,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedLeg"
+	},
+	{
+		"abr": "fleshcraftedliver",
+		"price": -10,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedLiver"
+	},
+	{
+		"abr": "fleshcraftedlung",
+		"price": -10,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedLung"
+	},
+	{
+		"abr": "fleshcraftednose",
+		"price": -10,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedNose"
+	},
+	{
+		"abr": "fleshcraftedspine",
+		"price": -10,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedSpine"
+	},
+	{
+		"abr": "fleshcraftedstomach",
+		"price": -10,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedStomach"
+	},
+	{
+		"abr": "fleshcraftedtoe",
+		"price": -10,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedToe"
+	},
+	{
+		"abr": "fleshcraftedtongue",
+		"price": -10,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedTongue"
+	},
+	{
+		"abr": "flyingfish(adeptcatch)",
+		"price": 4,
+		"category": "Raw fish",
+		"defname": "VCEF_FlyingFishItem"
+	},
+	{
+		"abr": "freshwaterstingray(adeptcatch)",
+		"price": 4,
+		"category": "Raw fish",
+		"defname": "VCEF_FreshwaterStingrayItem"
+	},
+	{
+		"abr": "ideoligionbook",
+		"price": 2258,
+		"category": "Books",
+		"defname": "VanillaBooksExpandedExpanded_IdeoligionBook"
+	},
+	{
+		"abr": "jewishslab(broad)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AM_JewishSlab_Broad"
+	},
+	{
+		"abr": "jewishslab(medium)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AM_JewishSlab_Medium"
+	},
+	{
+		"abr": "kemeticslab(broad)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AM_KemeticSlab_Broad"
+	},
+	{
+		"abr": "kemeticslab(medium)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AM_KemeticSlab_Medium"
+	},
+	{
+		"abr": "largefishingtrap",
+		"price": -10,
+		"category": "Production",
+		"defname": "VME_LargeFishingTrap"
+	},
+	{
+		"abr": "mechanoideffigy",
+		"price": -10,
+		"category": "Security",
+		"defname": "VME_MechanoidEffigy"
+	},
+	{
+		"abr": "bricks",
+		"price": 3,
+		"category": "Stone blocks",
+		"defname": "RFFBricks"
+	},
+	{
+		"abr": "bucket(ash/scraps)",
+		"price": 19,
+		"category": "Apothecary products",
+		"defname": "AYAshScraps_Bucket"
+	},
+	{
+		"abr": "clay",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "RFFClay"
+	},
+	{
+		"abr": "compostbarrel",
+		"price": -10,
+		"category": "Production",
+		"defname": "CompostBarrel"
+	},
+	{
+		"abr": "crushedrocks",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "CrushedRocks"
+	},
+	{
+		"abr": "fertilizer",
+		"price": 10,
+		"category": "Raw resources",
+		"defname": "Fertilizer"
+	},
+	{
+		"abr": "heavysandbags",
+		"price": -10,
+		"category": "Security",
+		"defname": "HeavySandbags"
+	},
+	{
+		"abr": "mediumfishingtrap",
+		"price": -10,
+		"category": "Production",
+		"defname": "VME_MediumFishingTrap"
+	},
+	{
+		"abr": "ominousobelisk",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VME_Obelisk"
+	},
+	{
+		"abr": "pileofdirt",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "PileofDirt"
+	},
+	{
+		"abr": "pileofsand",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "SandPile"
+	},
+	{
+		"abr": "printingpress",
+		"price": 717,
+		"category": "Production",
+		"defname": "VanillaBooksExpandedExpanded_PrintingPressManual"
+	},
+	{
+		"abr": "pristinelimestoneblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "AM_BlocksPristineLimestone"
+	},
+	{
+		"abr": "pyramid",
+		"price": -10,
+		"category": "Art",
+		"defname": "AM_Pyramid"
+	},
+	{
+		"abr": "rawcompost",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "RawCompost"
+	},
+	{
+		"abr": "rockmill",
+		"price": -10,
+		"category": "Production",
+		"defname": "RockMill"
+	},
+	{
+		"abr": "shintaoslab(broad)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "VME_TaoistSlab_Broad"
+	},
+	{
+		"abr": "shintaoslab(medium)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "VME_TaoistSlab_Medium"
+	},
+	{
+		"abr": "shortfinmakoshark(adeptcatch)",
+		"price": 7,
+		"category": "Raw fish",
+		"defname": "VCEF_ShortfinMakoSharkItem"
+	},
+	{
+		"abr": "smallfishingtrap",
+		"price": 98,
+		"category": "Production",
+		"defname": "VME_SmallFishingTrap"
+	},
+	{
+		"abr": "tacklebox",
+		"price": 18,
+		"category": "Utility",
+		"defname": "VME_TackleBox"
+	},
+	{
+		"abr": "wickerman",
+		"price": 125,
+		"category": "Misc",
+		"defname": "VME_WickerMan"
+	}
 	],
-	"total": 2635
+	"total": 2746
 }
