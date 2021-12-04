@@ -357,7 +357,7 @@
     "author": "Mlie",
     "name": "Ding On Game Loaded",
     "steamId": "2425530959",
-    "version": "1.0.3.0"
+    "version": "1.0.4.0"
   },
   {
     "author": "RedstoneRevolution",
@@ -1161,7 +1161,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.2.3"
+    "version": "2.6.3.1"
   },
   {
     "author": "Kure",
@@ -1734,6 +1734,12 @@
     "version": null
   },
   {
+    "author": "Ben Lubar",
+    "name": "Fixed Ideo Style",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Kuratheris",
     "name": "[K]Extra Stone",
     "steamId": "852103845",
@@ -2061,7 +2067,7 @@
     "author": "Mlie",
     "name": "Show Me Your Hands",
     "steamId": "2475965842",
-    "version": "1.0.46.0"
+    "version": "1.0.47.0"
   },
   {
     "author": "Owlchemist",
@@ -2163,7 +2169,7 @@
     "author": "SirRandoo",
     "name": "ToolkitResearch",
     "steamId": "2312827542",
-    "version": "1.0.3.0"
+    "version": "1.0.3.2"
   },
   {
     "author": "mr_chimick",
