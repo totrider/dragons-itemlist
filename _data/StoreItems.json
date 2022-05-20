@@ -7243,12 +7243,6 @@
       "price": 12008
     },
     {
-      "abr": "advancetargetinghelmetprophet",
-      "category": "Armored",
-      "defname": "ALE_AdvHelmet",
-      "price": 2800
-    },
-    {
       "abr": "advancedaichip",
       "category": "Manufactured",
       "defname": "PRF_ElectronicChip_II",
@@ -7427,24 +7421,6 @@
       "category": "Animals",
       "defname": "MM_Ahuizotl",
       "price": 583
-    },
-    {
-      "abr": "alaniangrenadelauncherwallbreaker",
-      "category": "Ranged",
-      "defname": "ALE_GL",
-      "price": 3683
-    },
-    {
-      "abr": "alanianmilitarycap",
-      "category": "Armored",
-      "defname": "ALE_uniformhat",
-      "price": 417
-    },
-    {
-      "abr": "alanianmilitaryuniform",
-      "category": "Armored",
-      "defname": "ALE_uniform",
-      "price": 1325
     },
     {
       "abr": "allosaurus",
@@ -7753,12 +7729,6 @@
       "price": 1417
     },
     {
-      "abr": "apiary",
-      "category": "Misc",
-      "defname": "VFEV_Apiary",
-      "price": 318
-    },
-    {
       "abr": "apron",
       "category": "Middle",
       "defname": "VAE_Apparel_Apron",
@@ -7793,12 +7763,6 @@
       "category": "Ranged",
       "defname": "Flame_Arbalest",
       "price": 358
-    },
-    {
-      "abr": "archerytarget",
-      "category": "Recreation",
-      "defname": "VFEM_ArcheryTarget",
-      "price": 27
     },
     {
       "abr": "archonexuschargingpillari",
@@ -8239,12 +8203,6 @@
       "price": 1700
     },
     {
-      "abr": "assaultsledgeskullbreaker",
-      "category": "Melee",
-      "defname": "ALE_sledge",
-      "price": 4642
-    },
-    {
       "abr": "assembler",
       "category": "Automation",
       "defname": "PRF_TypeOneAssembler_I",
@@ -8569,22 +8527,10 @@
       "price": 167
     },
     {
-      "abr": "bearheaddress",
-      "category": "Headgear",
-      "defname": "VFEV_BearHeaddress",
-      "price": 203
-    },
-    {
       "abr": "beartrap",
       "category": "Security",
       "defname": "VFES_BearTrap",
       "price": 236
-    },
-    {
-      "abr": "beardedaxe",
-      "category": "Melee",
-      "defname": "VFE_MeleeWeapon_BeardedAxe",
-      "price": 228
     },
     {
       "abr": "bedbug",
@@ -8977,12 +8923,6 @@
       "price": 58
     },
     {
-      "abr": "blueberries",
-      "category": "Raw fruits",
-      "defname": "VCE_RawBlueberries",
-      "price": 2
-    },
-    {
       "abr": "bluefuzz",
       "category": "Leathers",
       "defname": "Leather_Bluefuzz",
@@ -9181,12 +9121,6 @@
       "price": 750
     },
     {
-      "abr": "burstblade",
-      "category": "Melee",
-      "defname": "HMW_MeleeWeapon_ZeusSword",
-      "price": 5000
-    },
-    {
       "abr": "burstcharger",
       "category": "Ranged",
       "defname": "Gun_BurstCharger",
@@ -9221,12 +9155,6 @@
       "category": "Raw resources",
       "defname": "BonePlastic",
       "price": 2
-    },
-    {
-      "abr": "candle",
-      "category": "Furniture",
-      "defname": "VFEM_Candle",
-      "price": 1
     },
     {
       "abr": "cannery",
@@ -9739,12 +9667,6 @@
       "price": 5
     },
     {
-      "abr": "claymore",
-      "category": "Melee",
-      "defname": "VFEM_MeleeWeapon_Claymore",
-      "price": 442
-    },
-    {
       "abr": "cleaver",
       "category": "Melee",
       "defname": "MeleeWeapon_FeralCleaver",
@@ -9815,12 +9737,6 @@
       "category": "Tropical Fish",
       "defname": "AQFishInBagFourteen",
       "price": 67
-    },
-    {
-      "abr": "clusterbomblaunchermjolnir",
-      "category": "Ranged",
-      "defname": "ALE_APGM",
-      "price": 2275
     },
     {
       "abr": "coagulator",
@@ -9899,12 +9815,6 @@
       "category": "Infusers",
       "defname": "Infusion_Infuser_Common",
       "price": 333
-    },
-    {
-      "abr": "compactknifesabrecat",
-      "category": "Melee",
-      "defname": "ALE_knife",
-      "price": 917
     },
     {
       "abr": "componentassembler",
@@ -10093,12 +10003,6 @@
       "price": 36
     },
     {
-      "abr": "cowwool",
-      "category": "Wools",
-      "defname": "VFEV_WoolCow",
-      "price": 4
-    },
-    {
       "abr": "crabmeat",
       "category": "Meat",
       "defname": "Meat_AA_BoulderMit",
@@ -10213,84 +10117,6 @@
       "price": 20
     },
     {
-      "abr": "cryptoarmor",
-      "category": "Armored",
-      "defname": "VFEV_CryptoArmor",
-      "price": 3333
-    },
-    {
-      "abr": "cryptocrossbow",
-      "category": "Ranged",
-      "defname": "VFEV_CryptoLightCrossbow",
-      "price": 1433
-    },
-    {
-      "abr": "cryptohammer",
-      "category": "Melee",
-      "defname": "KIT_CryptoHammer",
-      "price": 2417
-    },
-    {
-      "abr": "cryptohatchet",
-      "category": "Melee",
-      "defname": "VFEV_CryptoLightAxe",
-      "price": 2133
-    },
-    {
-      "abr": "cryptoheavyarmor",
-      "category": "Armored",
-      "defname": "VFEV_CryptoHeavyArmor",
-      "price": 4000
-    },
-    {
-      "abr": "cryptoheavycrossbow",
-      "category": "Ranged",
-      "defname": "VFEV_CryptoHeavyCrossbow",
-      "price": 2367
-    },
-    {
-      "abr": "cryptohelmet",
-      "category": "Armored",
-      "defname": "VFEV_Apparel_CryptoLightHelmet",
-      "price": 2467
-    },
-    {
-      "abr": "cryptoknife",
-      "category": "Melee",
-      "defname": "KIT_CryptoKnife",
-      "price": 1867
-    },
-    {
-      "abr": "cryptopistol",
-      "category": "Ranged",
-      "defname": "VFEV_CryptoPistol",
-      "price": 1450
-    },
-    {
-      "abr": "cryptorifle",
-      "category": "Ranged",
-      "defname": "VFEV_CryptoRifle",
-      "price": 2100
-    },
-    {
-      "abr": "cryptoshield",
-      "category": "Armored",
-      "defname": "VFEV_Shield_Crypto",
-      "price": 2167
-    },
-    {
-      "abr": "cryptospear",
-      "category": "Melee",
-      "defname": "KIT_CryptoSpear",
-      "price": 2067
-    },
-    {
-      "abr": "cryptosword",
-      "category": "Melee",
-      "defname": "KIT_CryptoSword",
-      "price": 2417
-    },
-    {
       "abr": "crystallinecaracal",
       "category": "Animals",
       "defname": "AA_CrystallineCaracal",
@@ -10381,30 +10207,6 @@
       "price": 23
     },
     {
-      "abr": "damedress",
-      "category": "Outer",
-      "defname": "VFEM_Apparel_DameDress",
-      "price": 259
-    },
-    {
-      "abr": "damehat",
-      "category": "Headgear",
-      "defname": "VFEM_Apparel_DameHat",
-      "price": 127
-    },
-    {
-      "abr": "daneaxe",
-      "category": "Melee",
-      "defname": "VFE_MeleeWeapon_DaneAxe",
-      "price": 450
-    },
-    {
-      "abr": "darkcandle",
-      "category": "Furniture",
-      "defname": "VFEM_DarkCandle",
-      "price": 1
-    },
-    {
       "abr": "darkilluminateddresser",
       "category": "Furniture",
       "defname": "Table_DarkIlluminatedDresser",
@@ -10469,12 +10271,6 @@
       "category": "Animals",
       "defname": "AA_DecayDrake",
       "price": 583
-    },
-    {
-      "abr": "decoratedvibrobladeglory",
-      "category": "Melee",
-      "defname": "ALE_sabre",
-      "price": 4433
     },
     {
       "abr": "decorativeplantpot",
@@ -10739,12 +10535,6 @@
       "category": "Meat",
       "defname": "Meat_AEXP_Beagle",
       "price": 3
-    },
-    {
-      "abr": "doublefurbed",
-      "category": "Furniture",
-      "defname": "VFEV_DoubleFurBed",
-      "price": 319
     },
     {
       "abr": "double-agedwhiskey",
@@ -11269,12 +11059,6 @@
       "price": 433
     },
     {
-      "abr": "facepaintingtable",
-      "category": "Misc",
-      "defname": "VFE_TableFacePaints",
-      "price": 119
-    },
-    {
       "abr": "factoryhopper",
       "category": "Production",
       "defname": "VFEM_HeavyHopper",
@@ -11321,24 +11105,6 @@
       "category": "Eggs (fert.)",
       "defname": "MM_EggFenghuangFertilized",
       "price": 15
-    },
-    {
-      "abr": "fenrir",
-      "category": "Animals",
-      "defname": "VFEV_Fenrir",
-      "price": 10000
-    },
-    {
-      "abr": "fenrirmeat",
-      "category": "Meat",
-      "defname": "Meat_VFEV_Fenrir",
-      "price": 3
-    },
-    {
-      "abr": "fenrirskin",
-      "category": "Leathers",
-      "defname": "VFEV_Leather_Fenrir",
-      "price": 27
     },
     {
       "abr": "feralanti-materialrifle",
@@ -11827,12 +11593,6 @@
       "price": 250
     },
     {
-      "abr": "furbed",
-      "category": "Furniture",
-      "defname": "VFEV_FurBed",
-      "price": 154
-    },
-    {
       "abr": "futomaki(lavish)",
       "category": "Meals",
       "defname": "VCE_Futomaki",
@@ -11975,60 +11735,6 @@
       "category": "Bionic",
       "defname": "GastroAnalyzer",
       "price": 1483
-    },
-    {
-      "abr": "gaussassaultriflemare",
-      "category": "Ranged",
-      "defname": "ALE_AR",
-      "price": 2775
-    },
-    {
-      "abr": "gaussdmrpitviper",
-      "category": "Ranged",
-      "defname": "ALE_DMR",
-      "price": 3158
-    },
-    {
-      "abr": "gausshmghercules",
-      "category": "Ranged",
-      "defname": "ALE_HMG",
-      "price": 5725
-    },
-    {
-      "abr": "gausslmgstallion",
-      "category": "Ranged",
-      "defname": "ALE_LMG",
-      "price": 3908
-    },
-    {
-      "abr": "gaussminigunthunderstorm",
-      "category": "Ranged",
-      "defname": "ALE_minigun",
-      "price": 8017
-    },
-    {
-      "abr": "gausspistolporcupine",
-      "category": "Ranged",
-      "defname": "ALE_pistol",
-      "price": 925
-    },
-    {
-      "abr": "gaussshotgunbuffalo",
-      "category": "Ranged",
-      "defname": "ALE_shotgun",
-      "price": 1183
-    },
-    {
-      "abr": "gausssmgwolverine",
-      "category": "Ranged",
-      "defname": "ALE_SMG",
-      "price": 1558
-    },
-    {
-      "abr": "gausswarbowartemis",
-      "category": "Ranged",
-      "defname": "ALE_warbow",
-      "price": 9017
     },
     {
       "abr": "gdbuckshotlauncher",
@@ -12367,18 +12073,6 @@
       "price": 1125
     },
     {
-      "abr": "grapemust",
-      "category": "Manufactured",
-      "defname": "VFEM_Must",
-      "price": 4
-    },
-    {
-      "abr": "grapes",
-      "category": "Vegetarian",
-      "defname": "VFEM_RawGrapes",
-      "price": 2
-    },
-    {
       "abr": "greatdane",
       "category": "Animals",
       "defname": "AEXP_GreatDane",
@@ -12523,24 +12217,6 @@
       "price": 992
     },
     {
-      "abr": "guardianarmor",
-      "category": "Armored",
-      "defname": "VFEV_Apparel_GuardianArmor",
-      "price": 958
-    },
-    {
-      "abr": "guardianhelmet",
-      "category": "Armored",
-      "defname": "VFEV_Apparel_GuardianHelmet",
-      "price": 305
-    },
-    {
-      "abr": "guardianshield",
-      "category": "Armored",
-      "defname": "HMW__GuardianShield",
-      "price": 1750
-    },
-    {
       "abr": "guncomplex",
       "category": "Security",
       "defname": "GunComplex",
@@ -12609,12 +12285,6 @@
     {
       "abr": "harpoon",
       "category": "Ranged",
-      "defname": "VFE_Harpoon",
-      "price": 392
-    },
-    {
-      "abr": "harpoon",
-      "category": "Ranged",
       "defname": "MMr_harpoon",
       "price": 169
     },
@@ -12667,34 +12337,10 @@
       "price": 2908
     },
     {
-      "abr": "heatershield",
-      "category": "Armored",
-      "defname": "VFEM_Shield_Heater",
-      "price": 315
-    },
-    {
       "abr": "heavyclub",
       "category": "Melee",
       "defname": "VWE_MeleeWeapon_HeavyClub",
       "price": 244
-    },
-    {
-      "abr": "heavycrossbow",
-      "category": "Ranged",
-      "defname": "VFEM_Bow_HeavyCrossbow",
-      "price": 310
-    },
-    {
-      "abr": "heavycryptoaxe",
-      "category": "Melee",
-      "defname": "VFEV_CryptoHeavyAxe",
-      "price": 2417
-    },
-    {
-      "abr": "heavycryptohelmet",
-      "category": "Armored",
-      "defname": "VFEV_Apparel_CryptoHeavyHelmet",
-      "price": 3133
     },
     {
       "abr": "heavyflail",
@@ -12717,12 +12363,6 @@
     {
       "abr": "heavymace",
       "category": "Melee",
-      "defname": "VFEM_MeleeWeapon_HeavyMace",
-      "price": 289
-    },
-    {
-      "abr": "heavymace",
-      "category": "Melee",
       "defname": "MM_heavymace",
       "price": 633
     },
@@ -12739,28 +12379,10 @@
       "price": 717
     },
     {
-      "abr": "heavymonosword",
-      "category": "Melee",
-      "defname": "HMW_MeleeWeapon_HeavyMonoSword",
-      "price": 5000
-    },
-    {
       "abr": "heavypistol",
       "category": "Ranged",
       "defname": "Gun_PistolHeavyRevolver",
       "price": 375
-    },
-    {
-      "abr": "heavyplatearmor",
-      "category": "Armored",
-      "defname": "VFEM_Apparel_PlateArmorHeavy",
-      "price": 1158
-    },
-    {
-      "abr": "heavyplatehelmet",
-      "category": "Armored",
-      "defname": "VFEM_Apparel_PlateHelmetHeavy",
-      "price": 305
     },
     {
       "abr": "heavyturretammunition",
@@ -12823,22 +12445,10 @@
       "price": 70
     },
     {
-      "abr": "high-explosivegrenadeboomrat",
-      "category": "Grenades",
-      "defname": "ALE_Grenade",
-      "price": 833
-    },
-    {
       "abr": "hmgtbullet",
       "category": "Manufactured",
       "defname": "HMGT_Ammo",
       "price": 9
-    },
-    {
-      "abr": "hnefatafltable",
-      "category": "Furniture",
-      "defname": "VFEV_Hnefatafl",
-      "price": 281
     },
     {
       "abr": "hologrambase",
@@ -12997,12 +12607,6 @@
       "price": 1817
     },
     {
-      "abr": "industrialapiary",
-      "category": "Production",
-      "defname": "VFE_IndustrialApiary",
-      "price": 2192
-    },
-    {
       "abr": "industrialautomaticmason",
       "category": "Automation",
       "defname": "PRF_StoneWorks",
@@ -13061,12 +12665,6 @@
       "category": "Turret ammunition",
       "defname": "VMEu_IndustrialAmmo",
       "price": 3
-    },
-    {
-      "abr": "infantryarmorranger",
-      "category": "Armored",
-      "defname": "ALE_infantryarmor",
-      "price": 4558
     },
     {
       "abr": "infectedaerofleet",
@@ -13273,18 +12871,6 @@
       "price": 108
     },
     {
-      "abr": "jarlcape",
-      "category": "Royalty",
-      "defname": "VFEV_Apparel_JarlCape",
-      "price": 583
-    },
-    {
-      "abr": "jarlcrown",
-      "category": "Headgear",
-      "defname": "VFEV_JarlCrown",
-      "price": 2342
-    },
-    {
       "abr": "javelin",
       "category": "Ranged",
       "defname": "MMr_javelin",
@@ -13301,18 +12887,6 @@
       "category": "Insect",
       "defname": "VFEI_JellySac",
       "price": 2000
-    },
-    {
-      "abr": "jesterhat",
-      "category": "Headgear",
-      "defname": "VFEM_Apparel_JesterHat",
-      "price": 111
-    },
-    {
-      "abr": "jesteroutfit",
-      "category": "Skin",
-      "defname": "VFEM_Apparel_JesterOutfit",
-      "price": 179
     },
     {
       "abr": "jiamr",
@@ -13441,18 +13015,6 @@
       "price": 2067
     },
     {
-      "abr": "king’srobes",
-      "category": "Armored",
-      "defname": "VFEM_Apparel_KingsRobes",
-      "price": 297
-    },
-    {
-      "abr": "king'scrown",
-      "category": "Headgear",
-      "defname": "VFEM_Apparel_KingsCrown",
-      "price": 260
-    },
-    {
       "abr": "kitchensink",
       "category": "Hygiene",
       "defname": "KitchenSink",
@@ -13463,12 +13025,6 @@
       "category": "Misc",
       "defname": "VFE_KitchenSinkCabinet",
       "price": 327
-    },
-    {
-      "abr": "kiteshield",
-      "category": "Armored",
-      "defname": "VFEM_Shield_Kite",
-      "price": 195
     },
     {
       "abr": "kitsune",
@@ -13651,18 +13207,6 @@
       "price": 1817
     },
     {
-      "abr": "leatherarmor",
-      "category": "Armored",
-      "defname": "VFEV_LeatherArmor",
-      "price": 483
-    },
-    {
-      "abr": "leatherhelmet",
-      "category": "Armored",
-      "defname": "VFEV_Apparel_LeatherHelmet",
-      "price": 153
-    },
-    {
       "abr": "legendaryinfuser",
       "category": "Infusers",
       "defname": "Infusion_Infuser_Legendary",
@@ -13739,12 +13283,6 @@
       "category": "Armored",
       "defname": "VAE_Apparel_LightPlateArmor",
       "price": 542
-    },
-    {
-      "abr": "lightplatehelmet",
-      "category": "Headgear",
-      "defname": "VFEM_Apparel_PlateHelmetLight",
-      "price": 153
     },
     {
       "abr": "lightningrod",
@@ -13841,30 +13379,6 @@
       "category": "Tropical Fish",
       "defname": "AQFishInBagThirtytwo",
       "price": 92
-    },
-    {
-      "abr": "lothurr",
-      "category": "Animals",
-      "defname": "VFEV_Lothurr",
-      "price": 5833
-    },
-    {
-      "abr": "lothurrantler",
-      "category": "Items",
-      "defname": "VFEV_LothurrAntler",
-      "price": 2000
-    },
-    {
-      "abr": "lothurrleather",
-      "category": "Leathers",
-      "defname": "VFEV_Leather_Lothurr",
-      "price": 22
-    },
-    {
-      "abr": "lothurrmeat",
-      "category": "Meat",
-      "defname": "Meat_VFEV_Lothurr",
-      "price": 3
     },
     {
       "abr": "lotusseeds",
@@ -14165,18 +13679,6 @@
       "category": "Animals",
       "defname": "AA_MatureFleshbeast",
       "price": 917
-    },
-    {
-      "abr": "mead",
-      "category": "Drugs",
-      "defname": "VFEV_Mead",
-      "price": 25
-    },
-    {
-      "abr": "meadfermentingbarrel",
-      "category": "Production",
-      "defname": "VFEV_MeadFermentingBarrel",
-      "price": 64
     },
     {
       "abr": "meadowave",
@@ -14617,12 +14119,6 @@
       "price": 1025
     },
     {
-      "abr": "mjollnirstriketargeter",
-      "category": "Utility",
-      "defname": "VFEV_OrbitalTargeterMjollnir",
-      "price": 2000
-    },
-    {
       "abr": "mobileturretchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_TurretBase",
@@ -14765,12 +14261,6 @@
       "category": "Tropical Fish",
       "defname": "AQFishInBagThirtyfive",
       "price": 42
-    },
-    {
-      "abr": "mooseheaddress",
-      "category": "Headgear",
-      "defname": "VFEV_MooseHeaddress",
-      "price": 203
     },
     {
       "abr": "morganite",
@@ -14981,30 +14471,6 @@
       "category": "Meals",
       "defname": "VCE_Nigiri",
       "price": 33
-    },
-    {
-      "abr": "njorun",
-      "category": "Animals",
-      "defname": "VFEV_Njorun",
-      "price": 11667
-    },
-    {
-      "abr": "njorunmeat",
-      "category": "Meat",
-      "defname": "Meat_VFEV_Njorun",
-      "price": 3
-    },
-    {
-      "abr": "njorunfur",
-      "category": "Leathers",
-      "defname": "VFEV_Leather_Njorun",
-      "price": 17
-    },
-    {
-      "abr": "noblefurcoat",
-      "category": "Royalty",
-      "defname": "VFEV_Apparel_RoyalFurCoat",
-      "price": 433
     },
     {
       "abr": "nomadhelmet",
@@ -15421,40 +14887,16 @@
       "price": 333
     },
     {
-      "abr": "personaburstblade",
-      "category": "Persona",
-      "defname": "HMW_MeleeWeapon_PersonaZeusSword",
-      "price": 10000
-    },
-    {
-      "abr": "personaheavymonosword",
-      "category": "Persona",
-      "defname": "HMW_MeleeWeapon_PersonaHeavyMonoSword",
-      "price": 10000
-    },
-    {
       "abr": "personamonosword",
       "category": "Persona",
       "defname": "MeleeWeapon_MonoSwordBladelink",
       "price": 5000
     },
     {
-      "abr": "personaplasmalance",
-      "category": "Persona",
-      "defname": "HMW_MeleeWeapon_PersonaFlameLance",
-      "price": 10000
-    },
-    {
       "abr": "personaplasmasword",
       "category": "Persona",
       "defname": "MeleeWeapon_PlasmaSwordBladelink",
       "price": 5000
-    },
-    {
-      "abr": "personarelicmaul",
-      "category": "Persona",
-      "defname": "HMW_MeleeWeapon_PersonaPsychicWarhammer",
-      "price": 10000
     },
     {
       "abr": "personazeushammer",
@@ -15559,12 +15001,6 @@
       "price": 129
     },
     {
-      "abr": "plaguemask",
-      "category": "Headgear",
-      "defname": "VFEM_Apparel_PlagueMask",
-      "price": 147
-    },
-    {
       "abr": "plantmeat",
       "category": "Vegetarian",
       "defname": "AA_CactusMeat",
@@ -15589,40 +15025,16 @@
       "price": 1500
     },
     {
-      "abr": "plasmapistol",
-      "category": "Ranged",
-      "defname": "KIT_Gun_PlasmaPistol",
-      "price": 3833
-    },
-    {
       "abr": "plasmarifle",
       "category": "Ranged",
       "defname": "AD_Sentinel",
       "price": 5150
     },
     {
-      "abr": "plasmarifle",
-      "category": "Ranged",
-      "defname": "KIT_Gun_PlasmaRifle",
-      "price": 4167
-    },
-    {
       "abr": "plasmascattergun",
       "category": "Ranged",
       "defname": "VFE_Gun_PlasmaScattergun",
       "price": 3833
-    },
-    {
-      "abr": "plasmasmg",
-      "category": "Ranged",
-      "defname": "KIT_Gun_PlasmaSMG",
-      "price": 3833
-    },
-    {
-      "abr": "plasmasniper",
-      "category": "Ranged",
-      "defname": "KIT_Gun_PlasmaSniper",
-      "price": 4167
     },
     {
       "abr": "plasmabeamrifle",
@@ -15635,12 +15047,6 @@
       "category": "Ranged",
       "defname": "VFE_Gun_Plasmacutter",
       "price": 3333
-    },
-    {
-      "abr": "plasmalance",
-      "category": "Melee",
-      "defname": "HMW_MeleeWeapon_FlameLance",
-      "price": 5000
     },
     {
       "abr": "plasmapiercer",
@@ -15841,12 +15247,6 @@
       "price": 170
     },
     {
-      "abr": "poweredassaultarmorjuggernaut",
-      "category": "Armored",
-      "defname": "ALE_powerarmor",
-      "price": 7567
-    },
-    {
       "abr": "prasiolite",
       "category": "Gems",
       "defname": "KPrasiolite",
@@ -16025,12 +15425,6 @@
       "category": "Artifacts",
       "defname": "PsychicChaosPulser",
       "price": 1333
-    },
-    {
-      "abr": "psychiccornucopia",
-      "category": "Artifacts",
-      "defname": "VFEV_PlantGrowerArtifact",
-      "price": 1167
     },
     {
       "abr": "psychicfearlance",
@@ -16399,12 +15793,6 @@
       "price": 1333
     },
     {
-      "abr": "quad-barrelrecoillessriflecataclysm",
-      "category": "Ranged",
-      "defname": "ALE_RCL",
-      "price": 7575
-    },
-    {
       "abr": "quantumassembler(overclocked)",
       "category": "Automation",
       "defname": "PRF_TypeTwoAssembler_III",
@@ -16535,24 +15923,6 @@
       "category": "Animals",
       "defname": "AA_Ravager",
       "price": 250
-    },
-    {
-      "abr": "ravagerarmor",
-      "category": "Armored",
-      "defname": "VFEV_Apparel_RavagerArmor",
-      "price": 825
-    },
-    {
-      "abr": "ravagerhelmet",
-      "category": "Armored",
-      "defname": "VFEV_Apparel_RavagerHelmet",
-      "price": 153
-    },
-    {
-      "abr": "rawhoney",
-      "category": "Animal products",
-      "defname": "VFEV_Honey",
-      "price": 7
     },
     {
       "abr": "rawredslime",
@@ -16699,12 +16069,6 @@
       "price": 342
     },
     {
-      "abr": "relicmaul",
-      "category": "Melee",
-      "defname": "HMW_MeleeWeapon_PsychicWarhammer",
-      "price": 5000
-    },
-    {
       "abr": "relief",
       "category": "Art",
       "defname": "VFE_Relief",
@@ -16831,12 +16195,6 @@
       "price": 1192
     },
     {
-      "abr": "rockethammer",
-      "category": "Melee",
-      "defname": "HMW_MeleeWeapon_RocketHammer",
-      "price": 4167
-    },
-    {
       "abr": "rosequartz",
       "category": "Gems",
       "defname": "KRoseQuartz",
@@ -16865,12 +16223,6 @@
       "category": "Eggs (fert.)",
       "defname": "AA_EggRoughPlatedMonitorFertilized",
       "price": 17
-    },
-    {
-      "abr": "roundshield",
-      "category": "Armored",
-      "defname": "VFEV_Shield_Round",
-      "price": 216
     },
     {
       "abr": "royalave",
@@ -16945,12 +16297,6 @@
       "price": 50
     },
     {
-      "abr": "runestone",
-      "category": "Furniture",
-      "defname": "VFEV_RuneStone",
-      "price": 625
-    },
-    {
       "abr": "s.a.lartmachinemk.i",
       "category": "Automation",
       "defname": "PRF_TheArtMachine",
@@ -17003,12 +16349,6 @@
       "category": "Melee",
       "defname": "MM_sagaris",
       "price": 950
-    },
-    {
-      "abr": "sagittariusmight",
-      "category": "Melee",
-      "defname": "HMW_MeleeWeapon_SagittariusMight",
-      "price": 11667
     },
     {
       "abr": "salamander",
@@ -17123,12 +16463,6 @@
       "category": "Security",
       "defname": "VFES_Turret_Searchlight",
       "price": 608
-    },
-    {
-      "abr": "seax",
-      "category": "Melee",
-      "defname": "VFE_MeleeWeapon_Seax",
-      "price": 239
     },
     {
       "abr": "securityhelmet",
@@ -17713,18 +17047,6 @@
       "price": 358
     },
     {
-      "abr": "smokedfish",
-      "category": "Raw fish",
-      "defname": "VFEM_SmokedFish",
-      "price": -10
-    },
-    {
-      "abr": "smokedmeat",
-      "category": "Meat",
-      "defname": "VFEM_SmokedMeat",
-      "price": 3
-    },
-    {
       "abr": "smokeyquartz",
       "category": "Gems",
       "defname": "KSmokeyQuartz",
@@ -18175,12 +17497,6 @@
       "price": 2
     },
     {
-      "abr": "sweetroll",
-      "category": "Foods",
-      "defname": "VFEV_Sweetroll",
-      "price": 11
-    },
-    {
       "abr": "synapticcerebellum",
       "category": "Insect",
       "defname": "VFEI_SynapticCerebellum",
@@ -18221,12 +17537,6 @@
       "category": "Production",
       "defname": "VMEu_SynthWeaver",
       "price": 2392
-    },
-    {
-      "abr": "tabard",
-      "category": "On top",
-      "defname": "VFEM_Apparel_Tabard",
-      "price": 211
     },
     {
       "abr": "table",
@@ -18565,18 +17875,6 @@
       "price": 8333
     },
     {
-      "abr": "throwabletorchbelt",
-      "category": "Utility",
-      "defname": "VFEV_Apparel_TorchBelt",
-      "price": 30
-    },
-    {
-      "abr": "throwingaxe",
-      "category": "Ranged",
-      "defname": "VFE_ThrowingAxe",
-      "price": 260
-    },
-    {
       "abr": "throwingaxes",
       "category": "Ranged",
       "defname": "Gun_ThrowingAxes",
@@ -18715,12 +18013,6 @@
       "price": 203
     },
     {
-      "abr": "top-attackatgmgungnir",
-      "category": "Ranged",
-      "defname": "ALE_ATGM",
-      "price": 2325
-    },
-    {
       "abr": "torchsword",
       "category": "Melee",
       "defname": "MeleeWeapon_TorchSword",
@@ -18743,12 +18035,6 @@
       "category": "Animal Body Part",
       "defname": "MM_ToxicBreathImplant",
       "price": 1333
-    },
-    {
-      "abr": "trainingdummy",
-      "category": "Recreation",
-      "defname": "VFEV_TrainingDummy",
-      "price": 63
     },
     {
       "abr": "traitgiver",
@@ -19267,12 +18553,6 @@
       "price": 7867
     },
     {
-      "abr": "vibrobladegladiator",
-      "category": "Melee",
-      "defname": "ALE_vibro",
-      "price": 2517
-    },
-    {
       "abr": "violetlinepiranha",
       "category": "Tropical Fish",
       "defname": "AQFishInBagFortyone",
@@ -19591,34 +18871,10 @@
       "price": 1250
     },
     {
-      "abr": "wine",
-      "category": "Drugs",
-      "defname": "VFEM_Wine",
-      "price": 33
-    },
-    {
-      "abr": "winebarrel",
-      "category": "Production",
-      "defname": "VFEM_WineBarrel",
-      "price": 69
-    },
-    {
       "abr": "wispfireimplant",
       "category": "Animal Body Part",
       "defname": "MM_WispFireImplant",
       "price": 1333
-    },
-    {
-      "abr": "wolfhound",
-      "category": "Animals",
-      "defname": "VFEV_Wolfhound",
-      "price": 583
-    },
-    {
-      "abr": "wolfhoundmeat",
-      "category": "Meat",
-      "defname": "Meat_VFEV_Wolfhound",
-      "price": 3
     },
     {
       "abr": "woodlogs",
@@ -19685,12 +18941,6 @@
       "category": "Animals",
       "defname": "WoollyMammoth",
       "price": 2500
-    },
-    {
-      "abr": "woolycow",
-      "category": "Animals",
-      "defname": "VFEV_WoolyCow",
-      "price": 767
     },
     {
       "abr": "workshopdronestation",
@@ -19871,7 +19121,1591 @@
       "category": "Items",
       "defname": "ZygolophodonTusk",
       "price": 1667
+    },
+    {
+      "abr": "fleshcraftedfoot",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedFoot",
+      "price": 75
+    },
+    {
+      "abr": "helixiengasboiler",
+      "category": "Hygiene",
+      "defname": "HelixienGasBoiler",
+      "price": 425
+    },
+    {
+      "abr": "buddhistslab(broad)",
+      "category": "Furniture",
+      "defname": "AM_BuddhistSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "buddhistslab(medium)",
+      "category": "Furniture",
+      "defname": "AM_BuddhistSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "christianslab(broad)",
+      "category": "Furniture",
+      "defname": "AM_ChristianSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "christianslab(medium)",
+      "category": "Furniture",
+      "defname": "AM_ChristianSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "corsairslab(broad)",
+      "category": "Furniture",
+      "defname": "AM_CorsairSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "corsairslab(medium)",
+      "category": "Furniture",
+      "defname": "AM_CorsairSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "crudestonetable(1x2)",
+      "category": "Furniture",
+      "defname": "AM_Neolithic_StoneTable_1x2c",
+      "price": 98
+    },
+    {
+      "abr": "crudestonetable(2x2)",
+      "category": "Furniture",
+      "defname": "AM_Neolithic_StoneTable_2x2c",
+      "price": 176
+    },
+    {
+      "abr": "crudestonetable(2x4)",
+      "category": "Furniture",
+      "defname": "AM_Neolithic_StoneTable_2x4c",
+      "price": 333
+    },
+    {
+      "abr": "crudestonetable(3x3)",
+      "category": "Furniture",
+      "defname": "AM_Neolithic_StoneTable_3x3c",
+      "price": 350
+    },
+    {
+      "abr": "crudewoodentable(1x2)",
+      "category": "Furniture",
+      "defname": "AM_Neolithic_WoodenTable_1x2c",
+      "price": 98
+    },
+    {
+      "abr": "crudewoodentable(2x2)",
+      "category": "Furniture",
+      "defname": "AM_Neolithic_WoodenTable_2x2c",
+      "price": 176
+    },
+    {
+      "abr": "crudewoodentable(2x4)",
+      "category": "Furniture",
+      "defname": "AM_Neolithic_WoodenTable_2x4c",
+      "price": 333
+    },
+    {
+      "abr": "crudewoodentable(3x3)",
+      "category": "Furniture",
+      "defname": "AM_Neolithic_WoodenTable_3x3c",
+      "price": 350
+    },
+    {
+      "abr": "islamicslab(broad)",
+      "category": "Furniture",
+      "defname": "AM_IslamicSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "islamicslab(medium)",
+      "category": "Furniture",
+      "defname": "AM_IslamicSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "jainslab(broad)",
+      "category": "Furniture",
+      "defname": "AM_JainSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "jainslab(medium)",
+      "category": "Furniture",
+      "defname": "AM_JainSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "megalith",
+      "category": "Misc",
+      "defname": "AM_Megalith",
+      "price": 3033
+    },
+    {
+      "abr": "sikhslab(broad)",
+      "category": "Furniture",
+      "defname": "AM_SikhSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "sikhslab(medium)",
+      "category": "Furniture",
+      "defname": "AM_SikhSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "stone-framedbedroll",
+      "category": "Furniture",
+      "defname": "AM_StoneBedroll",
+      "price": 159
+    },
+    {
+      "abr": "assassin",
+      "category": "Ranged",
+      "defname": "XGun_Assassin",
+      "price": 1250
+    },
+    {
+      "abr": "assassin(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_Assassin_MM",
+      "price": 1250
+    },
+    {
+      "abr": "assassin(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_Assassin_SM",
+      "price": 1250
+    },
+    {
+      "abr": "assassinmil",
+      "category": "Ranged",
+      "defname": "XGun_AssassinM",
+      "price": 633
+    },
+    {
+      "abr": "bayonet",
+      "category": "Melee",
+      "defname": "XOG_Bayonet",
+      "price": 111
+    },
+    {
+      "abr": "bellyopener",
+      "category": "Melee",
+      "defname": "FL_Tractor_MM",
+      "price": 2167
+    },
+    {
+      "abr": "bigcannon",
+      "category": "Ranged",
+      "defname": "XGun_BigCannon",
+      "price": 1833
+    },
+    {
+      "abr": "bigcannonmil",
+      "category": "Ranged",
+      "defname": "XGun_BigCannonM",
+      "price": 967
+    },
+    {
+      "abr": "biodollmeat",
+      "category": "Meat",
+      "defname": "Meat_CoreBiodollR",
+      "price": 4
+    },
+    {
+      "abr": "blackseawalkerarmor",
+      "category": "Armored",
+      "defname": "XEA_BlackSea",
+      "price": 2500
+    },
+    {
+      "abr": "blackseawalkerarmormil",
+      "category": "Armored",
+      "defname": "XEA_BlackSeaM",
+      "price": 1333
+    },
+    {
+      "abr": "blackseawalkerhelmet",
+      "category": "Armored",
+      "defname": "XEA_HBlackSea",
+      "price": 2500
+    },
+    {
+      "abr": "blackseawalkerhelmetmil",
+      "category": "Armored",
+      "defname": "XEA_HBlackSeaM",
+      "price": 1167
+    },
+    {
+      "abr": "blacksteel",
+      "category": "Items",
+      "defname": "X_BlackSteel",
+      "price": 12
+    },
+    {
+      "abr": "bladearmor",
+      "category": "Armored",
+      "defname": "XEA_Blade",
+      "price": 2000
+    },
+    {
+      "abr": "bladearmormil",
+      "category": "Armored",
+      "defname": "XEA_BladeM",
+      "price": 1000
+    },
+    {
+      "abr": "bladehood",
+      "category": "Armored",
+      "defname": "XEA_HBlade",
+      "price": 1167
+    },
+    {
+      "abr": "bladehoodmil",
+      "category": "Armored",
+      "defname": "XEA_HBladeM",
+      "price": 583
+    },
+    {
+      "abr": "bluebee",
+      "category": "Ranged",
+      "defname": "XGun_BlueBee",
+      "price": 1133
+    },
+    {
+      "abr": "bluebee(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_BlueBee_MM",
+      "price": 1133
+    },
+    {
+      "abr": "bluebee(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_BlueBee_SM",
+      "price": 1133
+    },
+    {
+      "abr": "bluebeemil",
+      "category": "Ranged",
+      "defname": "XGun_BlueBeeM",
+      "price": 567
+    },
+    {
+      "abr": "bluestararmor",
+      "category": "Armored",
+      "defname": "XEA_BlueStar",
+      "price": 2500
+    },
+    {
+      "abr": "bluestararmormil",
+      "category": "Armored",
+      "defname": "XEA_BlueStarM",
+      "price": 1250
+    },
+    {
+      "abr": "bluestarhelmet",
+      "category": "Armored",
+      "defname": "XEA_HBlueStar",
+      "price": 1500
+    },
+    {
+      "abr": "bluestarhelmetmil",
+      "category": "Armored",
+      "defname": "XEA_HBlueStarM",
+      "price": 750
+    },
+    {
+      "abr": "chainsaw",
+      "category": "Melee",
+      "defname": "AP_Chainsaw",
+      "price": 5833
+    },
+    {
+      "abr": "chargedparticleweapon",
+      "category": "Ranged",
+      "defname": "XGun_CPW",
+      "price": 2500
+    },
+    {
+      "abr": "chargedparticleweapon(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_CPW_MM",
+      "price": 2500
+    },
+    {
+      "abr": "chargedparticleweapon(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_CPW_SM",
+      "price": 2500
+    },
+    {
+      "abr": "chargedparticleweaponmilwc",
+      "category": "Ranged",
+      "defname": "XGun_CPWMWC",
+      "price": 1583
+    },
+    {
+      "abr": "cutsaber",
+      "category": "Melee",
+      "defname": "AP_CutSaber",
+      "price": 1167
+    },
+    {
+      "abr": "cutsabermil",
+      "category": "Melee",
+      "defname": "AP_CutSaberM",
+      "price": 333
+    },
+    {
+      "abr": "darkknightarmor",
+      "category": "Armored",
+      "defname": "XEA_DarkKnight",
+      "price": 8333
+    },
+    {
+      "abr": "darkknighthelmet",
+      "category": "Armored",
+      "defname": "XEA_HDarkKnight",
+      "price": 5000
+    },
+    {
+      "abr": "dbdoctorsuit",
+      "category": "Armored",
+      "defname": "XEA_Medical",
+      "price": 1333
+    },
+    {
+      "abr": "destoryer",
+      "category": "Melee",
+      "defname": "FL_Destoryer",
+      "price": 1167
+    },
+    {
+      "abr": "destoryermil",
+      "category": "Melee",
+      "defname": "FL_DestoryerM",
+      "price": 500
+    },
+    {
+      "abr": "destructiondrill",
+      "category": "Melee",
+      "defname": "FL_Destoryer_MM",
+      "price": 1167
+    },
+    {
+      "abr": "diamondboneservantcoat",
+      "category": "Armored",
+      "defname": "XLAR_DBlow",
+      "price": 617
+    },
+    {
+      "abr": "diamondboneservanthelmet",
+      "category": "Armored",
+      "defname": "XLHR_DBlow",
+      "price": 633
+    },
+    {
+      "abr": "disturber",
+      "category": "Ranged",
+      "defname": "XGun_Disturber",
+      "price": 1167
+    },
+    {
+      "abr": "disturber(emp)",
+      "category": "Ranged",
+      "defname": "XGun_Disturber_EMP",
+      "price": 1167
+    },
+    {
+      "abr": "disturber(fze)",
+      "category": "Ranged",
+      "defname": "XGun_Disturber_FZE",
+      "price": 1167
+    },
+    {
+      "abr": "disturbermil",
+      "category": "Ranged",
+      "defname": "XGun_DisturberM",
+      "price": 583
+    },
+    {
+      "abr": "dragonblade",
+      "category": "Melee",
+      "defname": "DB_DXS_MM",
+      "price": 7333
+    },
+    {
+      "abr": "dragonslayer",
+      "category": "Melee",
+      "defname": "DB_DXS",
+      "price": 7333
+    },
+    {
+      "abr": "dragonslayermil",
+      "category": "Melee",
+      "defname": "DB_DXSM",
+      "price": 1667
+    },
+    {
+      "abr": "eagleeye",
+      "category": "Ranged",
+      "defname": "XGun_EagleEye",
+      "price": 1667
+    },
+    {
+      "abr": "eagleeye(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_EagleEye_MM",
+      "price": 1667
+    },
+    {
+      "abr": "eagleeye(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_EagleEye_SM",
+      "price": 1667
+    },
+    {
+      "abr": "eagleeyemil",
+      "category": "Ranged",
+      "defname": "XGun_EagleEyeM",
+      "price": 867
+    },
+    {
+      "abr": "eclipse",
+      "category": "Ranged",
+      "defname": "XGun_Eclipse",
+      "price": 2000
+    },
+    {
+      "abr": "eclipse(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_Eclipse_MM",
+      "price": 2000
+    },
+    {
+      "abr": "eclipse(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_Eclipse_SM",
+      "price": 2000
+    },
+    {
+      "abr": "executormask",
+      "category": "Armored",
+      "defname": "XEA_HExecutor",
+      "price": 1167
+    },
+    {
+      "abr": "executormaskmil",
+      "category": "Armored",
+      "defname": "XEA_HExecutorM",
+      "price": 583
+    },
+    {
+      "abr": "executorsuit",
+      "category": "Armored",
+      "defname": "XEA_Executor",
+      "price": 2000
+    },
+    {
+      "abr": "executorsuitmil",
+      "category": "Armored",
+      "defname": "XEA_ExecutorM",
+      "price": 1000
+    },
+    {
+      "abr": "falconarmor",
+      "category": "Armored",
+      "defname": "XEA_Falcon",
+      "price": 2000
+    },
+    {
+      "abr": "falconarmormil",
+      "category": "Armored",
+      "defname": "XEA_FalconM",
+      "price": 1000
+    },
+    {
+      "abr": "falconbattleglasses",
+      "category": "Armored",
+      "defname": "XEA_HFalcon",
+      "price": 1167
+    },
+    {
+      "abr": "falconbattleglassesmil",
+      "category": "Armored",
+      "defname": "XEA_HFalconM",
+      "price": 583
+    },
+    {
+      "abr": "femaleunderwear",
+      "category": "Underwear",
+      "defname": "XEA_Underwear",
+      "price": 79
+    },
+    {
+      "abr": "fenrirarmor",
+      "category": "Armored",
+      "defname": "XEA_Fenrir",
+      "price": 8333
+    },
+    {
+      "abr": "fenrirhelmet",
+      "category": "Armored",
+      "defname": "XEA_HFenrir",
+      "price": 5000
+    },
+    {
+      "abr": "fffchefsuit",
+      "category": "Armored",
+      "defname": "XEA_Chef",
+      "price": 1333
+    },
+    {
+      "abr": "fightingknife",
+      "category": "Melee",
+      "defname": "DB_GreatSword_MM",
+      "price": 1167
+    },
+    {
+      "abr": "firebeast",
+      "category": "Ranged",
+      "defname": "XGun_FireBeast",
+      "price": 1000
+    },
+    {
+      "abr": "firebeast(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_FireBeast_MM",
+      "price": 1000
+    },
+    {
+      "abr": "firebeast(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_FireBeast_SM",
+      "price": 1000
+    },
+    {
+      "abr": "firebeastmil",
+      "category": "Ranged",
+      "defname": "XGun_FireBeastM",
+      "price": 500
+    },
+    {
+      "abr": "firefiendarmor",
+      "category": "Armored",
+      "defname": "XEA_FireFiend",
+      "price": 2167
+    },
+    {
+      "abr": "firefiendarmormil",
+      "category": "Armored",
+      "defname": "XEA_FireFiendM",
+      "price": 1083
+    },
+    {
+      "abr": "firefiendhelmet",
+      "category": "Armored",
+      "defname": "XEA_HFireFiend",
+      "price": 1333
+    },
+    {
+      "abr": "firefiendhelmetmil",
+      "category": "Armored",
+      "defname": "XEA_HFireFiendM",
+      "price": 667
+    },
+    {
+      "abr": "fireheart",
+      "category": "Items",
+      "defname": "X_FireHeart",
+      "price": 12
+    },
+    {
+      "abr": "flamelegionmechcloak",
+      "category": "Armored",
+      "defname": "XLAR_FLlow",
+      "price": 575
+    },
+    {
+      "abr": "flamelegionmechhelmet",
+      "category": "Armored",
+      "defname": "XLHR_FLlow",
+      "price": 608
+    },
+    {
+      "abr": "freewillarmor",
+      "category": "Armored",
+      "defname": "XSP_FreeWill",
+      "price": 40742
+    },
+    {
+      "abr": "freewillarmorprototype",
+      "category": "Items",
+      "defname": "XPTFW",
+      "price": 742
+    },
+    {
+      "abr": "freewillhelmet",
+      "category": "Armored",
+      "defname": "XSP_HFreeWill",
+      "price": 40742
+    },
+    {
+      "abr": "fuse",
+      "category": "Ranged",
+      "defname": "XGun_Fuse",
+      "price": 883
+    },
+    {
+      "abr": "fusemil",
+      "category": "Ranged",
+      "defname": "XGun_FuseM",
+      "price": 550
+    },
+    {
+      "abr": "giantsculpture-freewill",
+      "category": "Art",
+      "defname": "SculptureXSFW",
+      "price": 6742
+    },
+    {
+      "abr": "giantsculpture-kingofpirate",
+      "category": "Art",
+      "defname": "SculptureXSGL",
+      "price": 6742
+    },
+    {
+      "abr": "giantsculpture-phoenix",
+      "category": "Art",
+      "defname": "SculptureXSPX",
+      "price": 6742
+    },
+    {
+      "abr": "giantsculpture-wildernesslover",
+      "category": "Art",
+      "defname": "SculptureXSSA",
+      "price": 6742
+    },
+    {
+      "abr": "giantspiritarmor",
+      "category": "Armored",
+      "defname": "XEA_GiantSpirit",
+      "price": 2833
+    },
+    {
+      "abr": "giantspiritarmormil",
+      "category": "Armored",
+      "defname": "XEA_GiantSpiritM",
+      "price": 1417
+    },
+    {
+      "abr": "giantspirithelmet",
+      "category": "Armored",
+      "defname": "XEA_HGiantSpirit",
+      "price": 1667
+    },
+    {
+      "abr": "giantspirithelmetmil",
+      "category": "Armored",
+      "defname": "XEA_HGiantSpiritM",
+      "price": 833
+    },
+    {
+      "abr": "goldenlionarmor",
+      "category": "Armored",
+      "defname": "XSP_GoldenLion",
+      "price": 40742
+    },
+    {
+      "abr": "goldenlionarmorprototype",
+      "category": "Items",
+      "defname": "XPTGL",
+      "price": 742
+    },
+    {
+      "abr": "goldenlionhelmet",
+      "category": "Armored",
+      "defname": "XSP_HGoldenLion",
+      "price": 40742
+    },
+    {
+      "abr": "goodvsevil",
+      "category": "Ranged",
+      "defname": "XGun_GvE",
+      "price": 1333
+    },
+    {
+      "abr": "goodvsevil(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_GvE_MM",
+      "price": 1333
+    },
+    {
+      "abr": "goodvsevil(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_GvE_SM",
+      "price": 1333
+    },
+    {
+      "abr": "goodvsevilbm",
+      "category": "Ranged",
+      "defname": "XGun_GvEBM",
+      "price": 5000
+    },
+    {
+      "abr": "greatsword",
+      "category": "Melee",
+      "defname": "DB_GreatSword",
+      "price": 1167
+    },
+    {
+      "abr": "greatswordmil",
+      "category": "Melee",
+      "defname": "DB_GreatSwordM",
+      "price": 533
+    },
+    {
+      "abr": "hardgold",
+      "category": "Items",
+      "defname": "X_HardGold",
+      "price": 13
+    },
+    {
+      "abr": "headshot",
+      "category": "Ranged",
+      "defname": "XGun_HeadShot",
+      "price": 1667
+    },
+    {
+      "abr": "headshot(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_HeadShot_MM",
+      "price": 1667
+    },
+    {
+      "abr": "headshot(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_HeadShot_SM",
+      "price": 1667
+    },
+    {
+      "abr": "headshotmil",
+      "category": "Ranged",
+      "defname": "XGun_HeadShotM",
+      "price": 833
+    },
+    {
+      "abr": "heartseeker",
+      "category": "Ranged",
+      "defname": "XGun_HeartSeeker",
+      "price": 833
+    },
+    {
+      "abr": "heartseeker(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_HeartSeeker_MM",
+      "price": 833
+    },
+    {
+      "abr": "heartseeker(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_HeartSeeker_SM",
+      "price": 833
+    },
+    {
+      "abr": "heartseekermil",
+      "category": "Ranged",
+      "defname": "XGun_HeartSeekerM",
+      "price": 417
+    },
+    {
+      "abr": "heat",
+      "category": "Ranged",
+      "defname": "XGun_Heat",
+      "price": 1250
+    },
+    {
+      "abr": "heatmil",
+      "category": "Ranged",
+      "defname": "XGun_HeatM",
+      "price": 667
+    },
+    {
+      "abr": "highfreguencyblade",
+      "category": "Melee",
+      "defname": "XHFBlade_MEC",
+      "price": 2167
+    },
+    {
+      "abr": "highfreguencyblade",
+      "category": "Melee",
+      "defname": "XEO_HFBlade",
+      "price": 1833
+    },
+    {
+      "abr": "highfreguencyblademil",
+      "category": "Melee",
+      "defname": "XEO_HFBladeM",
+      "price": 742
+    },
+    {
+      "abr": "highfreguencytachi",
+      "category": "Melee",
+      "defname": "XEO_HFBlade_MM",
+      "price": 1833
+    },
+    {
+      "abr": "horizon",
+      "category": "Ranged",
+      "defname": "XGun_Horizon",
+      "price": 1333
+    },
+    {
+      "abr": "horizon(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_Horizon_MM",
+      "price": 1333
+    },
+    {
+      "abr": "horizon(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_Horizon_SM",
+      "price": 1333
+    },
+    {
+      "abr": "horizonmil",
+      "category": "Ranged",
+      "defname": "XGun_HorizonM",
+      "price": 667
+    },
+    {
+      "abr": "impacthammer",
+      "category": "Melee",
+      "defname": "DB_Hammer",
+      "price": 1417
+    },
+    {
+      "abr": "impacthammermil",
+      "category": "Melee",
+      "defname": "DB_HammerM",
+      "price": 750
+    },
+    {
+      "abr": "ironball",
+      "category": "Ranged",
+      "defname": "XGun_IronBall",
+      "price": 1167
+    },
+    {
+      "abr": "ironballmil",
+      "category": "Ranged",
+      "defname": "XGun_IronBallM",
+      "price": 633
+    },
+    {
+      "abr": "jadesilver",
+      "category": "Items",
+      "defname": "X_JadeSilver",
+      "price": 10
+    },
+    {
+      "abr": "jaegermarchcoat",
+      "category": "Armored",
+      "defname": "XLAR_JGlow",
+      "price": 567
+    },
+    {
+      "abr": "jaegermarchhelmet",
+      "category": "Armored",
+      "defname": "XLHR_JGlow",
+      "price": 633
+    },
+    {
+      "abr": "katana",
+      "category": "Melee",
+      "defname": "XOG_Katana",
+      "price": 442
+    },
+    {
+      "abr": "kingofblacksea",
+      "category": "Items",
+      "defname": "XFKOP",
+      "price": 742
+    },
+    {
+      "abr": "knightarmor",
+      "category": "Armored",
+      "defname": "XEA_Knight",
+      "price": 2000
+    },
+    {
+      "abr": "knightarmormil",
+      "category": "Armored",
+      "defname": "XEA_KnightM",
+      "price": 1000
+    },
+    {
+      "abr": "knighthelmet",
+      "category": "Armored",
+      "defname": "XEA_HKnight",
+      "price": 1167
+    },
+    {
+      "abr": "knighthelmetmil",
+      "category": "Armored",
+      "defname": "XEA_HKnightM",
+      "price": 583
+    },
+    {
+      "abr": "lightspear",
+      "category": "Ranged",
+      "defname": "XGun_LightSpear",
+      "price": 1833
+    },
+    {
+      "abr": "lightspearbm",
+      "category": "Ranged",
+      "defname": "XGun_LightSpearBM",
+      "price": 5000
+    },
+    {
+      "abr": "lightspearmil",
+      "category": "Ranged",
+      "defname": "XGun_LightSpearM",
+      "price": 967
+    },
+    {
+      "abr": "masterarmor",
+      "category": "Armored",
+      "defname": "XEA_Master",
+      "price": 8333
+    },
+    {
+      "abr": "masterhood",
+      "category": "Armored",
+      "defname": "XEA_HMaster",
+      "price": 5000
+    },
+    {
+      "abr": "mecharm",
+      "category": "Melee",
+      "defname": "JG_PowerPunch_MM",
+      "price": 1333
+    },
+    {
+      "abr": "meta",
+      "category": "Items",
+      "defname": "X_Meta",
+      "price": 7407408
+    },
+    {
+      "abr": "molotovexpress(one-timeweapon)",
+      "category": "Ranged",
+      "defname": "XGun_MolotovExpress",
+      "price": 1667
+    },
+    {
+      "abr": "multimolecularsteel",
+      "category": "Items",
+      "defname": "X_MPsteel",
+      "price": 17
+    },
+    {
+      "abr": "nanomeat",
+      "category": "Foods",
+      "defname": "NanoBioMeat",
+      "price": 23
+    },
+    {
+      "abr": "nanotights",
+      "category": "Skin",
+      "defname": "XEA_Tights",
+      "price": 500
+    },
+    {
+      "abr": "noblegown",
+      "category": "Royalty",
+      "defname": "XEA_Gown",
+      "price": 500
+    },
+    {
+      "abr": "oblade",
+      "category": "Melee",
+      "defname": "XEO_TheBlade",
+      "price": 74075
+    },
+    {
+      "abr": "overvoice",
+      "category": "Items",
+      "defname": "X_SawSound",
+      "price": 8
+    },
+    {
+      "abr": "overlordarmor",
+      "category": "Armored",
+      "defname": "XEA_Overlord",
+      "price": 8333
+    },
+    {
+      "abr": "overlordhelmet",
+      "category": "Armored",
+      "defname": "XEA_HOverlord",
+      "price": 5000
+    },
+    {
+      "abr": "peacemessenger",
+      "category": "Armored",
+      "defname": "XEA_Uniform",
+      "price": 1333
+    },
+    {
+      "abr": "phoenix",
+      "category": "Items",
+      "defname": "XFPhoenix",
+      "price": 742
+    },
+    {
+      "abr": "phoenixarmorprototype",
+      "category": "Items",
+      "defname": "XPTPX",
+      "price": 742
+    },
+    {
+      "abr": "phoenixcloak",
+      "category": "Armored",
+      "defname": "XSP_Phoenix",
+      "price": 40742
+    },
+    {
+      "abr": "phoenixhelmet",
+      "category": "Armored",
+      "defname": "XSP_HPhoenix",
+      "price": 40742
+    },
+    {
+      "abr": "platinum",
+      "category": "Items",
+      "defname": "X_Platinum",
+      "price": 17
+    },
+    {
+      "abr": "platinumarmor",
+      "category": "Armored",
+      "defname": "XEA_Platinum",
+      "price": 2833
+    },
+    {
+      "abr": "platinumarmormil",
+      "category": "Armored",
+      "defname": "XEA_PlatinumM",
+      "price": 1417
+    },
+    {
+      "abr": "platinumhelmet",
+      "category": "Armored",
+      "defname": "XEA_HPlatinum",
+      "price": 1667
+    },
+    {
+      "abr": "platinumhelmetmil",
+      "category": "Armored",
+      "defname": "XEA_HPlatinumM",
+      "price": 833
+    },
+    {
+      "abr": "powerpunch",
+      "category": "Melee",
+      "defname": "JG_PowerPunch",
+      "price": 1333
+    },
+    {
+      "abr": "powerpunchmil",
+      "category": "Melee",
+      "defname": "JG_PowerPunchM",
+      "price": 550
+    },
+    {
+      "abr": "powerwarhammer",
+      "category": "Melee",
+      "defname": "DB_Hammer_MM",
+      "price": 1417
+    },
+    {
+      "abr": "probe",
+      "category": "Ranged",
+      "defname": "XGun_Probe",
+      "price": 1833
+    },
+    {
+      "abr": "probe(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_Probe_MM",
+      "price": 1833
+    },
+    {
+      "abr": "probe(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_Probe_SM",
+      "price": 1833
+    },
+    {
+      "abr": "probebm",
+      "category": "Ranged",
+      "defname": "XGun_ProbeBM",
+      "price": 5000
+    },
+    {
+      "abr": "probemil",
+      "category": "Ranged",
+      "defname": "XGun_ProbeM",
+      "price": 917
+    },
+    {
+      "abr": "python",
+      "category": "Ranged",
+      "defname": "XGun_Python",
+      "price": 1500
+    },
+    {
+      "abr": "python(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_Python_MM",
+      "price": 1500
+    },
+    {
+      "abr": "python(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_Python_SM",
+      "price": 1500
+    },
+    {
+      "abr": "pythonbm",
+      "category": "Ranged",
+      "defname": "XGun_PythonBM",
+      "price": 5000
+    },
+    {
+      "abr": "pythonmil",
+      "category": "Ranged",
+      "defname": "XGun_PythonM",
+      "price": 783
+    },
+    {
+      "abr": "rainstorm",
+      "category": "Ranged",
+      "defname": "XGun_RainStorm",
+      "price": 917
+    },
+    {
+      "abr": "rainstorm(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_RainStorm_MM",
+      "price": 917
+    },
+    {
+      "abr": "rainstorm(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_RainStorm_SM",
+      "price": 917
+    },
+    {
+      "abr": "rainstormmil",
+      "category": "Ranged",
+      "defname": "XGun_RainStormM",
+      "price": 467
+    },
+    {
+      "abr": "rapid",
+      "category": "Ranged",
+      "defname": "XGun_Rapid",
+      "price": 550
+    },
+    {
+      "abr": "rapid(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_Rapid_MM",
+      "price": 550
+    },
+    {
+      "abr": "rapid(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_Rapid_SM",
+      "price": 550
+    },
+    {
+      "abr": "rapidmil",
+      "category": "Ranged",
+      "defname": "XGun_RapidM",
+      "price": 283
+    },
+    {
+      "abr": "redline",
+      "category": "Ranged",
+      "defname": "XGun_RedLine",
+      "price": 1833
+    },
+    {
+      "abr": "redline(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_RedLine_MM",
+      "price": 1833
+    },
+    {
+      "abr": "redline(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_RedLine_SM",
+      "price": 1833
+    },
+    {
+      "abr": "redlinemil",
+      "category": "Ranged",
+      "defname": "XGun_RedLineM",
+      "price": 883
+    },
+    {
+      "abr": "redstone",
+      "category": "Items",
+      "defname": "X_RedStone",
+      "price": 30
+    },
+    {
+      "abr": "redstonecrystal",
+      "category": "Items",
+      "defname": "XRSC",
+      "price": 742
+    },
+    {
+      "abr": "roar",
+      "category": "Ranged",
+      "defname": "XGun_Roar",
+      "price": 1250
+    },
+    {
+      "abr": "roar(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_Roar_MM",
+      "price": 1250
+    },
+    {
+      "abr": "roar(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_Roar_SM",
+      "price": 1250
+    },
+    {
+      "abr": "roarbm",
+      "category": "Ranged",
+      "defname": "XGun_RoarBM",
+      "price": 5000
+    },
+    {
+      "abr": "roarmil",
+      "category": "Ranged",
+      "defname": "XGun_RoarM",
+      "price": 633
+    },
+    {
+      "abr": "ruinsmaker(one-timeweapon)",
+      "category": "Ranged",
+      "defname": "XGun_16R",
+      "price": 4167
+    },
+    {
+      "abr": "sedatabaseuniform",
+      "category": "Middle",
+      "defname": "XEA_Research",
+      "price": 1333
+    },
+    {
+      "abr": "shock(one-timeweapon)",
+      "category": "Ranged",
+      "defname": "XGun_Shock",
+      "price": 3000
+    },
+    {
+      "abr": "shorts",
+      "category": "Underwear",
+      "defname": "XEA_Shorts",
+      "price": 79
+    },
+    {
+      "abr": "sightreaper(one-timeweapon)",
+      "category": "Ranged",
+      "defname": "XGun_SightReaper",
+      "price": 2500
+    },
+    {
+      "abr": "snakeandapple",
+      "category": "Items",
+      "defname": "XFSAA",
+      "price": 742
+    },
+    {
+      "abr": "songcrystal",
+      "category": "Items",
+      "defname": "X_SongCrystal",
+      "price": 20
+    },
+    {
+      "abr": "starexplorermechcloak",
+      "category": "Armored",
+      "defname": "XLAR_SElow",
+      "price": 683
+    },
+    {
+      "abr": "starexplorermechhelmet",
+      "category": "Armored",
+      "defname": "XLHR_SElow",
+      "price": 608
+    },
+    {
+      "abr": "startear",
+      "category": "Items",
+      "defname": "X_StarTear",
+      "price": 25
+    },
+    {
+      "abr": "taleofwhite",
+      "category": "Items",
+      "defname": "XFTOW",
+      "price": 742
+    },
+    {
+      "abr": "therebirth",
+      "category": "Items",
+      "defname": "XFNote",
+      "price": 742
+    },
+    {
+      "abr": "timberwolfarmor",
+      "category": "Armored",
+      "defname": "XEA_TimberWolf",
+      "price": 2500
+    },
+    {
+      "abr": "timberwolfarmormil",
+      "category": "Armored",
+      "defname": "XEA_TimberWolfM",
+      "price": 1250
+    },
+    {
+      "abr": "timberwolfhelmet",
+      "category": "Armored",
+      "defname": "XEA_HTimberWolf",
+      "price": 1500
+    },
+    {
+      "abr": "timberwolfhelmetmil",
+      "category": "Armored",
+      "defname": "XEA_HTimberWolfM",
+      "price": 750
+    },
+    {
+      "abr": "toughguy",
+      "category": "Ranged",
+      "defname": "XGun_ToughGuy",
+      "price": 1033
+    },
+    {
+      "abr": "toughguymil",
+      "category": "Ranged",
+      "defname": "XGun_ToughGuyM",
+      "price": 750
+    },
+    {
+      "abr": "tractor",
+      "category": "Melee",
+      "defname": "FL_Tractor",
+      "price": 2167
+    },
+    {
+      "abr": "tractormil",
+      "category": "Melee",
+      "defname": "FL_TractorM",
+      "price": 1000
+    },
+    {
+      "abr": "transcenderarmor",
+      "category": "Armored",
+      "defname": "XEA_Transcender",
+      "price": 8333
+    },
+    {
+      "abr": "transcenderhelmet",
+      "category": "Armored",
+      "defname": "XEA_HTranscender",
+      "price": 5000
+    },
+    {
+      "abr": "truthoffff",
+      "category": "Armored",
+      "defname": "XLHR_TFFF",
+      "price": 1200
+    },
+    {
+      "abr": "twinstararc",
+      "category": "Melee",
+      "defname": "SE_TwinStarTears_MM",
+      "price": 2500
+    },
+    {
+      "abr": "twinstartears",
+      "category": "Melee",
+      "defname": "SE_TwinStarTears",
+      "price": 2500
+    },
+    {
+      "abr": "twinstartearsmil",
+      "category": "Melee",
+      "defname": "SE_TwinStarTearsM",
+      "price": 1167
+    },
+    {
+      "abr": "valkyriearmor",
+      "category": "Armored",
+      "defname": "XEA_Valkyrie",
+      "price": 2500
+    },
+    {
+      "abr": "valkyriearmormil",
+      "category": "Armored",
+      "defname": "XEA_ValkyrieM",
+      "price": 1333
+    },
+    {
+      "abr": "valkyriehelmet",
+      "category": "Armored",
+      "defname": "XEA_HValkyrie",
+      "price": 1500
+    },
+    {
+      "abr": "valkyriehelmetmil",
+      "category": "Armored",
+      "defname": "XEA_HValkyrieM",
+      "price": 750
+    },
+    {
+      "abr": "weddingdress",
+      "category": "Royalty",
+      "defname": "XEA_Wedding",
+      "price": 1333
+    },
+    {
+      "abr": "weddingtuxedo",
+      "category": "Royalty",
+      "defname": "XEA_WeddingM",
+      "price": 1333
+    },
+    {
+      "abr": "weddingveil",
+      "category": "Royalty",
+      "defname": "XEA_HWedding",
+      "price": 500
+    },
+    {
+      "abr": "whitedwarf",
+      "category": "Ranged",
+      "defname": "XGun_WhiteDwarf",
+      "price": 750
+    },
+    {
+      "abr": "whitedwarf(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_WhiteDwarf_MM",
+      "price": 750
+    },
+    {
+      "abr": "whitedwarf(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_WhiteDwarf_SM",
+      "price": 750
+    },
+    {
+      "abr": "whitedwarfmil",
+      "category": "Ranged",
+      "defname": "XGun_WhiteDwarfM",
+      "price": 383
+    },
+    {
+      "abr": "wolfhowl",
+      "category": "Ranged",
+      "defname": "XGun_WolfHowl",
+      "price": 2500
+    },
+    {
+      "abr": "wolfhowl(meleemod)",
+      "category": "Ranged",
+      "defname": "XGun_WolfHowl_MM",
+      "price": 2500
+    },
+    {
+      "abr": "wolfhowl(shootingmod)",
+      "category": "Ranged",
+      "defname": "XGun_WolfHowl_SM",
+      "price": 2500
+    },
+    {
+      "abr": "xeocombatsuit",
+      "category": "Armored",
+      "defname": "XLAR_XEOlow",
+      "price": 575
+    },
+    {
+      "abr": "xeodancerdress",
+      "category": "Armored",
+      "defname": "XEA_Dancer",
+      "price": 1333
+    },
+    {
+      "abr": "xeoheadband",
+      "category": "Armored",
+      "defname": "XLHR_XEOlow",
+      "price": 658
+    },
+    {
+      "abr": "xfarmorpart",
+      "category": "Items",
+      "defname": "XFMArmorP",
+      "price": 83
+    },
+    {
+      "abr": "xfkeypart",
+      "category": "Items",
+      "defname": "XKeypart",
+      "price": 233
+    },
+    {
+      "abr": "xfmeleeweaponpart",
+      "category": "Items",
+      "defname": "XFMModule",
+      "price": 50
+    },
+    {
+      "abr": "xfrangeweaponpart",
+      "category": "Items",
+      "defname": "XFSModule",
+      "price": 50
+    },
+    {
+      "abr": "xftechtable",
+      "category": "Production",
+      "defname": "XFTTable",
+      "price": 4317
+    },
+    {
+      "abr": "xfweaponmodificationtable",
+      "category": "Production",
+      "defname": "XFModTable",
+      "price": 1233
     }
   ],
-  "total": 3312
+  "total": 3451
 }
